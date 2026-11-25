@@ -8,11 +8,12 @@ import PlayAudioButton from "@/components/PlayAudioButton";
 //https://stackoverflow.com/questions/44275794/how-can-one-docker-container-call-another-docker-container
 //https://stackoverflow.com/questions/76244803/how-can-i-reach-my-localhost-from-nginx-docker-container
 
-export default async function GrammarPoint({
-  params,
-}: {
-  params: { slug: string };
-}) {
+export default async function GrammarPoint(
+  props: {
+    params: Promise<{ slug: string }>;
+  }
+) {
+  const params = await props.params;
   const decodedTitle = params.slug ? decodeURIComponent(params.slug) : "";
   //const url = "http://localhost:7000/e-api/v1/grammar-details";
   //const url = "/e-api/v1/grammar-details"

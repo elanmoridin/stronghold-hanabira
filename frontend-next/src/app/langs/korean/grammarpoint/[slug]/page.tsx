@@ -7,13 +7,12 @@ import GrammarBreadcrumb from "@/components/GrammarBreadcrumb";
 //import GrammarExplanations from "@/components/GrammarExplanations";
 
 type GrammarPointProps = {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 };
 
 // Generate dynamic metadata
-export async function generateMetadata({
-  params,
-}: GrammarPointProps): Promise<Metadata> {
+export async function generateMetadata(props: GrammarPointProps): Promise<Metadata> {
+  const params = await props.params;
   const decodedTitle = params.slug ? decodeURIComponent(params.slug) : "";
 
   return {
@@ -22,7 +21,8 @@ export async function generateMetadata({
   };
 }
 
-export default async function GrammarPoint({ params }: GrammarPointProps) {
+export default async function GrammarPoint(props: GrammarPointProps) {
+  const params = await props.params;
   const decodedTitle = params.slug ? decodeURIComponent(params.slug) : "";
 
   console.log(`tshoot log:`)
@@ -34,12 +34,12 @@ export default async function GrammarPoint({ params }: GrammarPointProps) {
     : `http://localhost:8000/e-api/v1/korean/grammar-details`;
 
   //const payload = { title: decodedTitle };
-  const payload = { title: decodedTitle.replace(/-/g, "/") };    
+  const payload = { title: decodedTitle.replace(/-/g, "/") };
   // korean has lots of slashes but these are in uri converted to dash
   // so we need to revert in call to DB, so we can find the titles with slashes
   //const payload = { title: '이/가 [i/ga] (Subject markers)' };
 
-  
+
 
   console.log(`tshoot log payload:`)
   console.log(payload)

@@ -18,11 +18,12 @@ import { Metadata } from 'next';
 
 
 type GrammarPointProps = {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 };
 
 // Generate dynamic metadata
-export async function generateMetadata({ params }: GrammarPointProps): Promise<Metadata> {
+export async function generateMetadata(props: GrammarPointProps): Promise<Metadata> {
+  const params = await props.params;
   const decodedTitle = params.slug ? decodeURIComponent(params.slug) : "";
 
   return {
@@ -34,11 +35,12 @@ export async function generateMetadata({ params }: GrammarPointProps): Promise<M
 
 
 
-export default async function GrammarPoint({
-  params,
-}: {
-  params: { slug: string };
-}) {
+export default async function GrammarPoint(
+  props: {
+    params: Promise<{ slug: string }>;
+  }
+) {
+  const params = await props.params;
   const decodedTitle = params.slug ? decodeURIComponent(params.slug) : "";
 
   // slash correction workaround for Korean - uri can NOT contain slash

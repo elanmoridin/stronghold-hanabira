@@ -11,11 +11,12 @@ import PlayAudioButton from "@/components/PlayAudioButton";
 import FeaturesBanner from "@/components/FeaturesBanner";
 import GrammarBreadcrumb from "@/components/GrammarBreadcrumb";
 
-export default async function GrammarPoint({
-  params,
-}: {
-  params: { slug: string };
-}) {
+export default async function GrammarPoint(
+  props: {
+    params: Promise<{ slug: string }>;
+  }
+) {
+  const params = await props.params;
   const decodedTitle = params.slug ? decodeURIComponent(params.slug) : "";
   //const url = "http://localhost:7000/e-api/v1/grammar-details";
   //const url = "/e-api/v1/grammar-details"

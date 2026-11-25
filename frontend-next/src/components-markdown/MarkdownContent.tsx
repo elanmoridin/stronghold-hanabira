@@ -71,11 +71,10 @@ function MarkdownContent({ lang, slug }: MarkdownContentProps) {
   const fileContents = fs.readFileSync(resolvedPath, 'utf8');
 
   // Convert Markdown to HTML
-  const rawContent = marked(fileContents);
+  const rawContent = marked.parse(fileContents, { async: false });
 
   // Set up DOMPurify with jsdom
-  const window = new JSDOM('').window as unknown as Window;
-  const DOMPurifyInstance = DOMPurify(window);
+  const DOMPurifyInstance = DOMPurify(new JSDOM('').window);
 
   // Sanitize the HTML
   const content = DOMPurifyInstance.sanitize(rawContent);

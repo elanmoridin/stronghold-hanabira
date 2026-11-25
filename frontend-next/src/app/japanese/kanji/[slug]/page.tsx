@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, use } from "react";
 import ReactMarkdown from "react-markdown";
 import gfm from "remark-gfm"; // plugin to render markdown tables
 
@@ -11,7 +11,8 @@ import BlogCards from "@/components/BlogCards";
 // import 'github-markdown-css/github-markdown.css';
 import "github-markdown-css/github-markdown-light.css";
 
-const BlogPost = ({ params }: { params: { slug: string } }) => {
+const BlogPost = (props: { params: Promise<{ slug: string }> }) => {
+  const params = use(props.params);
   console.log("----------------------------------");
   console.log(params);
 

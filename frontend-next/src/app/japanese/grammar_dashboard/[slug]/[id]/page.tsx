@@ -2,7 +2,7 @@
 
 //http://localhost:3000/japanese/grammar_dashboard/JLPT_N3/10
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, use } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlayCircle } from "@fortawesome/free-solid-svg-icons";
 
@@ -34,11 +34,12 @@ type GrammarCardProps = {
   }[];
 };
 
-const GrammarDashboard = ({
-  params,
-}: {
-  params: { slug: string; id: string };
-}) => {
+const GrammarDashboard = (
+  props: {
+    params: Promise<{ slug: string; id: string }>;
+  }
+) => {
+  const params = use(props.params);
   const p_dashboardId = params.slug;
   const s_dashboardId = params.id;
 

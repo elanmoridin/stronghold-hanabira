@@ -97,8 +97,8 @@ const LearningProgress: FC<LearningProgressProps> = ({
             },
           ]}
           layout={{
-            title: "Difficulty Counts",
-            yaxis: { title: "Count" },
+            title: { text: "Difficulty Counts" }, // plotly.js 3+ dropped string titles
+            yaxis: { title: { text: "Count" } },
             autosize: true,
             height: 350, // Specify the height of the plot here
           }}

@@ -18,7 +18,8 @@ import jlpt_universal_12 from "@public/img/jlpt_universal_12.jpg";
 import jlpt_universal_13 from "@public/img/jlpt_universal_13.jpg";
 import jlpt_universal_14 from "@public/img/jlpt_universal_14.jpg";
 
-export default function Dashboard({ params }: { params: { slug: string } }) {
+export default async function Dashboard(props: { params: Promise<{ slug: string }> }) {
+  const params = await props.params;
   const p_dashboardId = params.slug;
   const dashboardCardsProps = getDashboardCardsProps(p_dashboardId || "");
   const headlineProps = getHeadlineProps(p_dashboardId || "")
