@@ -1,0 +1,25 @@
+# Contract-test target: upstream v0.3.8 images, digest-pinned (same as the Phase 0 baseline).
+# Later phases swap these for images built from this repo; verify.py must stay green.
+name: hanabira-contract
+services:
+  frontend-next:
+    image: coil/hanabira.org:frontend-next@sha256:c0dfa7a6f4fa3e6f07e5cb4589ba868b8cf2ac50c25d54f25e4b323621bc439a
+    environment:
+      REACT_APP_HOST_IP: express-db
+  express-db:
+    image: coil/hanabira.org:express-db@sha256:1e1a8dba757aa1252e06e7d35c97413475fc36ca6ef2f2efae526b5a9993e7cd
+    environment:
+      REACT_APP_HOST_IP: express-db
+  flask-dynamic-db:
+    image: coil/hanabira.org:flask-dynamic-db@sha256:e88f8ce6b0b3482293e468deac7c45b69f924ee75f41b42574c51cdf6c3799cc
+  dictionary-db:
+    image: coil/hanabira.org:dictionary-db@sha256:40c15442596efd021a4fb7f84fcb0b0f21ca557fc5e4ab2d3153ead250d13b66
+    volumes:
+      - ../../config_dummy.json:/app/config.json:ro
+  nginx:
+    image: nginx:1.28.3-alpine@sha256:a8b39bd9cf0f83869a2162827a0caf6137ddf759d50a171451b335cecc87d236
+    ports:
+      - "127.0.0.1:8888:80"
+    volumes:
+      - ../../nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    depends_on: [frontend-next, express-db, flask-dynamic-db, dictionary-db]
