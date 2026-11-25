@@ -31,7 +31,7 @@ jobs:
           cache-dependency-path: frontend-next/package-lock.json
       - run: npm ci --no-audit --no-fund
       - name: unit tests (SSRF guard)
-        run: node --no-warnings --test tests/
+        run: node --no-warnings --test 'tests/**/*.test.mts'
       - run: npm run lint
       # build first: it generates next-env.d.ts, which tsc needs for @public/* image imports
       - run: npm run build
