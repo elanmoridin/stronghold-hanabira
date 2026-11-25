@@ -1,0 +1,20 @@
+{
+ "name": "d_convert_okurigana",
+ "note": "unused by UI",
+ "request": {
+  "body": {
+   "text": "今日は学校に行きます。昨日、友達と寿司屋で晩ご飯を食べました。"
+  },
+  "method": "POST",
+  "path": "/d-api/v1/convert/okurigana"
+ },
+ "response": {
+  "body": {
+   "okurigana": "今日(きょう)は学校(がっこう)に行(い)きます。昨日(きのう)、友達(ともだち)と寿司(すし)屋(や)で晩(ばん)ご飯(はん)を食(た)べました。",
+   "original": "今日は学校に行きます。昨日、友達と寿司屋で晩ご飯を食べました。"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

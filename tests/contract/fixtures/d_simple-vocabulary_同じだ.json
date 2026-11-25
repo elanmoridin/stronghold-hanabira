@@ -1,0 +1,25 @@
+{
+ "name": "d_simple-vocabulary_同じだ",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/simple-vocabulary/%E5%90%8C%E3%81%98%E3%81%A0"
+ },
+ "response": {
+  "body": {
+   "englishTranslations": [
+    "same",
+    "identical",
+    "equal",
+    "alike",
+    "equivalent"
+   ],
+   "hiragana": "おなじ",
+   "original": "同じ"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

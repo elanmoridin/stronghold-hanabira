@@ -1,0 +1,22 @@
+{
+ "name": "d_extract-kanji",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/extract-kanji?word=%E5%AF%BF%E5%8F%B8%E5%B1%8B%E3%81%A7%E9%A3%9F%E3%81%B9%E3%82%8B"
+ },
+ "response": {
+  "body": {
+   "kanji": [
+    "寿",
+    "司",
+    "屋",
+    "食"
+   ]
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

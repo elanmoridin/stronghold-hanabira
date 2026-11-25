@@ -1,0 +1,21 @@
+{
+ "name": "d_simple-vocabulary_猫",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/simple-vocabulary/%E7%8C%AB"
+ },
+ "response": {
+  "body": {
+   "englishTranslations": [
+    "cat (esp. the domestic cat, Felis catus)"
+   ],
+   "hiragana": "ねこ",
+   "original": "猫"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

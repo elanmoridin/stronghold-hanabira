@@ -1,0 +1,17 @@
+{
+ "name": "e_grammars_N3_stag10",
+ "note": "upstream returns empty list",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/e-api/v1/grammars?p_tag=JLPT_N3&s_tag=10"
+ },
+ "response": {
+  "body": {
+   "grammars": []
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

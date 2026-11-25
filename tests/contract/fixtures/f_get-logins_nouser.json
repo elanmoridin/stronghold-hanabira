@@ -1,0 +1,15 @@
+{
+ "name": "f_get-logins_nouser",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/f-api/v1/get-logins/contractFixtureUser"
+ },
+ "response": {
+  "body": [],
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

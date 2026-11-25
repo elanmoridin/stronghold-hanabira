@@ -1,0 +1,17 @@
+{
+ "name": "f_flashcard-states_nouser",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/f-api/v1/flashcard/contractFixtureUser?collectionName=words&p_tag=JLPT_N3&s_tag=all"
+ },
+ "response": {
+  "body": {
+   "error": "Flashcard states not found"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 404
+ }
+}

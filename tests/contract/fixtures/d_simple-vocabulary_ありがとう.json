@@ -1,0 +1,22 @@
+{
+ "name": "d_simple-vocabulary_ありがとう",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/simple-vocabulary/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86"
+ },
+ "response": {
+  "body": {
+   "englishTranslations": [
+    "thank you",
+    "thanks"
+   ],
+   "hiragana": "ありがと",
+   "original": "ありがと"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

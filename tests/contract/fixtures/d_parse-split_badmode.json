@@ -1,0 +1,20 @@
+{
+ "name": "d_parse-split_badmode",
+ "note": "expect 400",
+ "request": {
+  "body": {
+   "mode": "x",
+   "text": "今日は学校に行きます。昨日、友達と寿司屋で晩ご飯を食べました。"
+  },
+  "method": "POST",
+  "path": "/d-api/v1/parse-split"
+ },
+ "response": {
+  "body": {
+   "error": "Invalid mode. Choose either 'lyrics' or 'book'."
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 400
+ }
+}

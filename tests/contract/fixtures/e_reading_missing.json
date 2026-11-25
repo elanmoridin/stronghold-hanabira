@@ -1,0 +1,17 @@
+{
+ "name": "e_reading_missing",
+ "note": "expect 404 (no readings seeded?)",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/e-api/v1/reading?key=reading_1"
+ },
+ "response": {
+  "body": {
+   "error": "Reading not found"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 404
+ }
+}

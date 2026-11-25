@@ -1,0 +1,41 @@
+{
+ "name": "d_kanji_猫",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/kanji/%E7%8C%AB"
+ },
+ "response": {
+  "body": {
+   "frequency": "1702",
+   "grade": "8",
+   "jlpt_level": "2",
+   "literal": "猫",
+   "meanings": [
+    "cat"
+   ],
+   "radicals": [
+    {
+     "type": "classical",
+     "value": "94"
+    }
+   ],
+   "readings": [
+    {
+     "type": "ja_on",
+     "value": "ビョウ"
+    },
+    {
+     "type": "ja_kun",
+     "value": "ねこ"
+    }
+   ],
+   "stroke_count": "11",
+   "unicode": "732b"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

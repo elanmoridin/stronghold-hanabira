@@ -1,0 +1,15 @@
+{
+ "name": "f_custom-videos_nouser",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/f-api/v1/custom-videos?userId=contractFixtureUser&p_tag=youtube&s_tag=all&lang=jp"
+ },
+ "response": {
+  "body": [],
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

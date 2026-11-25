@@ -1,0 +1,63 @@
+{
+ "name": "d_kanji_寿",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/kanji/%E5%AF%BF"
+ },
+ "response": {
+  "body": {
+   "frequency": "1245",
+   "grade": "8",
+   "jlpt_level": "1",
+   "literal": "寿",
+   "meanings": [
+    "longevity",
+    "congratulations",
+    "one's natural life"
+   ],
+   "radicals": [
+    {
+     "type": "classical",
+     "value": "41"
+    },
+    {
+     "type": "nelson_c",
+     "value": "4"
+    }
+   ],
+   "readings": [
+    {
+     "type": "ja_on",
+     "value": "ジュ"
+    },
+    {
+     "type": "ja_on",
+     "value": "ス"
+    },
+    {
+     "type": "ja_on",
+     "value": "シュウ"
+    },
+    {
+     "type": "ja_kun",
+     "value": "ことぶき"
+    },
+    {
+     "type": "ja_kun",
+     "value": "ことぶ.く"
+    },
+    {
+     "type": "ja_kun",
+     "value": "ことほ.ぐ"
+    }
+   ],
+   "stroke_count": "7",
+   "unicode": "5bff"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

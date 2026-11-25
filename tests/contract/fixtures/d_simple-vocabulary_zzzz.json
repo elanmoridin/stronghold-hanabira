@@ -1,0 +1,17 @@
+{
+ "name": "d_simple-vocabulary_zzzz",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/simple-vocabulary/zzzz"
+ },
+ "response": {
+  "body": {
+   "message": "Word not found"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 404
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name": "d_radical-info_empty",
+ "note": "expect 400",
+ "request": {
+  "body": {
+   "kanjiList": []
+  },
+  "method": "POST",
+  "path": "/d-api/v1/radical-info"
+ },
+ "response": {
+  "body": {
+   "error": "A non-empty array or string of kanji characters is required"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 400
+ }
+}

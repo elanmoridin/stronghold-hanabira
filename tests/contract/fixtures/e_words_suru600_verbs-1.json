@@ -1,0 +1,2364 @@
+{
+ "name": "e_words_suru600_verbs-1",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/e-api/v1/words?p_tag=suru_essential_600_verbs&s_tag=verbs-1"
+ },
+ "response": {
+  "body": {
+   "words": [
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "アクセスする_",
+       "sentence_audio": "/audio/japanese/sentences/s_アクセスする__20250209_最寄りの駅からアクセスするのが便利です.mp3",
+       "sentence_english": "It is convenient to access from the nearest station.",
+       "sentence_original": "最寄りの駅からアクセスするのが便利です。",
+       "sentence_romaji": "Moyori no eki kara akusesu suru no ga benri desu"
+      },
+      {
+       "key": "アクセスする_",
+       "sentence_audio": "/audio/japanese/sentences/s_アクセスする__20250209_このウェブサイトにアクセスするためにはパスワードが必要です.mp3",
+       "sentence_english": "You need a password to access this website.",
+       "sentence_original": "このウェブサイトにアクセスするためには、パスワードが必要です。",
+       "sentence_romaji": "Kono uebusaito ni akusesu suru tame ni wa, pasuwādo ga hitsuyou desu"
+      },
+      {
+       "key": "アクセスする_",
+       "sentence_audio": "/audio/japanese/sentences/s_アクセスする__20250209_田中さんによるとそのデータには管理者権限でアクセスする必要があります.mp3",
+       "sentence_english": "According to Mr. Tanaka, you need administrator privileges to access that data.",
+       "sentence_original": "田中さんによると、そのデータには管理者権限でアクセスする必要があります。",
+       "sentence_romaji": "Tanaka-san ni yoru to, sono dēta ni wa kanrisha kengen de akusesu suru hitsuyou ga arimasu"
+      },
+      {
+       "key": "アクセスする_",
+       "sentence_audio": "/audio/japanese/sentences/s_アクセスする__20250209_道路が混雑しているので電車でアクセスする方が速いでしょう.mp3",
+       "sentence_english": "Since the roads are congested, it might be faster to access by train.",
+       "sentence_original": "道路が混雑しているので、電車でアクセスする方が速いでしょう。",
+       "sentence_romaji": "Douro ga konzatsu shite iru node, densha de akusesu suru hou ga hayai deshou"
+      },
+      {
+       "key": "アクセスする_",
+       "sentence_audio": "/audio/japanese/sentences/s_アクセスする__20250209_公共のPCから個人情報を扱うウェブサイトにアクセスするのは避けましょう.mp3",
+       "sentence_english": "Avoid accessing websites that handle personal information from public computers.",
+       "sentence_original": "公共のPCから個人情報を扱うウェブサイトにアクセスするのは避けましょう。",
+       "sentence_romaji": "Koukyou no PC kara kojin jouhou o atsukau uebusaito ni akusesu suru no wa sakemashou"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_アクセスする.mp3",
+     "vocabulary_english": "to access (IT related)",
+     "vocabulary_original": "アクセスする_",
+     "vocabulary_simplified": "アクセスする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "開発する_",
+       "sentence_audio": "/audio/japanese/sentences/s_開発する__20250209_新しい技術を開発するのに多くの時間がかかります.mp3",
+       "sentence_english": "It takes a lot of time to develop new technologies.",
+       "sentence_original": "新しい技術を開発するのに多くの時間がかかります。",
+       "sentence_romaji": "Atarashii gijutsu o kaihatsu suru noni ōku no jikan ga kakarimasu"
+      },
+      {
+       "key": "開発する_",
+       "sentence_audio": "/audio/japanese/sentences/s_開発する__20250209_その会社は新製品の開発を進めている.mp3",
+       "sentence_english": "The company is working on the development of new products.",
+       "sentence_original": "その会社は新製品の開発を進めている。",
+       "sentence_romaji": "Sono kaisha wa shinseihin no kaihatsu o susumete iru"
+      },
+      {
+       "key": "開発する_",
+       "sentence_audio": "/audio/japanese/sentences/s_開発する__20250209_この地域は急速に開発されている.mp3",
+       "sentence_english": "This area is being rapidly developed.",
+       "sentence_original": "この地域は急速に開発されている。",
+       "sentence_romaji": "Kono chiiki wa kyuusoku ni kaihatsu sarete iru"
+      },
+      {
+       "key": "開発する_",
+       "sentence_audio": "/audio/japanese/sentences/s_開発する__20250209_彼は人工知能を開発するために努力している.mp3",
+       "sentence_english": "He is working hard to develop artificial intelligence.",
+       "sentence_original": "彼は人工知能を開発するために努力している。",
+       "sentence_romaji": "Kare wa jinkou chinou o kaihatsu suru tame ni doryoku shite iru"
+      },
+      {
+       "key": "開発する_",
+       "sentence_audio": "/audio/japanese/sentences/s_開発する__20250209_医学者たちは新しい治療法を開発するために研究を続けています.mp3",
+       "sentence_english": "Medical scientists continue to research in order to develop new treatments.",
+       "sentence_original": "医学者たちは新しい治療法を開発するために研究を続けています。",
+       "sentence_romaji": "Igakusha-tachi wa atarashii chiryouhou o kaihatsu suru tame ni kenkyuu o tsuzukete imasu"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_開発する.mp3",
+     "vocabulary_english": "to develop, to exploit",
+     "vocabulary_original": "開発する_",
+     "vocabulary_simplified": "かいはつする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "交換する_",
+       "sentence_audio": "/audio/japanese/sentences/s_交換する__20250209_彼女とメールアドレスを交換した.mp3",
+       "sentence_english": "I exchanged email addresses with her.",
+       "sentence_original": "彼女とメールアドレスを交換した。",
+       "sentence_romaji": "Kanojo to me-ru adoresu o koukan shita"
+      },
+      {
+       "key": "交換する_",
+       "sentence_audio": "/audio/japanese/sentences/s_交換する__20250209_切手収集家たちは切手を交換することがよくあります.mp3",
+       "sentence_english": "Stamp collectors often exchange stamps.",
+       "sentence_original": "切手収集家たちは切手を交換することがよくあります。",
+       "sentence_romaji": "Kitte shuushuuka-tachi wa kitte o koukan suru koto ga yoku arimasu"
+      },
+      {
+       "key": "交換する_",
+       "sentence_audio": "/audio/japanese/sentences/s_交換する__20250209_外国語を学習するために言語交換パートナーを見つけることが有益です.mp3",
+       "sentence_english": "It is beneficial to find a language exchange partner to learn a foreign language.",
+       "sentence_original": "外国語を学習するために、言語交換パートナーを見つけることが有益です。",
+       "sentence_romaji": "Gaikokugo o gakushuu suru tame ni, gengo koukan pa-tona- o mitsukeru koto ga yuueki desu"
+      },
+      {
+       "key": "交換する_",
+       "sentence_audio": "/audio/japanese/sentences/s_交換する__20250209_商品が故障していたため新しいものと交換してもらいました.mp3",
+       "sentence_english": "I had the product exchanged for a new one because it was faulty.",
+       "sentence_original": "商品が故障していたため、新しいものと交換してもらいました。",
+       "sentence_romaji": "Shouhin ga koshou shiteita tame, atarashii mono to koukan shite moraimashita"
+      },
+      {
+       "key": "交換する_",
+       "sentence_audio": "/audio/japanese/sentences/s_交換する__20250209_現金とクーポンを交換することはできません.mp3",
+       "sentence_english": "You cannot exchange cash for coupons.",
+       "sentence_original": "現金とクーポンを交換することはできません。",
+       "sentence_romaji": "Genkin to ku-pon o koukan suru koto wa dekimasen"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_交換する.mp3",
+     "vocabulary_english": "to exchange",
+     "vocabulary_original": "交換する_",
+     "vocabulary_simplified": "こうかんする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "退院する_",
+       "sentence_audio": "/audio/japanese/sentences/s_退院する__20250209_病気がよくなって明日ついに退院する.mp3",
+       "sentence_english": "My illness has improved, and I'm finally being discharged from the hospital tomorrow.",
+       "sentence_original": "病気がよくなって、明日ついに退院する。",
+       "sentence_romaji": "Byouki ga yoku natte, ashita tsuini taiin suru."
+      },
+      {
+       "key": "退院する_",
+       "sentence_audio": "/audio/japanese/sentences/s_退院する__20250209_彼は一週間後に退院する予定だ.mp3",
+       "sentence_english": "He is scheduled to be discharged from the hospital a week later.",
+       "sentence_original": "彼は一週間後に退院する予定だ。",
+       "sentence_romaji": "Kare wa isshuukan-go ni taiin suru yotei da."
+      },
+      {
+       "key": "退院する_",
+       "sentence_audio": "/audio/japanese/sentences/s_退院する__20250209_医師の許可が出たため今日退院することになった.mp3",
+       "sentence_english": "Due to the doctor's approval, it was decided that I would be discharged from the hospital today.",
+       "sentence_original": "医師の許可が出たため、今日退院することになった。",
+       "sentence_romaji": "Ishi no kyoka ga deta tame, kyou taiin suru koto ni natta."
+      },
+      {
+       "key": "退院する_",
+       "sentence_audio": "/audio/japanese/sentences/s_退院する__20250209_退院する前に看護師にお礼を言っておきましょう.mp3",
+       "sentence_english": "Before being discharged from the hospital, let's thank the nurse.",
+       "sentence_original": "退院する前に、看護師にお礼を言っておきましょう。",
+       "sentence_romaji": "Taiin suru mae ni, kangoshi ni orei o itte okimashou."
+      },
+      {
+       "key": "退院する_",
+       "sentence_audio": "/audio/japanese/sentences/s_退院する__20250209_母は来週月曜日に退院することが決まりました.mp3",
+       "sentence_english": "It has been decided that my mother will be discharged from the hospital next Monday.",
+       "sentence_original": "母は来週月曜日に退院することが決まりました。",
+       "sentence_romaji": "Haha wa raishuu getsuyoubi ni taiin suru koto ga kimarimashita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_退院する.mp3",
+     "vocabulary_english": "to be released from a hospital",
+     "vocabulary_original": "退院する_",
+     "vocabulary_simplified": "たいいんする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "休憩する_",
+       "sentence_audio": "/audio/japanese/sentences/s_休憩する__20250209_仕事の合間に休憩することが必要です.mp3",
+       "sentence_english": "It is necessary to take a break between work.",
+       "sentence_original": "仕事の合間に休憩することが必要です。",
+       "sentence_romaji": "Shigoto no aima ni kyuukei suru koto ga hitsuyou desu"
+      },
+      {
+       "key": "休憩する_",
+       "sentence_audio": "/audio/japanese/sentences/s_休憩する__20250209_長時間運転した後で休憩することをお勧めします.mp3",
+       "sentence_english": "It is recommended to take a break after driving for a long time.",
+       "sentence_original": "長時間運転した後で、休憩することをお勧めします。",
+       "sentence_romaji": "Nagan jikan unten shita ato de, kyuukei suru koto o osusume shimasu"
+      },
+      {
+       "key": "休憩する_",
+       "sentence_audio": "/audio/japanese/sentences/s_休憩する__20250209_勉強しすぎたので少し休憩することにしました.mp3",
+       "sentence_english": "I decided to take a short break because I studied too much.",
+       "sentence_original": "勉強しすぎたので、少し休憩することにしました。",
+       "sentence_romaji": "Benkyou shisugita node, sukoshi kyuukei suru koto ni shimashita"
+      },
+      {
+       "key": "休憩する_",
+       "sentence_audio": "/audio/japanese/sentences/s_休憩する__20250209_ミーティングの途中で皆で10分間休憩しましょう.mp3",
+       "sentence_english": "Let's take a 10-minute break together in the middle of the meeting.",
+       "sentence_original": "ミーティングの途中で、皆で10分間休憩しましょう。",
+       "sentence_romaji": "Miitingu no tochuu de, minna de juppun-kan kyuukei shimashou"
+      },
+      {
+       "key": "休憩する_",
+       "sentence_audio": "/audio/japanese/sentences/s_休憩する__20250209_１時間歩いた後ベンチで休憩しました.mp3",
+       "sentence_english": "I took a break on a bench after walking for an hour.",
+       "sentence_original": "１時間歩いた後、ベンチで休憩しました。",
+       "sentence_romaji": "Ichi jikan aruita ato, benchi de kyuukei shimashita"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_休憩する.mp3",
+     "vocabulary_english": "to rest, to take a break",
+     "vocabulary_original": "休憩する_",
+     "vocabulary_simplified": "きゅうけいする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "平均する_",
+       "sentence_audio": "/audio/japanese/sentences/s_平均する__20250209_その試験では平均すると点数は70点になります.mp3",
+       "sentence_english": "The average score for that exam is 70 points.",
+       "sentence_original": "その試験では、平均すると点数は70点になります。",
+       "sentence_romaji": "Sono shiken de wa, heikin suru to tensuu wa nanajuu ten ni narimasu"
+      },
+      {
+       "key": "平均する_",
+       "sentence_audio": "/audio/japanese/sentences/s_平均する__20250209_この地域では気温は年間を通して平均すると20度になります.mp3",
+       "sentence_english": "In this area, the temperature averages 20 degrees throughout the year.",
+       "sentence_original": "この地域では、気温は年間を通して平均すると20度になります。",
+       "sentence_romaji": "Kono chiiki de wa, kion wa nenkan o tooshite heikin suru to nijuu do ni narimasu"
+      },
+      {
+       "key": "平均する_",
+       "sentence_audio": "/audio/japanese/sentences/s_平均する__20250209_日本の世帯年収は約500万円に平均しています.mp3",
+       "sentence_english": "The average annual household income in Japan is around 5 million yen.",
+       "sentence_original": "日本の世帯年収は約500万円に平均しています。",
+       "sentence_romaji": "Nihon no setai nenshuu wa yaku gohyaku man en ni heikin shite imasu"
+      },
+      {
+       "key": "平均する_",
+       "sentence_audio": "/audio/japanese/sentences/s_平均する__20250209_私の通勤時間はだいたい45分に平均しています.mp3",
+       "sentence_english": "My average commuting time is about 45 minutes.",
+       "sentence_original": "私の通勤時間は、だいたい45分に平均しています。",
+       "sentence_romaji": "Watashi no tsuukin jikan wa, daitai yonjuu go fun ni heikin shite imasu"
+      },
+      {
+       "key": "平均する_",
+       "sentence_audio": "/audio/japanese/sentences/s_平均する__20250209_参加者の年齢はおおよそ30歳に平均しています.mp3",
+       "sentence_english": "The average age of the participants is around 30 years old.",
+       "sentence_original": "参加者の年齢はおおよそ30歳に平均しています。",
+       "sentence_romaji": "Sankasha no nenrei wa ooyoso sanjuu sai ni heikin shite imasu"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_平均する.mp3",
+     "vocabulary_english": "to average, to balance",
+     "vocabulary_original": "平均する_",
+     "vocabulary_simplified": "へいきんする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "注意する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注意する__20250209_注意することで問題を避けることができます.mp3",
+       "sentence_english": "By paying attention, you can avoid problems.",
+       "sentence_original": "注意することで、問題を避けることができます。",
+       "sentence_romaji": "Chuui suru koto de, mondai o yokeru koto ga dekimasu"
+      },
+      {
+       "key": "注意する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注意する__20250209_大切な物をなくさないように注意する必要があります.mp3",
+       "sentence_english": "You need to be careful not to lose important things.",
+       "sentence_original": "大切な物をなくさないように、注意する必要があります。",
+       "sentence_romaji": "Taisetsu na mono o nakusanai you ni, chuui suru hitsuyou ga arimasu"
+      },
+      {
+       "key": "注意する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注意する__20250209_交通事故を避けるために運転中は注意する必要があります.mp3",
+       "sentence_english": "In order to avoid traffic accidents, you need to be careful while driving.",
+       "sentence_original": "交通事故を避けるために、運転中は注意する必要があります。",
+       "sentence_romaji": "Koutsuu jiko o yokeru tame ni, unten-chuu wa chuui suru hitsuyou ga arimasu"
+      },
+      {
+       "key": "注意する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注意する__20250209_高いところで働く際は落下に注意することが重要です.mp3",
+       "sentence_english": "When working at high places, it is important to be careful of falling.",
+       "sentence_original": "高いところで働く際は、落下に注意することが重要です。",
+       "sentence_romaji": "Takai tokoro de hataraku sai wa, rakka ni chuui suru koto ga juuyou desu"
+      },
+      {
+       "key": "注意する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注意する__20250209_健康のために食事に注意することが大切です.mp3",
+       "sentence_english": "It is important to be mindful of your diet for the sake of your health.",
+       "sentence_original": "健康のために、食事に注意することが大切です。",
+       "sentence_romaji": "Kenkou no tame ni, shokuji ni chuui suru koto ga taisetsu desu"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_注意する.mp3",
+     "vocabulary_english": "to be careful of, to pay attention to",
+     "vocabulary_original": "注意する_",
+     "vocabulary_simplified": "ちゅういする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "説明する_",
+       "sentence_audio": "/audio/japanese/sentences/s_説明する__20250209_その問題について説明する必要があります.mp3",
+       "sentence_english": "It is necessary to explain about that problem.",
+       "sentence_original": "その問題について説明する必要があります。",
+       "sentence_romaji": "Sono mondai ni tsuite setsumei suru hitsuyou ga arimasu"
+      },
+      {
+       "key": "説明する_",
+       "sentence_audio": "/audio/japanese/sentences/s_説明する__20250209_私はその方法を説明することができます.mp3",
+       "sentence_english": "I can explain that method.",
+       "sentence_original": "私はその方法を説明することができます。",
+       "sentence_romaji": "Watashi wa sono houhou o setsumei suru koto ga dekimasu"
+      },
+      {
+       "key": "説明する_",
+       "sentence_audio": "/audio/japanese/sentences/s_説明する__20250209_彼女はその計画を説明するために訪問した.mp3",
+       "sentence_english": "She visited to explain the plan.",
+       "sentence_original": "彼女はその計画を説明するために訪問した。",
+       "sentence_romaji": "Kanojo wa sono keikaku o setsumei suru tame ni houmon shita"
+      },
+      {
+       "key": "説明する_",
+       "sentence_audio": "/audio/japanese/sentences/s_説明する__20250209_あなたが私にこの言葉の意味を説明してください.mp3",
+       "sentence_english": "Please explain the meaning of this word to me.",
+       "sentence_original": "あなたが私にこの言葉の意味を説明してください。",
+       "sentence_romaji": "Anata ga watashi ni kono kotoba no imi o setsumei shite kudasai"
+      },
+      {
+       "key": "説明する_",
+       "sentence_audio": "/audio/japanese/sentences/s_説明する__20250209_もっと詳しく説明することができますか.mp3",
+       "sentence_english": "Can you explain more in detail?",
+       "sentence_original": "もっと詳しく説明することができますか？",
+       "sentence_romaji": "Motto kuwashiku setsumei suru koto ga dekimasu ka?"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_説明する.mp3",
+     "vocabulary_english": "to explain",
+     "vocabulary_original": "説明する_",
+     "vocabulary_simplified": "せつめいする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "破壊する_",
+       "sentence_audio": "/audio/japanese/sentences/s_破壊する__20250209_彼は怒って壁に穴を開けるほど力で破壊した.mp3",
+       "sentence_english": "He was so angry that he destroyed the wall with enough force to make a hole in it.",
+       "sentence_original": "彼は怒って壁に穴を開けるほど力で破壊した。",
+       "sentence_romaji": "Kare wa okotte kabe ni ana wo akeru hodo chikara de hakai shita."
+      },
+      {
+       "key": "破壊する_",
+       "sentence_audio": "/audio/japanese/sentences/s_破壊する__20250209_森林を破壊することは地球温暖化に悪影響を与える.mp3",
+       "sentence_english": "Destroying forests has a negative impact on global warming.",
+       "sentence_original": "森林を破壊することは地球温暖化に悪影響を与える。",
+       "sentence_romaji": "Shinrin wo hakai suru koto wa chikyuu ondanka ni akueikyou wo ataeru."
+      },
+      {
+       "key": "破壊する_",
+       "sentence_audio": "/audio/japanese/sentences/s_破壊する__20250209_私達は自然環境を破壊することをやめなければならない.mp3",
+       "sentence_english": "We must stop destroying the natural environment.",
+       "sentence_original": "私達は自然環境を破壊することをやめなければならない。",
+       "sentence_romaji": "Watashitachi wa shizen kankyou wo hakai suru koto wo yamenakereba naranai."
+      },
+      {
+       "key": "破壊する_",
+       "sentence_audio": "/audio/japanese/sentences/s_破壊する__20250209_その台風は日本の多くの家を破壊しました.mp3",
+       "sentence_english": "The typhoon destroyed many houses in Japan.",
+       "sentence_original": "その台風は日本の多くの家を破壊しました。",
+       "sentence_romaji": "Sono taifuu wa Nihon no ooku no ie wo hakai shimashita."
+      },
+      {
+       "key": "破壊する_",
+       "sentence_audio": "/audio/japanese/sentences/s_破壊する__20250209_ウイルスは皆の健康にも経済にも大きな破壊を引き起こしました.mp3",
+       "sentence_english": "The virus caused great destruction to both people's health and the economy.",
+       "sentence_original": "ウイルスは皆の健康にも経済にも大きな破壊を引き起こしました。",
+       "sentence_romaji": "Uirusu wa minna no kenkou ni mo keizai ni mo ookina hakai wo hikiokoshimashita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_破壊する.mp3",
+     "vocabulary_english": "to destroy, to break, to ruin",
+     "vocabulary_original": "破壊する_",
+     "vocabulary_simplified": "はかいする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "当選する_",
+       "sentence_audio": "/audio/japanese/sentences/s_当選する__20250209_彼は選挙で当選する見込みが高い.mp3",
+       "sentence_english": "He has a high chance of winning the election.",
+       "sentence_original": "彼は選挙で当選する見込みが高い。",
+       "sentence_romaji": "Kare wa senkyo de tōsen suru mikomi ga takai."
+      },
+      {
+       "key": "当選する_",
+       "sentence_audio": "/audio/japanese/sentences/s_当選する__20250209_当選したらどんな政策を実行しますか.mp3",
+       "sentence_english": "If you get elected, what policies will you implement?",
+       "sentence_original": "当選したら、どんな政策を実行しますか？",
+       "sentence_romaji": "Tōsen shitara, donna seisaku o jikkō shimasu ka?"
+      },
+      {
+       "key": "当選する_",
+       "sentence_audio": "/audio/japanese/sentences/s_当選する__20250209_くじに当選する確率はかなり低いです.mp3",
+       "sentence_english": "The odds of winning the lottery are quite low.",
+       "sentence_original": "くじに当選する確率はかなり低いです。",
+       "sentence_romaji": "Kuji ni tōsen suru kakuritsu wa kanari hikui desu."
+      },
+      {
+       "key": "当選する_",
+       "sentence_audio": "/audio/japanese/sentences/s_当選する__20250209_彼女は大統領選挙で当選するために猛烈な選挙運動を行った.mp3",
+       "sentence_english": "She campaigned fiercely to win the presidential election.",
+       "sentence_original": "彼女は大統領選挙で当選するために猛烈な選挙運動を行った。",
+       "sentence_romaji": "Kanojo wa daitōryō senkyo de tōsen suru tame ni mōretsu na senkyo undō o okonatta."
+      },
+      {
+       "key": "当選する_",
+       "sentence_audio": "/audio/japanese/sentences/s_当選する__20250209_この番組の抽選で２人が豪華旅行に当選する.mp3",
+       "sentence_english": "Two people will win a luxurious trip in the drawing of this program.",
+       "sentence_original": "この番組の抽選で２人が豪華旅行に当選する。",
+       "sentence_romaji": "Kono bangumi no chūsen de futari ga gōka ryokō ni tōsen suru."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_当選する.mp3",
+     "vocabulary_english": "to be elected",
+     "vocabulary_original": "当選する_",
+     "vocabulary_simplified": "当せんする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "キックする_",
+       "sentence_audio": "/audio/japanese/sentences/s_キックする__20250209_彼はボールを強くキックした.mp3",
+       "sentence_english": "He kicked the ball hard.",
+       "sentence_original": "彼はボールを強くキックした。",
+       "sentence_romaji": "Kare wa booru o tsuyoku kikku shita."
+      },
+      {
+       "key": "キックする_",
+       "sentence_audio": "/audio/japanese/sentences/s_キックする__20250209_ゴールに向かってボールをキックする瞬間は緊張する.mp3",
+       "sentence_english": "Kicking the ball towards the goal makes me nervous.",
+       "sentence_original": "ゴールに向かってボールをキックする瞬間は緊張する。",
+       "sentence_romaji": "Gooru ni mukatte booru o kikku suru shunkan wa kinchou suru."
+      },
+      {
+       "key": "キックする_",
+       "sentence_audio": "/audio/japanese/sentences/s_キックする__20250209_サッカーの試合で正確なキックができなくてチームが負けてしまった.mp3",
+       "sentence_english": "At the soccer game, I couldn't make an accurate kick, and my team lost.",
+       "sentence_original": "サッカーの試合で正確なキックができなくて、チームが負けてしまった。",
+       "sentence_romaji": "Sakkaa no shiai de seikaku na kikku ga dekinakute, chiimu ga makete shimatta."
+      },
+      {
+       "key": "キックする_",
+       "sentence_audio": "/audio/japanese/sentences/s_キックする__20250209_練習中のキックが想定外のハイパフォーマンスを発揮した.mp3",
+       "sentence_english": "The kick during practice demonstrated an unexpectedly high performance.",
+       "sentence_original": "練習中のキックが想定外のハイパフォーマンスを発揮した。",
+       "sentence_romaji": "Renshuu-chuu no kikku ga souteigai no haipaafuumansu o hakki shita."
+      },
+      {
+       "key": "キックする_",
+       "sentence_audio": "/audio/japanese/sentences/s_キックする__20250209_彼女は遠くへボールをキックする術を習得した.mp3",
+       "sentence_english": "She learned the skill of kicking the ball far away.",
+       "sentence_original": "彼女は遠くへボールをキックする術を習得した。",
+       "sentence_romaji": "Kanojo wa tooku e booru o kikku suru sube o shuutoku shita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_キックする.mp3",
+     "vocabulary_english": "to kick",
+     "vocabulary_original": "キックする_",
+     "vocabulary_simplified": "キックする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "忠告する_",
+       "sentence_audio": "/audio/japanese/sentences/s_忠告する__20250209_友人が私に彼氏についての忠告をした.mp3",
+       "sentence_english": "My friend advised me about my boyfriend.",
+       "sentence_original": "友人が私に彼氏についての忠告をした。",
+       "sentence_romaji": "Yuujin ga watashi ni kareshi ni tsuite no chuukoku o shita."
+      },
+      {
+       "key": "忠告する_",
+       "sentence_audio": "/audio/japanese/sentences/s_忠告する__20250209_上司に仕事の進め方に関して忠告されました.mp3",
+       "sentence_english": "My boss advised me on how to proceed with my work.",
+       "sentence_original": "上司に、仕事の進め方に関して忠告されました。",
+       "sentence_romaji": "Joushi ni, shigoto no susumekata ni kanshite chuukoku saremashita."
+      },
+      {
+       "key": "忠告する_",
+       "sentence_audio": "/audio/japanese/sentences/s_忠告する__20250209_先生は生徒に勉強の取り組み方を忠告した.mp3",
+       "sentence_english": "The teacher advised the students on how to approach their studies.",
+       "sentence_original": "先生は生徒に勉強の取り組み方を忠告した。",
+       "sentence_romaji": "Sensei wa seito ni benkyou no torikumikata o chuukoku shita."
+      },
+      {
+       "key": "忠告する_",
+       "sentence_audio": "/audio/japanese/sentences/s_忠告する__20250209_同僚が無理をしないようにと忠告してくれた.mp3",
+       "sentence_english": "My colleague advised me not to overdo it.",
+       "sentence_original": "同僚が、無理をしないようにと忠告してくれた。",
+       "sentence_romaji": "Douryou ga, muri o shinai you ni to chuukoku shite kureta."
+      },
+      {
+       "key": "忠告する_",
+       "sentence_audio": "/audio/japanese/sentences/s_忠告する__20250209_彼はその件について父親から忠告を受けた.mp3",
+       "sentence_english": "He received advice from his father about that matter.",
+       "sentence_original": "彼はその件について父親から忠告を受けた。",
+       "sentence_romaji": "Kare wa sono ken ni tsuite chichioya kara chuukoku o uketa."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_忠告する.mp3",
+     "vocabulary_english": "to warn",
+     "vocabulary_original": "忠告する_",
+     "vocabulary_simplified": "ちゅうこくする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "決心する_",
+       "sentence_audio": "/audio/japanese/sentences/s_決心する__20250209_新しい仕事に挑戦する決心を固めた.mp3",
+       "sentence_english": "I made up my mind to take on a new job challenge.",
+       "sentence_original": "新しい仕事に挑戦する決心を固めた。",
+       "sentence_romaji": "Atarashii shigoto ni chousen suru kesshin o katameta"
+      },
+      {
+       "key": "決心する_",
+       "sentence_audio": "/audio/japanese/sentences/s_決心する__20250209_彼女はダイエットを始めると決心しました.mp3",
+       "sentence_english": "She decided to start dieting.",
+       "sentence_original": "彼女はダイエットを始めると決心しました。",
+       "sentence_romaji": "Kanojo wa daietto o hajimeru to kesshin shimashita"
+      },
+      {
+       "key": "決心する_",
+       "sentence_audio": "/audio/japanese/sentences/s_決心する__20250209_君が大学に入る決心をしたのは素晴らしいことだ.mp3",
+       "sentence_english": "It's great that you've made up your mind to enter university.",
+       "sentence_original": "君が大学に入る決心をしたのは素晴らしいことだ。",
+       "sentence_romaji": "Kimi ga daigaku ni hairu kesshin o shita no wa subarashii koto da"
+      },
+      {
+       "key": "決心する_",
+       "sentence_audio": "/audio/japanese/sentences/s_決心する__20250209_彼はチームのために最善を尽くすことを決心しました.mp3",
+       "sentence_english": "He made up his mind to do his best for the team.",
+       "sentence_original": "彼はチームのために最善を尽くすことを決心しました。",
+       "sentence_romaji": "Kare wa chiimu no tame ni saizen o tsukusu koto o kesshin shimashita"
+      },
+      {
+       "key": "決心する_",
+       "sentence_audio": "/audio/japanese/sentences/s_決心する__20250209_私たちは海外旅行を諦める決心をしました.mp3",
+       "sentence_english": "We decided to give up on our overseas trip.",
+       "sentence_original": "私たちは海外旅行を諦める決心をしました。",
+       "sentence_romaji": "Watashitachi wa kaigai ryokou o akirameru kesshin o shimashita"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_決心する.mp3",
+     "vocabulary_english": "to decide, to make up one's mind",
+     "vocabulary_original": "決心する_",
+     "vocabulary_simplified": "けっしんする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "変化する_",
+       "sentence_audio": "/audio/japanese/sentences/s_変化する__20250209_気候が変化することで農作物に影響が出ることがある.mp3",
+       "sentence_english": "Changes in climate can affect crops.",
+       "sentence_original": "気候が変化することで、農作物に影響が出ることがある。",
+       "sentence_romaji": "Kikou ga henka suru koto de, nousakumotsu ni eikyou ga deru koto ga aru."
+      },
+      {
+       "key": "変化する_",
+       "sentence_audio": "/audio/japanese/sentences/s_変化する__20250209_彼の態度が急に変化することに驚いた.mp3",
+       "sentence_english": "I was surprised by the sudden change in his attitude.",
+       "sentence_original": "彼の態度が急に変化することに驚いた。",
+       "sentence_romaji": "Kare no taido ga kyuu ni henka suru koto ni odoroita."
+      },
+      {
+       "key": "変化する_",
+       "sentence_audio": "/audio/japanese/sentences/s_変化する__20250209_技術の進歩によって働き方が大きく変化するでしょう.mp3",
+       "sentence_english": "Advances in technology will likely cause significant changes in the way we work.",
+       "sentence_original": "技術の進歩によって、働き方が大きく変化するでしょう。",
+       "sentence_romaji": "Gijutsu no shinpo ni yotte, hatarakikata ga ookiku henka suru deshou."
+      },
+      {
+       "key": "変化する_",
+       "sentence_audio": "/audio/japanese/sentences/s_変化する__20250209_この地域の風景は季節によって変化する.mp3",
+       "sentence_english": "The scenery of this area changes with the seasons.",
+       "sentence_original": "この地域の風景は、季節によって変化する。",
+       "sentence_romaji": "Kono chiiki no fuukei wa, kisetsu ni yotte henka suru."
+      },
+      {
+       "key": "変化する_",
+       "sentence_audio": "/audio/japanese/sentences/s_変化する__20250209_彼女は変化するファッション業界について常に学んでいる.mp3",
+       "sentence_english": "She is always learning about the ever-changing fashion industry.",
+       "sentence_original": "彼女は変化するファッション業界について常に学んでいる。",
+       "sentence_romaji": "Kanojo wa henka suru fasshon gyoukai ni tsuite tsune ni manande iru."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_変化する.mp3",
+     "vocabulary_english": "to change, to alter, to be transformed",
+     "vocabulary_original": "変化する_",
+     "vocabulary_simplified": "へんかする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "開拓する_",
+       "sentence_audio": "/audio/japanese/sentences/s_開拓する__20250209_新しい分野を開拓することで会社が成長する.mp3",
+       "sentence_english": "The company grows by developing new fields.",
+       "sentence_original": "新しい分野を開拓することで、会社が成長する。",
+       "sentence_romaji": "Atarashii bun'ya o kaitaku suru koto de, kaisha ga seichou suru"
+      },
+      {
+       "key": "開拓する_",
+       "sentence_audio": "/audio/japanese/sentences/s_開拓する__20250209_無人島を開拓する計画が進められている.mp3",
+       "sentence_english": "Plans are underway to develop the uninhabited island.",
+       "sentence_original": "無人島を開拓する計画が進められている。",
+       "sentence_romaji": "Mujintou o kaitaku suru keikaku ga susumerarete iru"
+      },
+      {
+       "key": "開拓する_",
+       "sentence_audio": "/audio/japanese/sentences/s_開拓する__20250209_彼は音楽界で新たなスタイルを開拓し続けている.mp3",
+       "sentence_english": "He continues to pioneer new styles in the music industry.",
+       "sentence_original": "彼は音楽界で新たなスタイルを開拓し続けている。",
+       "sentence_romaji": "Kare wa ongaku kai de aratana sutairu o kaitaku shi tsudzukete iru"
+      },
+      {
+       "key": "開拓する_",
+       "sentence_audio": "/audio/japanese/sentences/s_開拓する__20250209_我々は新しい市場を開拓するために世界中に広がっている.mp3",
+       "sentence_english": "We are expanding worldwide to develop new markets.",
+       "sentence_original": "我々は新しい市場を開拓するために世界中に広がっている。",
+       "sentence_romaji": "Wareware wa atarashii shijou o kaitaku suru tame ni sekaijuu ni hirogatte iru"
+      },
+      {
+       "key": "開拓する_",
+       "sentence_audio": "/audio/japanese/sentences/s_開拓する__20250209_宇宙旅行を開拓する会社が増えている.mp3",
+       "sentence_english": "There are more and more companies working to pioneer space travel.",
+       "sentence_original": "宇宙旅行を開拓する会社が増えている。",
+       "sentence_romaji": "Uchuu ryokou o kaitaku suru kaisha ga fuete iru"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_開拓する.mp3",
+     "vocabulary_english": "to reclaim, to exploit, to develop",
+     "vocabulary_original": "開拓する_",
+     "vocabulary_simplified": "かいたくする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "電話する_",
+       "sentence_audio": "/audio/japanese/sentences/s_電話する__20250209_友達に電話して今日の予定を確認するつもりだ.mp3",
+       "sentence_english": "I plan to call my friend and confirm today's schedule.",
+       "sentence_original": "友達に電話して今日の予定を確認するつもりだ。",
+       "sentence_romaji": "Tomodachi ni denwa shite kyou no yotei o kakunin suru tsumori da."
+      },
+      {
+       "key": "電話する_",
+       "sentence_audio": "/audio/japanese/sentences/s_電話する__20250209_会議が終わったら上司に電話して報告しなければなりません.mp3",
+       "sentence_english": "After the meeting, I must call my boss to report.",
+       "sentence_original": "会議が終わったら、上司に電話して報告しなければなりません。",
+       "sentence_romaji": "Kaigi ga owattara, joushi ni denwa shite houkoku shinakereba narimasen."
+      },
+      {
+       "key": "電話する_",
+       "sentence_audio": "/audio/japanese/sentences/s_電話する__20250209_病院に電話して予約を取らないといけない.mp3",
+       "sentence_english": "I have to call the hospital to make a reservation.",
+       "sentence_original": "病院に電話して、予約を取らないといけない。",
+       "sentence_romaji": "Byouin ni denwa shite, yoyaku o toranai to ikenai."
+      },
+      {
+       "key": "電話する_",
+       "sentence_audio": "/audio/japanese/sentences/s_電話する__20250209_彼女は母親に電話して新しい仕事の話をした.mp3",
+       "sentence_english": "She called her mother and talked about her new job.",
+       "sentence_original": "彼女は母親に電話して新しい仕事の話をした。",
+       "sentence_romaji": "Kanojo wa hahaoya ni denwa shite atarashii shigoto no hanashi o shita."
+      },
+      {
+       "key": "電話する_",
+       "sentence_audio": "/audio/japanese/sentences/s_電話する__20250209_遅れる場合は事前に電話して連絡してください.mp3",
+       "sentence_english": "If you're going to be late, please call and let us know in advance.",
+       "sentence_original": "遅れる場合は、事前に電話して連絡してください。",
+       "sentence_romaji": "Okureru baai wa, jizen ni denwa shite renraku shite kudasai."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_電話する.mp3",
+     "vocabulary_english": "to make a telephone call",
+     "vocabulary_original": "電話する_",
+     "vocabulary_simplified": "でんわする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "心配する_",
+       "sentence_audio": "/audio/japanese/sentences/s_心配する__20250209_友人が病気で休んでいるので心配しています.mp3",
+       "sentence_english": "My friend is taking a break due to illness, so I'm worried.",
+       "sentence_original": "友人が病気で休んでいるので、心配しています。",
+       "sentence_romaji": "Yuujin ga byouki de yasunde iru node, shinpai shiteimasu"
+      },
+      {
+       "key": "心配する_",
+       "sentence_audio": "/audio/japanese/sentences/s_心配する__20250209_彼女は試験の結果が気になって心配している様子だ.mp3",
+       "sentence_english": "She seems to be worried about the results of the exam.",
+       "sentence_original": "彼女は試験の結果が気になって心配している様子だ。",
+       "sentence_romaji": "Kanojo wa shiken no kekka ga ki ni natte shinpai shiteiru yousu da"
+      },
+      {
+       "key": "心配する_",
+       "sentence_audio": "/audio/japanese/sentences/s_心配する__20250209_このプロジェクトの進捗状況について心配しているメンバーもいます.mp3",
+       "sentence_english": "There are also members who are worried about the progress of this project.",
+       "sentence_original": "このプロジェクトの進捗状況について心配しているメンバーもいます。",
+       "sentence_romaji": "Kono purojekuto no shinchoku joukyou ni tsuite shinpai shiteiru menbaa mo imasu"
+      },
+      {
+       "key": "心配する_",
+       "sentence_audio": "/audio/japanese/sentences/s_心配する__20250209_両親は私が遠くに住んでいるためいつも心配している.mp3",
+       "sentence_english": "My parents are always worried because I live far away.",
+       "sentence_original": "両親は私が遠くに住んでいるため、いつも心配している。",
+       "sentence_romaji": "Ryoushin wa watashi ga tooku ni sunde iru tame, itsumo shinpai shiteiru"
+      },
+      {
+       "key": "心配する_",
+       "sentence_audio": "/audio/japanese/sentences/s_心配する__20250209_子供たちが遊びに行ったまま帰ってこないので心配しています.mp3",
+       "sentence_english": "I'm worried because the children haven't come back after going out to play.",
+       "sentence_original": "子供たちが遊びに行ったまま帰ってこないので、心配しています。",
+       "sentence_romaji": "Kodomotachi ga asobi ni itta mama kaette konai node, shinpai shiteimasu"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_心配する.mp3",
+     "vocabulary_english": "to be anxious, to feel uneasy",
+     "vocabulary_original": "心配する_",
+     "vocabulary_simplified": "しんぱいする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "活動する_",
+       "sentence_audio": "/audio/japanese/sentences/s_活動する__20250209_彼は地域社会でボランティア活動をする.mp3",
+       "sentence_english": "He does volunteer activities in the local community.",
+       "sentence_original": "彼は地域社会でボランティア活動をする。",
+       "sentence_romaji": "Kare wa chiiki shakai de borantia katsudou o suru"
+      },
+      {
+       "key": "活動する_",
+       "sentence_audio": "/audio/japanese/sentences/s_活動する__20250209_彼女は環境保護のために活動している.mp3",
+       "sentence_english": "She is working for environmental protection.",
+       "sentence_original": "彼女は環境保護のために活動している。",
+       "sentence_romaji": "Kanojo wa kankyō hogo no tame ni katsudou shite iru"
+      },
+      {
+       "key": "活動する_",
+       "sentence_audio": "/audio/japanese/sentences/s_活動する__20250209_この団体は福祉の向上を目的として活動しています.mp3",
+       "sentence_english": "This organization is working to improve welfare as its goal.",
+       "sentence_original": "この団体は福祉の向上を目的として活動しています。",
+       "sentence_romaji": "Kono dantai wa fukushi no koujou o mokuteki to shite katsudou shiteimasu"
+      },
+      {
+       "key": "活動する_",
+       "sentence_audio": "/audio/japanese/sentences/s_活動する__20250209_私たちのチームは様々なイベントで活動しています.mp3",
+       "sentence_english": "Our team participates in various events.",
+       "sentence_original": "私たちのチームは様々なイベントで活動しています。",
+       "sentence_romaji": "Watashitachi no chiimu wa samazama na ibento de katsudou shiteimasu"
+      },
+      {
+       "key": "活動する_",
+       "sentence_audio": "/audio/japanese/sentences/s_活動する__20250209_研究者たちは新しい技術開発プロジェクトに積極的に活動している.mp3",
+       "sentence_english": "Researchers are actively working on new technology development projects.",
+       "sentence_original": "研究者たちは新しい技術開発プロジェクトに積極的に活動している。",
+       "sentence_romaji": "Kenkyūsha-tachi wa atarashī gijutsu kaihatsu purojekuto ni sekkyokuteki ni katsudō shite iru"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_活動する.mp3",
+     "vocabulary_english": "to be active",
+     "vocabulary_original": "活動する_",
+     "vocabulary_simplified": "かつどうする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "注目する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注目する__20250209_彼のスピーチには注目する価値がある.mp3",
+       "sentence_english": "His speech is worth paying attention to.",
+       "sentence_original": "彼のスピーチには注目する価値がある。",
+       "sentence_romaji": "Kare no supi-chi ni wa chumoku suru kachi ga aru."
+      },
+      {
+       "key": "注目する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注目する__20250209_最近の医学界では新しい治療法が注目されている.mp3",
+       "sentence_english": "The recent medical world has been focusing on new treatment methods.",
+       "sentence_original": "最近の医学界では新しい治療法が注目されている。",
+       "sentence_romaji": "Saikin no igakukai de wa atarashii chiryouhou ga chumoku sarete iru."
+      },
+      {
+       "key": "注目する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注目する__20250209_そのデザイナーは若者たちから注目されている.mp3",
+       "sentence_english": "The designer is attracting attention from young people.",
+       "sentence_original": "そのデザイナーは若者たちから注目されている。",
+       "sentence_romaji": "Sono dezaina- wa wakamono-tachi kara chumoku sarete iru."
+      },
+      {
+       "key": "注目する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注目する__20250209_注目すべきポイントはこの報告書の最後の部分にあります.mp3",
+       "sentence_english": "The point worth noting is in the last part of this report.",
+       "sentence_original": "注目すべきポイントは、この報告書の最後の部分にあります。",
+       "sentence_romaji": "Chumoku subeki pointo wa, kono houkokusho no saigo no bubun ni arimasu."
+      },
+      {
+       "key": "注目する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注目する__20250209_彼は注目すべき選手でファンが増えています.mp3",
+       "sentence_english": "He is a notable player, and his fanbase is growing.",
+       "sentence_original": "彼は注目すべき選手で、ファンが増えています。",
+       "sentence_romaji": "Kare wa chumoku subeki senshu de, fan ga fuete imasu."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_注目する.mp3",
+     "vocabulary_english": "to observe, to take notice of",
+     "vocabulary_original": "注目する_",
+     "vocabulary_simplified": "ちゅうもくする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "確認する_",
+       "sentence_audio": "/audio/japanese/sentences/s_確認する__20250209_試験前に教科書をもう一度確認することをお勧めします.mp3",
+       "sentence_english": "Before the exam, it is recommended to check the textbook once again.",
+       "sentence_original": "試験前に、教科書をもう一度確認することをお勧めします。",
+       "sentence_romaji": "Shikenmae ni, kyoukasho o mou ichido kakunin suru koto o osusume shimasu"
+      },
+      {
+       "key": "確認する_",
+       "sentence_audio": "/audio/japanese/sentences/s_確認する__20250209_出発前に予約を確認する必要があります.mp3",
+       "sentence_english": "It is necessary to confirm the reservation before departure.",
+       "sentence_original": "出発前に予約を確認する必要があります。",
+       "sentence_romaji": "Shuppatsu mae ni yoyaku o kakunin suru hitsuyou ga arimasu"
+      },
+      {
+       "key": "確認する_",
+       "sentence_audio": "/audio/japanese/sentences/s_確認する__20250209_重要な会議があるため全員のスケジュールを確認する必要がある.mp3",
+       "sentence_english": "Due to an important meeting, it is necessary to check everyone's schedule.",
+       "sentence_original": "重要な会議があるため、全員のスケジュールを確認する必要がある。",
+       "sentence_romaji": "Juuyou na kaigi ga aru tame, zen'in no sukeju-ru o kakunin suru hitsuyou ga aru"
+      },
+      {
+       "key": "確認する_",
+       "sentence_audio": "/audio/japanese/sentences/s_確認する__20250209_データが正しいかどうかを確認するために再度検討してください.mp3",
+       "sentence_english": "Please reconsider once more to confirm whether the data is correct or not.",
+       "sentence_original": "データが正しいかどうかを確認するために、再度検討してください。",
+       "sentence_romaji": "Deeta ga tadashii ka dou ka o kakunin suru tame ni, saido kentou shite kudasai"
+      },
+      {
+       "key": "確認する_",
+       "sentence_audio": "/audio/japanese/sentences/s_確認する__20250209_お客様の注文内容を確認するためメールで連絡させていただきます.mp3",
+       "sentence_english": "We will contact you by email to confirm your order details.",
+       "sentence_original": "お客様の注文内容を確認するため、メールで連絡させていただきます。",
+       "sentence_romaji": "O-kyaku-sama no chuumon naiyou o kakunin suru tame, me-ru de renraku sasete itadakimasu"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_確認する.mp3",
+     "vocabulary_english": "to confirm, to ascertain",
+     "vocabulary_original": "確認する_",
+     "vocabulary_simplified": "かくにんする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "投票する_",
+       "sentence_audio": "/audio/japanese/sentences/s_投票する__20250209_選挙で投票するのは市民の義務です.mp3",
+       "sentence_english": "Voting in an election is a citizen's duty.",
+       "sentence_original": "選挙で投票するのは市民の義務です。",
+       "sentence_romaji": "Senkyo de touhyou suru no wa shimin no gimu desu"
+      },
+      {
+       "key": "投票する_",
+       "sentence_audio": "/audio/japanese/sentences/s_投票する__20250209_今年の選挙で誰に投票するか決めましたか.mp3",
+       "sentence_english": "Have you decided who you will vote for in this year's election?",
+       "sentence_original": "今年の選挙で誰に投票するか決めましたか？",
+       "sentence_romaji": "Kotoshi no senkyo de dare ni touhyou suru ka kimemashita ka?"
+      },
+      {
+       "key": "投票する_",
+       "sentence_audio": "/audio/japanese/sentences/s_投票する__20250209_彼女は投票する権利を行使したかった.mp3",
+       "sentence_english": "She wanted to exercise her right to vote.",
+       "sentence_original": "彼女は投票する権利を行使したかった。",
+       "sentence_romaji": "Kanojo wa touhyou suru kenri o koushi shitakatta"
+      },
+      {
+       "key": "投票する_",
+       "sentence_audio": "/audio/japanese/sentences/s_投票する__20250209_皆さんはオンラインで投票するのが便利だと思いますか.mp3",
+       "sentence_english": "Do you all think that voting online is convenient?",
+       "sentence_original": "皆さんは、オンラインで投票するのが便利だと思いますか？",
+       "sentence_romaji": "Minasan wa, onrain de touhyou suru no ga benri da to omoimasu ka?"
+      },
+      {
+       "key": "投票する_",
+       "sentence_audio": "/audio/japanese/sentences/s_投票する__20250209_彼の投票する意思は固まっている.mp3",
+       "sentence_english": "His intention to vote is firm.",
+       "sentence_original": "彼の投票する意思は固まっている。",
+       "sentence_romaji": "Kare no touhyou suru ishi wa katamatte iru"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_投票する.mp3",
+     "vocabulary_english": "to vote, to cast a ballot",
+     "vocabulary_original": "投票する_",
+     "vocabulary_simplified": "とうひょうする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "使用する_",
+       "sentence_audio": "/audio/japanese/sentences/s_使用する__20250209_この道具を使用する方法を教えてください.mp3",
+       "sentence_english": "Please teach me how to use this tool.",
+       "sentence_original": "この道具を使用する方法を教えてください。",
+       "sentence_romaji": "Kono dougu o shiyousuru houhou o oshiete kudasai"
+      },
+      {
+       "key": "使用する_",
+       "sentence_audio": "/audio/japanese/sentences/s_使用する__20250209_このシステムを使用するときパスワードが必要です.mp3",
+       "sentence_english": "A password is required when using this system.",
+       "sentence_original": "このシステムを使用するとき、パスワードが必要です。",
+       "sentence_romaji": "Kono shisutemu o shiyousuru toki, pasuwādo ga hitsuyou desu"
+      },
+      {
+       "key": "使用する_",
+       "sentence_audio": "/audio/japanese/sentences/s_使用する__20250209_医者は私に運動が身体に良い影響を与えるとサプリメントを使用することを勧めました.mp3",
+       "sentence_english": "The doctor recommended that I use supplements as exercise has a positive effect on the body.",
+       "sentence_original": "医者は私に運動が身体に良い影響を与えると、サプリメントを使用することを勧めました。",
+       "sentence_romaji": "Isha wa watashi ni undou ga karada ni yoi eikyou o ataeru to, sapurimento o shiyousuru koto o susumemashita"
+      },
+      {
+       "key": "使用する_",
+       "sentence_audio": "/audio/japanese/sentences/s_使用する__20250209_学生たちはパソコンルームでインターネットを使用する時間を予約しました.mp3",
+       "sentence_english": "The students reserved time to use the internet in the computer room.",
+       "sentence_original": "学生たちはパソコンルームでインターネットを使用する時間を予約しました。",
+       "sentence_romaji": "Gakuseitachi wa pasokon ruumu de intānetto o shiyousuru jikan o yoyaku shimashita"
+      },
+      {
+       "key": "使用する_",
+       "sentence_audio": "/audio/japanese/sentences/s_使用する__20250209_環境に優しい製品を使用することで地球を守れます.mp3",
+       "sentence_english": "By using eco-friendly products, we can protect the Earth.",
+       "sentence_original": "環境に優しい製品を使用することで、地球を守れます。",
+       "sentence_romaji": "Kankyou ni yasashii seihin o shiyousuru koto de, chikyu o mamoremasu"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_使用する.mp3",
+     "vocabulary_english": "to use, to employ",
+     "vocabulary_original": "使用する_",
+     "vocabulary_simplified": "しようする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "達成する_",
+       "sentence_audio": "/audio/japanese/sentences/s_達成する__20250209_目標を達成するためには毎日努力を続けることが大切だ.mp3",
+       "sentence_english": "In order to achieve your goals, it is important to continue making efforts every day.",
+       "sentence_original": "目標を達成するためには、毎日努力を続けることが大切だ。",
+       "sentence_romaji": "Mokuhyou o tassei suru tame ni wa, mainichi doryoku o tsudukeru koto ga taisetsu da"
+      },
+      {
+       "key": "達成する_",
+       "sentence_audio": "/audio/japanese/sentences/s_達成する__20250209_彼は達成すると決めた目標に向かって一生懸命働いている.mp3",
+       "sentence_english": "He is working hard toward the goal he has decided to achieve.",
+       "sentence_original": "彼は達成すると決めた目標に向かって一生懸命働いている。",
+       "sentence_romaji": "Kare wa tassei suru to kimeta mokuhyou ni mukatte isshou kenmei hataraite iru"
+      },
+      {
+       "key": "達成する_",
+       "sentence_audio": "/audio/japanese/sentences/s_達成する__20250209_達成するために一緒に協力しましょう.mp3",
+       "sentence_english": "Let's cooperate together to achieve our goal.",
+       "sentence_original": "達成するために一緒に協力しましょう。",
+       "sentence_romaji": "Tassei suru tame ni issho ni kyouryoku shimashou"
+      },
+      {
+       "key": "達成する_",
+       "sentence_audio": "/audio/japanese/sentences/s_達成する__20250209_彼女は自分の夢を達成するために毎日練習している.mp3",
+       "sentence_english": "She practices every day to achieve her dream.",
+       "sentence_original": "彼女は自分の夢を達成するために毎日練習している。",
+       "sentence_romaji": "Kanojo wa jibun no yume o tassei suru tame ni mainichi renshuu shite iru"
+      },
+      {
+       "key": "達成する_",
+       "sentence_audio": "/audio/japanese/sentences/s_達成する__20250209_プロジェクトの目標を達成するにはチームのコミュニケーションが重要です.mp3",
+       "sentence_english": "To achieve the project's goals, team communication is important.",
+       "sentence_original": "プロジェクトの目標を達成するには、チームのコミュニケーションが重要です。",
+       "sentence_romaji": "Purojekuto no mokuhyou o tassei suru ni wa, chiimu no komyunikeeshon ga juuyou desu"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_達成する.mp3",
+     "vocabulary_english": "to achieve, to attain, to accomplish",
+     "vocabulary_original": "達成する_",
+     "vocabulary_simplified": "たっせいする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "出席する_",
+       "sentence_audio": "/audio/japanese/sentences/s_出席する__20250209_授業に出席するのは大切です.mp3",
+       "sentence_english": "It is important to attend classes.",
+       "sentence_original": "授業に出席するのは大切です。",
+       "sentence_romaji": "Jugyou ni shusseki suru no wa taisetsu desu"
+      },
+      {
+       "key": "出席する_",
+       "sentence_audio": "/audio/japanese/sentences/s_出席する__20250209_今日の会議に出席する予定です.mp3",
+       "sentence_english": "I plan to attend today's meeting.",
+       "sentence_original": "今日の会議に出席する予定です。",
+       "sentence_romaji": "Kyou no kaigi ni shusseki suru yotei desu"
+      },
+      {
+       "key": "出席する_",
+       "sentence_audio": "/audio/japanese/sentences/s_出席する__20250209_彼は式典に出席するために早く着いた.mp3",
+       "sentence_english": "He arrived early to attend the ceremony.",
+       "sentence_original": "彼は式典に出席するために早く着いた。",
+       "sentence_romaji": "Kare wa shikiten ni shusseki suru tame ni hayaku tsuita"
+      },
+      {
+       "key": "出席する_",
+       "sentence_audio": "/audio/japanese/sentences/s_出席する__20250209_すべての生徒は授業に定期的に出席する必要があります.mp3",
+       "sentence_english": "All students need to attend classes regularly.",
+       "sentence_original": "すべての生徒は授業に定期的に出席する必要があります。",
+       "sentence_romaji": "Subete no seito wa jugyou ni teikiteki ni shusseki suru hitsuyou ga arimasu"
+      },
+      {
+       "key": "出席する_",
+       "sentence_audio": "/audio/japanese/sentences/s_出席する__20250209_明日の試合の応援に出席するかどうか彼に報告してください.mp3",
+       "sentence_english": "Please let him know if you will attend tomorrow's game to cheer.",
+       "sentence_original": "明日の試合の応援に出席するかどうか、彼に報告してください。",
+       "sentence_romaji": "Ashita no shiai no ouen ni shusseki suru ka douka, kare ni houkoku shite kudasai"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_出席する.mp3",
+     "vocabulary_english": "to attend",
+     "vocabulary_original": "出席する_",
+     "vocabulary_simplified": "しゅっせきする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "侵略する_",
+       "sentence_audio": "/audio/japanese/sentences/s_侵略する__20250209_その国は近隣の国を侵略するつもりだった.mp3",
+       "sentence_english": "That country was planning to invade neighboring countries.",
+       "sentence_original": "その国は近隣の国を侵略するつもりだった。",
+       "sentence_romaji": "Sono kuni wa kinrin no kuni o shinryaku suru tsumori datta."
+      },
+      {
+       "key": "侵略する_",
+       "sentence_audio": "/audio/japanese/sentences/s_侵略する__20250209_彼らはその土地を侵略するために軍隊を派遣した.mp3",
+       "sentence_english": "They dispatched troops to invade the land.",
+       "sentence_original": "彼らはその土地を侵略するために軍隊を派遣した。",
+       "sentence_romaji": "Karera wa sono tochi o shinryaku suru tame ni guntai o haken shita."
+      },
+      {
+       "key": "侵略する_",
+       "sentence_audio": "/audio/japanese/sentences/s_侵略する__20250209_昔の侵略者たちは大陸を侵略するのに船を使った.mp3",
+       "sentence_english": "In ancient times, invaders used ships to invade continents.",
+       "sentence_original": "昔の侵略者たちは大陸を侵略するのに船を使った。",
+       "sentence_romaji": "Mukashi no shinryakusha-tachi wa tairiku o shinryaku suru no ni fune o tsukatta."
+      },
+      {
+       "key": "侵略する_",
+       "sentence_audio": "/audio/japanese/sentences/s_侵略する__20250209_敵国が侵略し始める前に私たちの国は対策を講じなければならない.mp3",
+       "sentence_english": "Before the hostile country begins to invade, our country must take measures.",
+       "sentence_original": "敵国が侵略し始める前に、私たちの国は対策を講じなければならない。",
+       "sentence_romaji": "Tekikoku ga shinryaku shi-hajimeru mae ni, watashitachi no kuni wa taisaku o koujinakereba naranai."
+      },
+      {
+       "key": "侵略する_",
+       "sentence_audio": "/audio/japanese/sentences/s_侵略する__20250209_世界史は数々の侵略者たちが国土を侵略する物語でもある.mp3",
+       "sentence_english": "World history is also a story of numerous invaders invading territories.",
+       "sentence_original": "世界史は数々の侵略者たちが国土を侵略する物語でもある。",
+       "sentence_romaji": "Sekaishi wa kazukazu no shinryakusha-tachi ga kokudo o shinryaku suru monogatari demo aru."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_侵略する.mp3",
+     "vocabulary_english": "to invade",
+     "vocabulary_original": "侵略する_",
+     "vocabulary_simplified": "しんりゃくする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "キープする_",
+       "sentence_audio": "/audio/japanese/sentences/s_キープする__20250209_彼女の心をキープするために努力してます.mp3",
+       "sentence_english": "I am making efforts to keep her heart.",
+       "sentence_original": "彼女の心をキープするために努力してます。",
+       "sentence_romaji": "Kanojo no kokoro o kīpu suru tame ni doryoku shiteimasu"
+      },
+      {
+       "key": "キープする_",
+       "sentence_audio": "/audio/japanese/sentences/s_キープする__20250209_この仕事をキープすることが難しい.mp3",
+       "sentence_english": "It is difficult to keep this job.",
+       "sentence_original": "この仕事をキープすることが難しい。",
+       "sentence_romaji": "Kono shigoto o kīpu suru koto ga muzukashii"
+      },
+      {
+       "key": "キープする_",
+       "sentence_audio": "/audio/japanese/sentences/s_キープする__20250209_良好な関係をキープするのは大切です.mp3",
+       "sentence_english": "It's important to maintain good relationships.",
+       "sentence_original": "良好な関係をキープするのは大切です。",
+       "sentence_romaji": "Ryōkōna kankei o kīpu suru no wa taisetsu desu."
+      },
+      {
+       "key": "キープする_",
+       "sentence_audio": "/audio/japanese/sentences/s_キープする__20250209_彼の友達はいつも彼をキープしようとしている.mp3",
+       "sentence_english": "His friends are always trying to keep him around.",
+       "sentence_original": "彼の友達はいつも彼をキープしようとしている。",
+       "sentence_romaji": "Kare no tomodachi wa itsumo kare o kīpu shiyou to shite iru"
+      },
+      {
+       "key": "キープする_",
+       "sentence_audio": "/audio/japanese/sentences/s_キープする__20250209_短期集中研修は知識をキープするのが難しい.mp3",
+       "sentence_english": "It is difficult to retain knowledge from a short-term intensive training.",
+       "sentence_original": "短期集中研修は知識をキープするのが難しい。",
+       "sentence_romaji": "Tanki shūchū kenshū wa chishiki o kīpu suru no ga muzukashii"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_キープする.mp3",
+     "vocabulary_english": "to keep",
+     "vocabulary_original": "キープする_",
+     "vocabulary_simplified": "キープする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "洗濯する_",
+       "sentence_audio": "/audio/japanese/sentences/s_洗濯する__20250209_洗濯機で洗濯している間にスーパーへ買い物に行こう.mp3",
+       "sentence_english": "While washing clothes in the washing machine, let's go shopping at the supermarket.",
+       "sentence_original": "洗濯機で洗濯している間に、スーパーへ買い物に行こう。",
+       "sentence_romaji": "Sentakuki de sentaku shite iru aida ni, suupaa e kaimono ni ikou"
+      },
+      {
+       "key": "洗濯する_",
+       "sentence_audio": "/audio/japanese/sentences/s_洗濯する__20250209_洗濯物を干す前にしっかりと水を絞ろう.mp3",
+       "sentence_english": "Before hanging the laundry to dry, make sure to wring out the water well.",
+       "sentence_original": "洗濯物を干す前に、しっかりと水を絞ろう。",
+       "sentence_romaji": "Sentakumono o hosu mae ni, shikkari to mizu o shiborou"
+      },
+      {
+       "key": "洗濯する_",
+       "sentence_audio": "/audio/japanese/sentences/s_洗濯する__20250209_洗濯物がたくさんあるので早く洗濯を始めなければならない.mp3",
+       "sentence_english": "There are a lot of laundry items, so I must start doing the laundry soon.",
+       "sentence_original": "洗濯物がたくさんあるので、早く洗濯を始めなければならない。",
+       "sentence_romaji": "Sentakumono ga takusan aru node, hayaku sentaku o hajime nakereba naranai"
+      },
+      {
+       "key": "洗濯する_",
+       "sentence_audio": "/audio/japanese/sentences/s_洗濯する__20250209_白い洗濯物と色物は別々に洗濯するのが良い.mp3",
+       "sentence_english": "It's best to wash white laundry and colored items separately.",
+       "sentence_original": "白い洗濯物と色物は、別々に洗濯するのが良い。",
+       "sentence_romaji": "Shiroi sentakumono to iromono wa, betsubetsu ni sentaku suru no ga yoi"
+      },
+      {
+       "key": "洗濯する_",
+       "sentence_audio": "/audio/japanese/sentences/s_洗濯する__20250209_洗濯後は洗濯物を風通しの良いところに干して乾かす.mp3",
+       "sentence_english": "After doing laundry, hang the laundry in a well-ventilated place to dry.",
+       "sentence_original": "洗濯後は、洗濯物を風通しの良いところに干して乾かす。",
+       "sentence_romaji": "Sentaku go wa, sentakumono o kazetoushi no yoi tokoro ni hoshite kawakasu"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_洗濯する.mp3",
+     "vocabulary_english": "to wash (clothes)",
+     "vocabulary_original": "洗濯する_",
+     "vocabulary_simplified": "せんたくする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "注文する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注文する__20250209_注文する前にメニューをよく見てください.mp3",
+       "sentence_english": "Please look at the menu carefully before ordering.",
+       "sentence_original": "注文する前に、メニューをよく見てください。",
+       "sentence_romaji": "Chuumon suru mae ni, menyu- o yoku mite kudasai."
+      },
+      {
+       "key": "注文する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注文する__20250209_このアプリで簡単に注文することができます.mp3",
+       "sentence_english": "You can easily order using this app.",
+       "sentence_original": "このアプリで簡単に注文することができます。",
+       "sentence_romaji": "Kono apuri de kantan ni chuumon suru koto ga dekimasu."
+      },
+      {
+       "key": "注文する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注文する__20250209_私は彼にピザを注文するよう頼んだ.mp3",
+       "sentence_english": "I asked him to order pizza.",
+       "sentence_original": "私は彼にピザを注文するよう頼んだ。",
+       "sentence_romaji": "Watashi wa kare ni piza o chuumon suru you tanonda."
+      },
+      {
+       "key": "注文する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注文する__20250209_お客さんが多いので注文するのに時間がかかります.mp3",
+       "sentence_english": "Due to many customers, it takes time to order.",
+       "sentence_original": "お客さんが多いので、注文するのに時間がかかります。",
+       "sentence_romaji": "O-kyakusan ga ooi node, chuumon suru no ni jikan ga kakarimasu."
+      },
+      {
+       "key": "注文する_",
+       "sentence_audio": "/audio/japanese/sentences/s_注文する__20250209_注文した商品が届かなかったので問い合わせました.mp3",
+       "sentence_english": "I inquired because the ordered product did not arrive.",
+       "sentence_original": "注文した商品が届かなかったので、問い合わせました。",
+       "sentence_romaji": "Chuumon shita shouhin ga todokanakatta node, toiawasemashita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_注文する.mp3",
+     "vocabulary_english": "to order (goods, food)",
+     "vocabulary_original": "注文する_",
+     "vocabulary_simplified": "ちゅうもんする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "延長する_",
+       "sentence_audio": "/audio/japanese/sentences/s_延長する__20250209_試合は延長戦に入った.mp3",
+       "sentence_english": "The game went into extra innings.",
+       "sentence_original": "試合は延長戦に入った。",
+       "sentence_romaji": "Shiai wa enchou-sen ni haitta."
+      },
+      {
+       "key": "延長する_",
+       "sentence_audio": "/audio/japanese/sentences/s_延長する__20250209_交渉が難航し期限を延長することになった.mp3",
+       "sentence_english": "The negotiations were difficult, and the deadline was extended.",
+       "sentence_original": "交渉が難航し、期限を延長することになった。",
+       "sentence_romaji": "Koushou ga nankou shi, kigen o enchou suru koto ni natta."
+      },
+      {
+       "key": "延長する_",
+       "sentence_audio": "/audio/japanese/sentences/s_延長する__20250209_締め切りが近づいているため提出期間を延長する必要がある.mp3",
+       "sentence_english": "Since the deadline is approaching, we need to extend the submission period.",
+       "sentence_original": "締め切りが近づいているため、提出期間を延長する必要がある。",
+       "sentence_romaji": "Shimekiri ga chikazuite iru tame, teishutsu kikan o enchou suru hitsuyou ga aru."
+      },
+      {
+       "key": "延長する_",
+       "sentence_audio": "/audio/japanese/sentences/s_延長する__20250209_コンサートのチケットがすぐに売り切れたので追加公演が延長されました.mp3",
+       "sentence_english": "The concert tickets sold out quickly, so additional performances were extended.",
+       "sentence_original": "コンサートのチケットがすぐに売り切れたので、追加公演が延長されました。",
+       "sentence_romaji": "Konsaato no chiketto ga sugu ni urikireta no de, tsuika kouen ga enchou sa remashita."
+      },
+      {
+       "key": "延長する_",
+       "sentence_audio": "/audio/japanese/sentences/s_延長する__20250209_彼は仕事が終わらなかったので労働時間を延長しました.mp3",
+       "sentence_english": "He extended his working hours because he couldn't finish his work.",
+       "sentence_original": "彼は仕事が終わらなかったので、労働時間を延長しました。",
+       "sentence_romaji": "Kare wa shigoto ga owaranakatta node, roudou jikan o enchou shimashita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_延長する.mp3",
+     "vocabulary_english": "to extend, to lengthen",
+     "vocabulary_original": "延長する_",
+     "vocabulary_simplified": "えんちょうする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "観賞する_",
+       "sentence_audio": "/audio/japanese/sentences/s_観賞する__20250209_夜の美しい景色を観賞するのが好きです.mp3",
+       "sentence_english": "I like admiring the beautiful night scenery.",
+       "sentence_original": "夜の美しい景色を観賞するのが好きです。",
+       "sentence_romaji": "Yoru no utsukushii keshiki o kanshou suru no ga suki desu"
+      },
+      {
+       "key": "観賞する_",
+       "sentence_audio": "/audio/japanese/sentences/s_観賞する__20250209_色鮮やかな花火を観賞するのは楽しい.mp3",
+       "sentence_english": "Watching colorful fireworks is enjoyable.",
+       "sentence_original": "色鮮やかな花火を観賞するのは楽しい。",
+       "sentence_romaji": "Iro azayaka na hanabi o kanshou suru no wa tanoshii"
+      },
+      {
+       "key": "観賞する_",
+       "sentence_audio": "/audio/japanese/sentences/s_観賞する__20250209_彼女は美術館で名画を観賞することが好きだ.mp3",
+       "sentence_english": "She likes admiring famous paintings at the art museum.",
+       "sentence_original": "彼女は美術館で名画を観賞することが好きだ。",
+       "sentence_romaji": "Kanojo wa bijutsukan de meiga o kanshou suru koto ga suki da"
+      },
+      {
+       "key": "観賞する_",
+       "sentence_audio": "/audio/japanese/sentences/s_観賞する__20250209_ライブコンサートでお気に入りのバンドを観賞する.mp3",
+       "sentence_english": "Watch your favorite band perform live in concert.",
+       "sentence_original": "ライブコンサートでお気に入りのバンドを観賞する。",
+       "sentence_romaji": "Raibu konsaato de okiniiri no bando o kanshou suru"
+      },
+      {
+       "key": "観賞する_",
+       "sentence_audio": "/audio/japanese/sentences/s_観賞する__20250209_この映画は何度も観賞する価値がある.mp3",
+       "sentence_english": "This movie is worth watching many times.",
+       "sentence_original": "この映画は何度も観賞する価値がある。",
+       "sentence_romaji": "Kono eiga wa nando mo kanshou suru kachi ga aru"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_観賞する.mp3",
+     "vocabulary_english": "to appreciate",
+     "vocabulary_original": "観賞する_",
+     "vocabulary_simplified": "かんしょうする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "決定する_",
+       "sentence_audio": "/audio/japanese/sentences/s_決定する__20250209_会議で来年度の予算を決定する必要がある.mp3",
+       "sentence_english": "It is necessary to decide on the budget for the next fiscal year in the meeting.",
+       "sentence_original": "会議で来年度の予算を決定する必要がある。",
+       "sentence_romaji": "Kaigi de rainendo no yosan o kettei suru hitsuyou ga aru"
+      },
+      {
+       "key": "決定する_",
+       "sentence_audio": "/audio/japanese/sentences/s_決定する__20250209_彼のプロポーズを受ければ人生が決定する瞬間だ.mp3",
+       "sentence_english": "If I accept his proposal, it will be the moment my life is decided.",
+       "sentence_original": "彼のプロポーズを受ければ、人生が決定する瞬間だ。",
+       "sentence_romaji": "Kare no puropoozu o ukereba, jinsei ga kettei suru shunkan da"
+      },
+      {
+       "key": "決定する_",
+       "sentence_audio": "/audio/japanese/sentences/s_決定する__20250209_彼女は来年アメリカへ留学することを決定した.mp3",
+       "sentence_english": "She decided to study abroad in America next year.",
+       "sentence_original": "彼女は来年アメリカへ留学することを決定した。",
+       "sentence_romaji": "Kanojo wa rainen Amerika e ryuugaku suru koto o kettei shita"
+      },
+      {
+       "key": "決定する_",
+       "sentence_audio": "/audio/japanese/sentences/s_決定する__20250209_大学ではどの専攻を選ぶかは今後のキャリアに大きく影響する決定である.mp3",
+       "sentence_english": "The decision of which major to choose in university has a significant impact on one's future career.",
+       "sentence_original": "大学ではどの専攻を選ぶかは、今後のキャリアに大きく影響する決定である。",
+       "sentence_romaji": "Daigaku de wa dono senkou o erabu ka wa, kongo no kyaria ni ookiku eikyou suru kettei de aru"
+      },
+      {
+       "key": "決定する_",
+       "sentence_audio": "/audio/japanese/sentences/s_決定する__20250209_彼は事情を聞いた後試合出場の選手を決定するだろう.mp3",
+       "sentence_english": "He will probably decide on the players for the match after hearing the circumstances.",
+       "sentence_original": "彼は事情を聞いた後、試合出場の選手を決定するだろう。",
+       "sentence_romaji": "Kare wa jijou o kiita ato, shiai shutsujou no senshu o kettei suru darou"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_決定する.mp3",
+     "vocabulary_english": "to decide, to determine",
+     "vocabulary_original": "決定する_",
+     "vocabulary_simplified": "けっていする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "スタートする_",
+       "sentence_audio": "/audio/japanese/sentences/s_スタートする__20250209_レースがスタートする時点で彼の勝利は確実だった.mp3",
+       "sentence_english": "At the point when the race started, his victory was certain.",
+       "sentence_original": "レースがスタートする時点で、彼の勝利は確実だった。",
+       "sentence_romaji": "Rēsu ga sutāto suru jiten de, kare no shōri wa kakujitsu datta."
+      },
+      {
+       "key": "スタートする_",
+       "sentence_audio": "/audio/japanese/sentences/s_スタートする__20250209_新しいプロジェクトをスタートする前に計画を立てましょう.mp3",
+       "sentence_english": "Let's make a plan before starting a new project.",
+       "sentence_original": "新しいプロジェクトをスタートする前に計画を立てましょう。",
+       "sentence_romaji": "Atarashii purojekuto o sutāto suru mae ni keikaku o tatemashou."
+      },
+      {
+       "key": "スタートする_",
+       "sentence_audio": "/audio/japanese/sentences/s_スタートする__20250209_新年がスタートするとみんなは新しい目標と決意を持ち始める.mp3",
+       "sentence_english": "When the new year starts, everyone starts to have new goals and determination.",
+       "sentence_original": "新年がスタートすると、みんなは新しい目標と決意を持ち始める。",
+       "sentence_romaji": "Shinnen ga sutāto suru to, minna wa atarashii mokuhyou to ketsui o mochi hajimeru."
+      },
+      {
+       "key": "スタートする_",
+       "sentence_audio": "/audio/japanese/sentences/s_スタートする__20250209_大会は３０分後にスタートしますので準備してください.mp3",
+       "sentence_english": "The competition will start in 30 minutes, so please prepare.",
+       "sentence_original": "大会は３０分後にスタートしますので準備してください。",
+       "sentence_romaji": "Taikai wa sanjuppun-go ni sutāto shimasu no de junbi shite kudasai."
+      },
+      {
+       "key": "スタートする_",
+       "sentence_audio": "/audio/japanese/sentences/s_スタートする__20250209_スタートする瞬間彼は緊張で足が震えていた.mp3",
+       "sentence_english": "At the moment he started, his legs were shaking with nervousness.",
+       "sentence_original": "スタートする瞬間、彼は緊張で足が震えていた。",
+       "sentence_romaji": "Sutāto suru shunkan, kare wa kinchou de ashi ga furuete ita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_スタートする.mp3",
+     "vocabulary_english": "to start",
+     "vocabulary_original": "スタートする_",
+     "vocabulary_simplified": "スタートする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "戦争する_",
+       "sentence_audio": "/audio/japanese/sentences/s_戦争する__20250209_この国は他国と戦争することを避けるために平和を重視している.mp3",
+       "sentence_english": "This country prioritizes peace in order to avoid waging war with other countries.",
+       "sentence_original": "この国は他国と戦争することを避けるために平和を重視している。",
+       "sentence_romaji": "Kono kuni wa takoku to sensou suru koto o yokeru tame ni heiwa o juushi shite iru."
+      },
+      {
+       "key": "戦争する_",
+       "sentence_audio": "/audio/japanese/sentences/s_戦争する__20250209_政府は未来の世代のために戦争することのない世界を目指している.mp3",
+       "sentence_english": "The government is aiming for a world without war for the sake of future generations.",
+       "sentence_original": "政府は未来の世代のために戦争することのない世界を目指している。",
+       "sentence_romaji": "Seifu wa mirai no sedai no tame ni sensou suru koto no nai sekai o mezashite iru."
+      },
+      {
+       "key": "戦争する_",
+       "sentence_audio": "/audio/japanese/sentences/s_戦争する__20250209_戦争することは経済的ダメージだけでなく人々の心にも深い傷を刻む.mp3",
+       "sentence_english": "Waging war not only causes economic damage, but also leaves deep wounds in people's hearts.",
+       "sentence_original": "戦争することは、経済的ダメージだけでなく、人々の心にも深い傷を刻む。",
+       "sentence_romaji": "Sensou suru koto wa, keizaiteki dameeji dake denaku, hito no kokoro ni mo fukai kizu o kizamu."
+      },
+      {
+       "key": "戦争する_",
+       "sentence_audio": "/audio/japanese/sentences/s_戦争する__20250209_歴史を学び過去の過ちから学んで再び戦争することがないようにしなければなりません.mp3",
+       "sentence_english": "We must learn from history and past mistakes to ensure that we never wage war again.",
+       "sentence_original": "歴史を学び、過去の過ちから学んで、再び戦争することがないようにしなければなりません。",
+       "sentence_romaji": "Rekishi o manabi, kako no ayamachi kara manande, futatabi sensou suru koto ga nai you ni shinakereba narimasen."
+      },
+      {
+       "key": "戦争する_",
+       "sentence_audio": "/audio/japanese/sentences/s_戦争する__20250209_二つの国が戦争することによって多くの無辜の人々が犠牲になることがある.mp3",
+       "sentence_english": "When two countries wage war, many innocent people can become victims.",
+       "sentence_original": "二つの国が戦争することによって、多くの無辜の人々が犠牲になることがある。",
+       "sentence_romaji": "Futatsu no kuni ga sensou suru koto ni yotte, ooku no muko no hitobito ga gisei ni naru koto ga aru."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_戦争する.mp3",
+     "vocabulary_english": "to make war",
+     "vocabulary_original": "戦争する_",
+     "vocabulary_simplified": "せんそうする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "合格する_",
+       "sentence_audio": "/audio/japanese/sentences/s_合格する__20250209_今年の試験に合格するために一生懸命勉強しています.mp3",
+       "sentence_english": "I am studying hard to pass this year's exam.",
+       "sentence_original": "今年の試験に合格するために一生懸命勉強しています。",
+       "sentence_romaji": "Kotoshi no shiken ni goukaku suru tame ni isshoukenmei benkyou shiteimasu"
+      },
+      {
+       "key": "合格する_",
+       "sentence_audio": "/audio/japanese/sentences/s_合格する__20250209_彼女は大学に合格することができると信じている.mp3",
+       "sentence_english": "I believe she can pass the university entrance exam.",
+       "sentence_original": "彼女は大学に合格することができると信じている。",
+       "sentence_romaji": "Kanojo wa daigaku ni goukaku suru koto ga dekiru to shinjiteiru"
+      },
+      {
+       "key": "合格する_",
+       "sentence_audio": "/audio/japanese/sentences/s_合格する__20250209_彼は運転免許試験に一発で合格することができました.mp3",
+       "sentence_english": "He was able to pass the driving test in one attempt.",
+       "sentence_original": "彼は運転免許試験に一発で合格することができました。",
+       "sentence_romaji": "Kare wa unten menkyo shiken ni ippatsu de goukaku suru koto ga dekimashita"
+      },
+      {
+       "key": "合格する_",
+       "sentence_audio": "/audio/japanese/sentences/s_合格する__20250209_彼が国家試験に合格することを祈っています.mp3",
+       "sentence_english": "I am praying for him to pass the national exam.",
+       "sentence_original": "彼が国家試験に合格することを祈っています。",
+       "sentence_romaji": "Kare ga kokka shiken ni goukaku suru koto o inotteimasu"
+      },
+      {
+       "key": "合格する_",
+       "sentence_audio": "/audio/japanese/sentences/s_合格する__20250209_努力を続けたおかげで彼はとうとう医学部に合格することができました.mp3",
+       "sentence_english": "Thanks to his continued efforts, he was finally able to pass the medical school entrance exam.",
+       "sentence_original": "努力を続けたおかげで、彼はとうとう医学部に合格することができました。",
+       "sentence_romaji": "Doryoku o tsuzuketa okage de, kare wa toutou igakubu ni goukaku suru koto ga dekimashita"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_合格する.mp3",
+     "vocabulary_english": "to pass an examination",
+     "vocabulary_original": "合格する_",
+     "vocabulary_simplified": "ごうかくする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "探検する_",
+       "sentence_audio": "/audio/japanese/sentences/s_探検する__20250209_未知の土地を探検するのは興味深い経験です.mp3",
+       "sentence_english": "Exploring unknown lands is an interesting experience.",
+       "sentence_original": "未知の土地を探検するのは興味深い経験です。",
+       "sentence_romaji": "Michi no tochi o tanken suru no wa kyoumi bukai keiken desu"
+      },
+      {
+       "key": "探検する_",
+       "sentence_audio": "/audio/japanese/sentences/s_探検する__20250209_彼はアフリカ大陸を探検する冒険家として知られています.mp3",
+       "sentence_english": "He is known as an adventurer who explores the African continent.",
+       "sentence_original": "彼はアフリカ大陸を探検する冒険家として知られています。",
+       "sentence_romaji": "Kare wa Afurika tairiku o tanken suru boukenka toshite shirareteimasu"
+      },
+      {
+       "key": "探検する_",
+       "sentence_audio": "/audio/japanese/sentences/s_探検する__20250209_私たちは森の中で秘密の場所を探検することに決めました.mp3",
+       "sentence_english": "We decided to explore secret places in the forest.",
+       "sentence_original": "私たちは森の中で秘密の場所を探検することに決めました。",
+       "sentence_romaji": "Watashi tachi wa mori no naka de himitsu no basho o tanken suru koto ni kimemashita"
+      },
+      {
+       "key": "探検する_",
+       "sentence_audio": "/audio/japanese/sentences/s_探検する__20250209_彼女は潜水艦で深海を探検することが夢です.mp3",
+       "sentence_english": "Her dream is to explore the deep sea in a submarine.",
+       "sentence_original": "彼女は潜水艦で深海を探検することが夢です。",
+       "sentence_romaji": "Kanojo wa sensuikan de shinkai o tanken suru koto ga yume desu"
+      },
+      {
+       "key": "探検する_",
+       "sentence_audio": "/audio/japanese/sentences/s_探検する__20250209_子どもたちは宝を見つけるために洞窟を探検しました.mp3",
+       "sentence_english": "The children explored the cave to find treasure.",
+       "sentence_original": "子どもたちは宝を見つけるために洞窟を探検しました。",
+       "sentence_romaji": "Kodomo tachi wa takara o mitsukeru tame ni doukutsu o tanken shimashita"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_探検する.mp3",
+     "vocabulary_english": "to explore",
+     "vocabulary_original": "探検する_",
+     "vocabulary_simplified": "たんけんする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "吸収する_",
+       "sentence_audio": "/audio/japanese/sentences/s_吸収する__20250209_彼は新しい知識を素早く吸収する能力を持っている.mp3",
+       "sentence_english": "He has the ability to quickly absorb new knowledge.",
+       "sentence_original": "彼は新しい知識を素早く吸収する能力を持っている。",
+       "sentence_romaji": "Kare wa atarashii chishiki o subayaku kyuushuu suru nouryoku o motte iru"
+      },
+      {
+       "key": "吸収する_",
+       "sentence_audio": "/audio/japanese/sentences/s_吸収する__20250209_この植物は水分をよく吸収する.mp3",
+       "sentence_english": "This plant absorbs water well.",
+       "sentence_original": "この植物は水分をよく吸収する。",
+       "sentence_romaji": "Kono shokubutsu wa suibun o yoku kyuushuu suru"
+      },
+      {
+       "key": "吸収する_",
+       "sentence_audio": "/audio/japanese/sentences/s_吸収する__20250209_水をたくさん飲むと身体は栄養素を吸収するのに助けになります.mp3",
+       "sentence_english": "Drinking plenty of water helps the body absorb nutrients.",
+       "sentence_original": "水をたくさん飲むと、身体は栄養素を吸収するのに助けになります。",
+       "sentence_romaji": "Mizu o takusan nomu to, karada wa eiyouso o kyuushuu suru noni tasuke ni narimasu"
+      },
+      {
+       "key": "吸収する_",
+       "sentence_audio": "/audio/japanese/sentences/s_吸収する__20250209_この製品は音を吸収する素材で作られています.mp3",
+       "sentence_english": "This product is made of sound-absorbing materials.",
+       "sentence_original": "この製品は音を吸収する素材で作られています。",
+       "sentence_romaji": "Kono seihin wa oto o kyuushuu suru sozai de tsukurarete imasu"
+      },
+      {
+       "key": "吸収する_",
+       "sentence_audio": "/audio/japanese/sentences/s_吸収する__20250209_企業は競合他社を吸収することで業界のリーダーになった.mp3",
+       "sentence_english": "The company became an industry leader by absorbing its competitors.",
+       "sentence_original": "企業は競合他社を吸収することで業界のリーダーになった。",
+       "sentence_romaji": "Kigyou wa kyougou tasha o kyuushuu suru koto de gyoukai no riidaa ni natta"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_吸収する.mp3",
+     "vocabulary_english": "to absorb",
+     "vocabulary_original": "吸収する_",
+     "vocabulary_simplified": "きゅうしゅうする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "評価する_",
+       "sentence_audio": "/audio/japanese/sentences/s_評価する__20250209_仕事の成果を評価する方法を考える必要がある.mp3",
+       "sentence_english": "We need to think about a method to evaluate work results.",
+       "sentence_original": "仕事の成果を評価する方法を考える必要がある。",
+       "sentence_romaji": "Shigoto no seika o hyouka suru houhou o kangaeru hitsuyou ga aru."
+      },
+      {
+       "key": "評価する_",
+       "sentence_audio": "/audio/japanese/sentences/s_評価する__20250209_彼の努力は高く評価されています.mp3",
+       "sentence_english": "His efforts are highly appreciated.",
+       "sentence_original": "彼の努力は高く評価されています。",
+       "sentence_romaji": "Kare no doryoku wa takaku hyouka sareteimasu."
+      },
+      {
+       "key": "評価する_",
+       "sentence_audio": "/audio/japanese/sentences/s_評価する__20250209_この時計は本物かどうか評価するために専門家に見せてみよう.mp3",
+       "sentence_english": "Let's show this watch to an expert to evaluate whether it is genuine or not.",
+       "sentence_original": "この時計は本物かどうか評価するために専門家に見せてみよう。",
+       "sentence_romaji": "Kono tokei wa honmono ka douka hyouka suru tame ni senmonka ni misetemiyou."
+      },
+      {
+       "key": "評価する_",
+       "sentence_audio": "/audio/japanese/sentences/s_評価する__20250209_経験が評価されるのではなく結果を評価するべきだ.mp3",
+       "sentence_english": "We should evaluate results rather than experience.",
+       "sentence_original": "経験が評価されるのではなく、結果を評価するべきだ。",
+       "sentence_romaji": "Keiken ga hyouka sareru no de wa naku, kekka o hyouka suru beki da."
+      },
+      {
+       "key": "評価する_",
+       "sentence_audio": "/audio/japanese/sentences/s_評価する__20250209_映画の評価は個人の好みによりますのでネット上の評価だけを頼りにしないでください.mp3",
+       "sentence_english": "Movie ratings depend on personal preferences, so please don't rely solely on online ratings.",
+       "sentence_original": "映画の評価は個人の好みによりますので、ネット上の評価だけを頼りにしないでください。",
+       "sentence_romaji": "Eiga no hyouka wa kojin no konomi ni yorimasu node, nettojou no hyouka dake o tayori ni shinaide kudasai."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_評価する.mp3",
+     "vocabulary_english": "to appraise, to value",
+     "vocabulary_original": "評価する_",
+     "vocabulary_simplified": "ひょうかする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "計算する_",
+       "sentence_audio": "/audio/japanese/sentences/s_計算する__20250209_この問題の答えを計算してください.mp3",
+       "sentence_english": "Please calculate the answer to this problem.",
+       "sentence_original": "この問題の答えを計算してください。",
+       "sentence_romaji": "Kono mondai no kotae o keisan shite kudasai"
+      },
+      {
+       "key": "計算する_",
+       "sentence_audio": "/audio/japanese/sentences/s_計算する__20250209_予算を把握するためにすべての経費を計算しなければなりません.mp3",
+       "sentence_english": "In order to grasp the budget, all the expenses must be calculated.",
+       "sentence_original": "予算を把握するために、すべての経費を計算しなければなりません。",
+       "sentence_romaji": "Yosan o haaku suru tame ni, subete no keihi o keisan shinakereba narimasen"
+      },
+      {
+       "key": "計算する_",
+       "sentence_audio": "/audio/japanese/sentences/s_計算する__20250209_レストランでお金を払う前にチップを計算する必要があります.mp3",
+       "sentence_english": "Before paying money at a restaurant, you need to calculate the tip.",
+       "sentence_original": "レストランでお金を払う前に、チップを計算する必要があります。",
+       "sentence_romaji": "Resutoran de okane o harau mae ni, chippu o keisan suru hitsuyou ga arimasu"
+      },
+      {
+       "key": "計算する_",
+       "sentence_audio": "/audio/japanese/sentences/s_計算する__20250209_計画を立てるときに時間を正確に計算することが重要です.mp3",
+       "sentence_english": "When making plans, it's important to calculate the time accurately.",
+       "sentence_original": "計画を立てるときに、時間を正確に計算することが重要です。",
+       "sentence_romaji": "Keikaku o tateru toki ni, jikan o seikaku ni keisan suru koto ga juuyou desu"
+      },
+      {
+       "key": "計算する_",
+       "sentence_audio": "/audio/japanese/sentences/s_計算する__20250209_債務の返済額を計算するために利息を含める必要があります.mp3",
+       "sentence_english": "In order to calculate the repayment amount of debt, interest needs to be included.",
+       "sentence_original": "債務の返済額を計算するために、利息を含める必要があります。",
+       "sentence_romaji": "Saimu no hensaigaku o keisan suru tame ni, risoku o fukumeru hitsuyou ga arimasu"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_計算する.mp3",
+     "vocabulary_english": "to count, to calculate, to sum up",
+     "vocabulary_original": "計算する_",
+     "vocabulary_simplified": "けいさんする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "赴任する_",
+       "sentence_audio": "/audio/japanese/sentences/s_赴任する__20250209_来週新しい部署に赴任することになりました.mp3",
+       "sentence_english": "I will be assigned to a new department next week.",
+       "sentence_original": "来週、新しい部署に赴任することになりました。",
+       "sentence_romaji": "Raishuu, atarashii busho ni funin suru koto ni narimashita."
+      },
+      {
+       "key": "赴任する_",
+       "sentence_audio": "/audio/japanese/sentences/s_赴任する__20250209_先生は地方の学校に赴任するため東京を離れます.mp3",
+       "sentence_english": "The teacher will leave Tokyo to take up a post at a school in the countryside.",
+       "sentence_original": "先生は、地方の学校に赴任するため、東京を離れます。",
+       "sentence_romaji": "Sensei wa, chihou no gakkou ni funin suru tame, Toukyou o hanaremasu."
+      },
+      {
+       "key": "赴任する_",
+       "sentence_audio": "/audio/japanese/sentences/s_赴任する__20250209_配偶者の赴任に従って私も新しい都市に引っ越しをします.mp3",
+       "sentence_english": "I will move to a new city to accompany my spouse's job assignment.",
+       "sentence_original": "配偶者の赴任に従って、私も新しい都市に引っ越しをします。",
+       "sentence_romaji": "Haiguusha no funin ni shitagatte, watashi mo atarashii toshi ni hikkoshi o shimasu."
+      },
+      {
+       "key": "赴任する_",
+       "sentence_audio": "/audio/japanese/sentences/s_赴任する__20250209_彼は海外の支社に赴任することが決まりました.mp3",
+       "sentence_english": "He has been assigned to work at an overseas branch office.",
+       "sentence_original": "彼は海外の支社に赴任することが決まりました。",
+       "sentence_romaji": "Kare wa kaigai no shisha ni funin suru koto ga kimarimashita."
+      },
+      {
+       "key": "赴任する_",
+       "sentence_audio": "/audio/japanese/sentences/s_赴任する__20250209_今度の赴任先は遠く離れた島になりました.mp3",
+       "sentence_english": "My next assignment is on a remote island far away.",
+       "sentence_original": "今度の赴任先は、遠く離れた島になりました。",
+       "sentence_romaji": "Kondo no funin-saki wa, tooku hanareta shima ni narimashita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_赴任する.mp3",
+     "vocabulary_english": "to leave for one's new post",
+     "vocabulary_original": "赴任する_",
+     "vocabulary_simplified": "ふにんする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "申請する_",
+       "sentence_audio": "/audio/japanese/sentences/s_申請する__20250209_ビザを申請するために書類を揃えなければなりません.mp3",
+       "sentence_english": "In order to apply for a visa, you must gather the required documents.",
+       "sentence_original": "ビザを申請するために、書類を揃えなければなりません。",
+       "sentence_romaji": "Biza o shinsei suru tame ni, shorui o soroenakereba narimasen"
+      },
+      {
+       "key": "申請する_",
+       "sentence_audio": "/audio/japanese/sentences/s_申請する__20250209_奨学金を申請するには所定の手続きを行う必要があります.mp3",
+       "sentence_english": "To apply for a scholarship, you must go through the prescribed procedures.",
+       "sentence_original": "奨学金を申請するには、所定の手続きを行う必要があります。",
+       "sentence_romaji": "Shougakukin o shinsei suru ni wa, shotei no tetsuzuki o okonau hitsuyou ga arimasu"
+      },
+      {
+       "key": "申請する_",
+       "sentence_audio": "/audio/japanese/sentences/s_申請する__20250209_今年の夏休みに旅行に行く予定ですので有給休暇を申請しました.mp3",
+       "sentence_english": "I applied for paid vacation because I am planning to travel during this year's summer vacation.",
+       "sentence_original": "今年の夏休みに旅行に行く予定ですので、有給休暇を申請しました。",
+       "sentence_romaji": "Kotoshi no natsuyasumi ni ryokou ni iku yotei desu node, yuukyuu kyuuka o shinsei shimashita"
+      },
+      {
+       "key": "申請する_",
+       "sentence_audio": "/audio/japanese/sentences/s_申請する__20250209_パスポートの更新を申請する時には古いパスポートも持っていく必要があります.mp3",
+       "sentence_english": "When applying for a passport renewal, you also need to bring your old passport.",
+       "sentence_original": "パスポートの更新を申請する時には、古いパスポートも持っていく必要があります。",
+       "sentence_romaji": "Pasupooto no koushin o shinsei suru toki ni wa, furui pasupooto mo motte iku hitsuyou ga arimasu"
+      },
+      {
+       "key": "申請する_",
+       "sentence_audio": "/audio/japanese/sentences/s_申請する__20250209_私は来月研究助成金を申請する予定です.mp3",
+       "sentence_english": "I plan to apply for a research grant next month.",
+       "sentence_original": "私は来月、研究助成金を申請する予定です。",
+       "sentence_romaji": "Watashi wa raigetsu, kenkyuu joseikin o shinsei suru yotei desu"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_申請する.mp3",
+     "vocabulary_english": "to make out an application",
+     "vocabulary_original": "申請する_",
+     "vocabulary_simplified": "しんせいする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "実現する_",
+       "sentence_audio": "/audio/japanese/sentences/s_実現する__20250209_彼の夢はいつか実現するでしょう.mp3",
+       "sentence_english": "His dream will come true someday.",
+       "sentence_original": "彼の夢はいつか実現するでしょう。",
+       "sentence_romaji": "Kare no yume wa itsuka jitsugen suru deshou."
+      },
+      {
+       "key": "実現する_",
+       "sentence_audio": "/audio/japanese/sentences/s_実現する__20250209_このプロジェクトを実現するためには全員の協力が必要です.mp3",
+       "sentence_english": "In order to realize this project, the cooperation of everyone is necessary.",
+       "sentence_original": "このプロジェクトを実現するためには、全員の協力が必要です。",
+       "sentence_romaji": "Kono purojekuto o jitsugen suru tame ni wa, zen'in no kyouryoku ga hitsuyou desu."
+      },
+      {
+       "key": "実現する_",
+       "sentence_audio": "/audio/japanese/sentences/s_実現する__20250209_社長は新商品の開発を実現するために努力しています.mp3",
+       "sentence_english": "The president is making efforts to realize the development of a new product.",
+       "sentence_original": "社長は、新商品の開発を実現するために努力しています。",
+       "sentence_romaji": "Shachou wa, shin shouhin no kaihatsu o jitsugen suru tame ni doryoku shiteimasu."
+      },
+      {
+       "key": "実現する_",
+       "sentence_audio": "/audio/japanese/sentences/s_実現する__20250209_環境問題の解決を実現するためには国際的な協力が必要だ.mp3",
+       "sentence_english": "International cooperation is necessary to realize the solution of environmental problems.",
+       "sentence_original": "環境問題の解決を実現するためには、国際的な協力が必要だ。",
+       "sentence_romaji": "Kankyou mondai no kaiketsu o jitsugen suru tame ni wa, kokusaiteki na kyouryoku ga hitsuyou da."
+      },
+      {
+       "key": "実現する_",
+       "sentence_audio": "/audio/japanese/sentences/s_実現する__20250209_医学の進歩によって病気の治療が実現することがある.mp3",
+       "sentence_english": "Medical advancements can make the treatment of diseases a reality.",
+       "sentence_original": "医学の進歩によって、病気の治療が実現することがある。",
+       "sentence_romaji": "Igaku no shinpo ni yotte, byouki no chiryou ga jitsugen suru koto ga aru."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_実現する.mp3",
+     "vocabulary_english": "to be realized, to come true",
+     "vocabulary_original": "実現する_",
+     "vocabulary_simplified": "じつげんする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "賛成する_",
+       "sentence_audio": "/audio/japanese/sentences/s_賛成する__20250209_彼の案には賛成する.mp3",
+       "sentence_english": "I agree with his proposal.",
+       "sentence_original": "彼の案には賛成する。",
+       "sentence_romaji": "Kare no an ni wa sansei suru"
+      },
+      {
+       "key": "賛成する_",
+       "sentence_audio": "/audio/japanese/sentences/s_賛成する__20250209_その意見には賛成します.mp3",
+       "sentence_english": "I agree with that opinion.",
+       "sentence_original": "その意見には賛成します。",
+       "sentence_romaji": "Sono iken ni wa sansei shimasu"
+      },
+      {
+       "key": "賛成する_",
+       "sentence_audio": "/audio/japanese/sentences/s_賛成する__20250209_多くの人々が彼女の意見に賛成した.mp3",
+       "sentence_english": "Many people agreed with her opinion.",
+       "sentence_original": "多くの人々が彼女の意見に賛成した。",
+       "sentence_romaji": "Ooku no hitobito ga kanojo no iken ni sansei shita"
+      },
+      {
+       "key": "賛成する_",
+       "sentence_audio": "/audio/japanese/sentences/s_賛成する__20250209_彼らの計画に私は賛成することができない.mp3",
+       "sentence_english": "I cannot agree with their plan.",
+       "sentence_original": "彼らの計画に私は賛成することができない。",
+       "sentence_romaji": "Karera no keikaku ni watashi wa sansei suru koto ga dekinai"
+      },
+      {
+       "key": "賛成する_",
+       "sentence_audio": "/audio/japanese/sentences/s_賛成する__20250209_皆がこの案に賛成するとは限らない.mp3",
+       "sentence_english": "Not everyone may agree with this proposal.",
+       "sentence_original": "皆がこの案に賛成するとは限らない。",
+       "sentence_romaji": "Mina ga kono an ni sansei suru to wa kagiranai"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_賛成する.mp3",
+     "vocabulary_english": "to agree, to approve",
+     "vocabulary_original": "賛成する_",
+     "vocabulary_simplified": "さんせいする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "発売する_",
+       "sentence_audio": "/audio/japanese/sentences/s_発売する__20250209_この商品は来週発売する予定です.mp3",
+       "sentence_english": "This product is scheduled to be released next week.",
+       "sentence_original": "この商品は来週発売する予定です。",
+       "sentence_romaji": "Kono shouhin wa raishuu hatsubai suru yotei desu."
+      },
+      {
+       "key": "発売する_",
+       "sentence_audio": "/audio/japanese/sentences/s_発売する__20250209_その映画のDVDはもうすぐ発売されます.mp3",
+       "sentence_english": "The DVD of that movie will be released soon.",
+       "sentence_original": "その映画のDVDは、もうすぐ発売されます。",
+       "sentence_romaji": "Sono eiga no DVD wa, mou sugu hatsubai saremasu."
+      },
+      {
+       "key": "発売する_",
+       "sentence_audio": "/audio/japanese/sentences/s_発売する__20250209_新しいゲームソフトが発売されるのを楽しみにしています.mp3",
+       "sentence_english": "I'm looking forward to the release of the new game software.",
+       "sentence_original": "新しいゲームソフトが発売されるのを楽しみにしています。",
+       "sentence_romaji": "Atarashii ge-musofuto ga hatsubai sareru no o tanoshimi ni shiteimasu."
+      },
+      {
+       "key": "発売する_",
+       "sentence_audio": "/audio/japanese/sentences/s_発売する__20250209_新製品が発売される前に予約ができますか.mp3",
+       "sentence_english": "Can I pre-order the new product before it's released?",
+       "sentence_original": "新製品が発売される前に予約ができますか？",
+       "sentence_romaji": "Shinseihin ga hatsubai sareru mae ni yoyaku ga dekimasu ka?"
+      },
+      {
+       "key": "発売する_",
+       "sentence_audio": "/audio/japanese/sentences/s_発売する__20250209_発売日には多くの人がその商品を手に入れようと店に並びました.mp3",
+       "sentence_english": "On the release day, many people lined up at the store to get their hands on the product.",
+       "sentence_original": "発売日には、多くの人がその商品を手に入れようと店に並びました。",
+       "sentence_romaji": "Hatsubaibi ni wa, ooku no hito ga sono shouhin o te ni ireyou to mise ni narabimashita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_発売する.mp3",
+     "vocabulary_english": "to begin selling, to put on the market",
+     "vocabulary_original": "発売する_",
+     "vocabulary_simplified": "はつばいする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "導入する_",
+       "sentence_audio": "/audio/japanese/sentences/s_導入する__20250209_新しい技術を会社に導入することを検討しています.mp3",
+       "sentence_english": "We are considering introducing new technology to the company.",
+       "sentence_original": "新しい技術を会社に導入することを検討しています。",
+       "sentence_romaji": "Atarashii gijutsu o kaisha ni dounyuu suru koto o kentou shiteimasu."
+      },
+      {
+       "key": "導入する_",
+       "sentence_audio": "/audio/japanese/sentences/s_導入する__20250209_その企業は最新のシステムを導入する予定です.mp3",
+       "sentence_english": "The company plans to introduce the latest system.",
+       "sentence_original": "その企業は最新のシステムを導入する予定です。",
+       "sentence_romaji": "Sono kigyou wa saishin no shisutemu o dounyuu suru yotei desu."
+      },
+      {
+       "key": "導入する_",
+       "sentence_audio": "/audio/japanese/sentences/s_導入する__20250209_政府は新しい教育プログラムを導入するための法案を提出しました.mp3",
+       "sentence_english": "The government has submitted a bill to introduce a new educational program.",
+       "sentence_original": "政府は新しい教育プログラムを導入するための法案を提出しました。",
+       "sentence_romaji": "Seifu wa atarashii kyouiku puroguramu o dounyuu suru tame no houan o teishutsu shimashita."
+      },
+      {
+       "key": "導入する_",
+       "sentence_audio": "/audio/japanese/sentences/s_導入する__20250209_企業は省エネルギー対策として環境に優しい設備を導入する計画である.mp3",
+       "sentence_english": "The company plans to introduce environmentally friendly equipment as an energy-saving measure.",
+       "sentence_original": "企業は省エネルギー対策として、環境に優しい設備を導入する計画である。",
+       "sentence_romaji": "Kigyou wa shou enerugii taisaku toshite, kankyou ni yasashii setsubi o dounyuu suru keikaku de aru."
+      },
+      {
+       "key": "導入する_",
+       "sentence_audio": "/audio/japanese/sentences/s_導入する__20250209_今後3年で全国の小学校に英語教育を導入することが目標です.mp3",
+       "sentence_english": "The goal is to introduce English education to elementary schools nationwide in the next three years.",
+       "sentence_original": "今後3年で全国の小学校に英語教育を導入することが目標です。",
+       "sentence_romaji": "Kongo san-nen de zenkoku no shougakkou ni eigo kyouiku o dounyuu suru koto ga mokuhyou desu."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_導入する.mp3",
+     "vocabulary_english": "to bring in, to introduce",
+     "vocabulary_original": "導入する_",
+     "vocabulary_simplified": "どうにゅうする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "復讐する_",
+       "sentence_audio": "/audio/japanese/sentences/s_復讐する__20250209_彼はかつての敵に対して復讐する決意を固めた.mp3",
+       "sentence_english": "He was determined to take revenge on his former enemy.",
+       "sentence_original": "彼はかつての敵に対して復讐する決意を固めた。",
+       "sentence_romaji": "Kare wa katsute no teki ni taishite fukushuu suru ketsui o katameta."
+      },
+      {
+       "key": "復讐する_",
+       "sentence_audio": "/audio/japanese/sentences/s_復讐する__20250209_彼女は裏切られたので彼に復讐することを誓った.mp3",
+       "sentence_english": "She swore to take revenge on him for betraying her.",
+       "sentence_original": "彼女は裏切られたので、彼に復讐することを誓った。",
+       "sentence_romaji": "Kanojo wa uragirareta node, kare ni fukushuu suru koto o chikatta."
+      },
+      {
+       "key": "復讐する_",
+       "sentence_audio": "/audio/japanese/sentences/s_復讐する__20250209_彼らは盗まれた物を取り戻すために泥棒に復讐することにした.mp3",
+       "sentence_english": "They decided to take revenge on the thief for stealing their belongings.",
+       "sentence_original": "彼らは盗まれた物を取り戻すために泥棒に復讐することにした。",
+       "sentence_romaji": "Karera wa nusuma reta mono o torimodosu tame ni dorobou ni fukushuu suru koto ni shita."
+      },
+      {
+       "key": "復讐する_",
+       "sentence_audio": "/audio/japanese/sentences/s_復讐する__20250209_復讐することが彼の目的でありそのためならすべての手段を使うつもりだ.mp3",
+       "sentence_english": "Taking revenge is his goal, and he intends to use all means necessary to achieve it.",
+       "sentence_original": "復讐することが彼の目的であり、そのためならすべての手段を使うつもりだ。",
+       "sentence_romaji": "Fukushuu suru koto ga kare no mokuteki de ari, sono tame nara subete no shudan o tsukau tsumori da."
+      },
+      {
+       "key": "復讐する_",
+       "sentence_audio": "/audio/japanese/sentences/s_復讐する__20250209_問題の解決のために復讐することは困難な道を選ぶことだ.mp3",
+       "sentence_english": "Choosing to take revenge for resolving a problem is choosing a difficult path.",
+       "sentence_original": "問題の解決のために復讐することは困難な道を選ぶことだ。",
+       "sentence_romaji": "Mondai no kaiketsu no tame ni fukushuu suru koto wa konnan na michi o erabu koto da."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_復讐する.mp3",
+     "vocabulary_english": "to revenge",
+     "vocabulary_original": "復讐する_",
+     "vocabulary_simplified": "ふくしゅうする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "指名する_",
+       "sentence_audio": "/audio/japanese/sentences/s_指名する__20250209_彼をチームリーダーとして指名することにしました.mp3",
+       "sentence_english": "We decided to nominate him as the team leader.",
+       "sentence_original": "彼をチームリーダーとして指名することにしました。",
+       "sentence_romaji": "Kare o chiimu riidaa to shite shimei suru koto ni shimashita."
+      },
+      {
+       "key": "指名する_",
+       "sentence_audio": "/audio/japanese/sentences/s_指名する__20250209_社長が新しいプロジェクトのメンバーを指名しました.mp3",
+       "sentence_english": "The president nominated the members for the new project.",
+       "sentence_original": "社長が新しいプロジェクトのメンバーを指名しました。",
+       "sentence_romaji": "Shachou ga atarashii purojekuto no menbaa o shimei shimashita."
+      },
+      {
+       "key": "指名する_",
+       "sentence_audio": "/audio/japanese/sentences/s_指名する__20250209_彼女は最も賞を受賞する可能性が高いと指名されています.mp3",
+       "sentence_english": "She is nominated as the most likely to win the award.",
+       "sentence_original": "彼女は最も賞を受賞する可能性が高いと指名されています。",
+       "sentence_romaji": "Kanojo wa motto mo shou o juushou suru kanousei ga takai to shimei sarete imasu."
+      },
+      {
+       "key": "指名する_",
+       "sentence_audio": "/audio/japanese/sentences/s_指名する__20250209_指名された人は前に進んでスピーチをお願いします.mp3",
+       "sentence_english": "The nominated person, please come forward and give a speech.",
+       "sentence_original": "指名された人は前に進んでスピーチをお願いします。",
+       "sentence_romaji": "Shimei sareta hito wa mae ni susunde supiichi o onegaishimasu."
+      },
+      {
+       "key": "指名する_",
+       "sentence_audio": "/audio/japanese/sentences/s_指名する__20250209_全員が意見を述べるために一人ずつ指名しましょう.mp3",
+       "sentence_english": "Let's nominate one by one for everyone to express their opinions.",
+       "sentence_original": "全員が意見を述べるために、一人ずつ指名しましょう。",
+       "sentence_romaji": "Zen'in ga iken o noberu tame ni, hitori zutsu shimei shimashou."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_指名する.mp3",
+     "vocabulary_english": "to nominate, to designate",
+     "vocabulary_original": "指名する_",
+     "vocabulary_simplified": "しめいする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "中継する_",
+       "sentence_audio": "/audio/japanese/sentences/s_中継する__20250209_大会の様子がテレビで中継されている.mp3",
+       "sentence_english": "The competition is being broadcasted on TV.",
+       "sentence_original": "大会の様子がテレビで中継されている。",
+       "sentence_romaji": "Taikai no yousu ga terebi de chuukei sarete iru"
+      },
+      {
+       "key": "中継する_",
+       "sentence_audio": "/audio/japanese/sentences/s_中継する__20250209_友達がスマホでライブを中継してくれた.mp3",
+       "sentence_english": "My friend live-streamed the concert for me on their smartphone.",
+       "sentence_original": "友達がスマホでライブを中継してくれた。",
+       "sentence_romaji": "Tomodachi ga sumaho de raibu o chuukei shite kureta"
+      },
+      {
+       "key": "中継する_",
+       "sentence_audio": "/audio/japanese/sentences/s_中継する__20250209_オリンピックの開会式が全国に中継された.mp3",
+       "sentence_english": "The Olympic opening ceremony was broadcasted nationwide.",
+       "sentence_original": "オリンピックの開会式が全国に中継された。",
+       "sentence_romaji": "Orinpikku no kaikaishiki ga zenkoku ni chuukei sareta"
+      },
+      {
+       "key": "中継する_",
+       "sentence_audio": "/audio/japanese/sentences/s_中継する__20250209_会議中の内容を遠隔地に中継するためウェブカメラが必要だ.mp3",
+       "sentence_english": "We need a webcam to relay the contents of the meeting to remote locations.",
+       "sentence_original": "会議中の内容を遠隔地に中継するため、ウェブカメラが必要だ。",
+       "sentence_romaji": "Kaigichuu no naiyou o enkaku chi ni chuukei suru tame, webukamera ga hitsuyou da."
+      },
+      {
+       "key": "中継する_",
+       "sentence_audio": "/audio/japanese/sentences/s_中継する__20250209_新聞記者は会見の模様をライブ中継で伝えた.mp3",
+       "sentence_english": "The newspaper reporter conveyed the press conference through a live broadcast.",
+       "sentence_original": "新聞記者は会見の模様をライブ中継で伝えた。",
+       "sentence_romaji": "Shinbun kisha wa kaiken no moyou o raibu chuukei de tsutaeta"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_中継する.mp3",
+     "vocabulary_english": "to relay (a broadcast)",
+     "vocabulary_original": "中継する_",
+     "vocabulary_simplified": "ちゅうけいする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "輸出する_",
+       "sentence_audio": "/audio/japanese/sentences/s_輸出する__20250209_この製品は主にアメリカに輸出されている.mp3",
+       "sentence_english": "This product is mainly exported to the United States.",
+       "sentence_original": "この製品は主にアメリカに輸出されている。",
+       "sentence_romaji": "Kono seihin wa omoni Amerika ni yushutsu sarete iru."
+      },
+      {
+       "key": "輸出する_",
+       "sentence_audio": "/audio/japanese/sentences/s_輸出する__20250209_日本はその技術を世界中に輸出している.mp3",
+       "sentence_english": "Japan is exporting its technology to the world.",
+       "sentence_original": "日本はその技術を世界中に輸出している。",
+       "sentence_romaji": "Nihon wa sono gijutsu o sekaichuu ni yushutsu shite iru."
+      },
+      {
+       "key": "輸出する_",
+       "sentence_audio": "/audio/japanese/sentences/s_輸出する__20250209_我が国の経済は輸出に大きく依存している.mp3",
+       "sentence_english": "Our country's economy is heavily dependent on exports.",
+       "sentence_original": "我が国の経済は、輸出に大きく依存している。",
+       "sentence_romaji": "Wagakuni no keizai wa, yushutsu ni ookiku izon shite iru."
+      },
+      {
+       "key": "輸出する_",
+       "sentence_audio": "/audio/japanese/sentences/s_輸出する__20250209_産業部門は輸出による売上を伸ばしていく方針だ.mp3",
+       "sentence_english": "The industrial sector aims to increase sales through exports.",
+       "sentence_original": "産業部門は、輸出による売上を伸ばしていく方針だ。",
+       "sentence_romaji": "Sangyo bumon wa, yushutsu ni yoru uriage o nobashite iku houshin da."
+      },
+      {
+       "key": "輸出する_",
+       "sentence_audio": "/audio/japanese/sentences/s_輸出する__20250209_輸出の規制が緩和されることで農業関連商品が大量に外国へ送られた.mp3",
+       "sentence_english": "With the relaxation of export regulations, a large amount of agricultural products were sent to foreign countries.",
+       "sentence_original": "輸出の規制が緩和されることで、農業関連商品が大量に外国へ送られた。",
+       "sentence_romaji": "Yushutsu no kisei ga kanwa sareru koto de, nōgyō kanren shōhin ga tairyo ni gaikoku e okurareta."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_輸出する.mp3",
+     "vocabulary_english": "to export",
+     "vocabulary_original": "輸出する_",
+     "vocabulary_simplified": "ゆしゅつする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "欠席する_",
+       "sentence_audio": "/audio/japanese/sentences/s_欠席する__20250209_彼は風邪で学校を欠席しました.mp3",
+       "sentence_english": "He was absent from school due to a cold.",
+       "sentence_original": "彼は風邪で学校を欠席しました。",
+       "sentence_romaji": "Kare wa kaze de gakkou o kesseki shimashita"
+      },
+      {
+       "key": "欠席する_",
+       "sentence_audio": "/audio/japanese/sentences/s_欠席する__20250209_話し合いに欠席する場合は事前に伝えてください.mp3",
+       "sentence_english": "Please let us know in advance if you will be absent from the discussion.",
+       "sentence_original": "話し合いに欠席する場合は、事前に伝えてください。",
+       "sentence_romaji": "Hanashiai ni kesseki suru baai wa, jizen ni tsutaete kudasai"
+      },
+      {
+       "key": "欠席する_",
+       "sentence_audio": "/audio/japanese/sentences/s_欠席する__20250209_明日の会議を欠席しても構いませんか.mp3",
+       "sentence_english": "Is it okay if I am absent from tomorrow's meeting?",
+       "sentence_original": "明日の会議を欠席しても構いませんか。",
+       "sentence_romaji": "Ashita no kaigi o kesseki shite mo kamaimasen ka"
+      },
+      {
+       "key": "欠席する_",
+       "sentence_audio": "/audio/japanese/sentences/s_欠席する__20250209_地球温暖化の問題については必ず出席し議論を欠席するのは避けてください.mp3",
+       "sentence_english": "Please make sure to attend and avoid being absent from discussions on the issue of global warming.",
+       "sentence_original": "地球温暖化の問題については必ず出席し、議論を欠席するのは避けてください。",
+       "sentence_romaji": "Chikyuu ondanka no mondai ni tsuite wa kanarazu shusseki shi, giron o kesseki suru no wa sakete kudasai"
+      },
+      {
+       "key": "欠席する_",
+       "sentence_audio": "/audio/japanese/sentences/s_欠席する__20250209_クラスでみんなが何かを学ぶとき欠席すると情報が抜けてしまう.mp3",
+       "sentence_english": "When everyone is learning something in class, being absent makes you miss out on information.",
+       "sentence_original": "クラスでみんなが何かを学ぶとき、欠席すると情報が抜けてしまう。",
+       "sentence_romaji": "Kurasu de minna ga nani ka o manabu toki, kesseki suru to jouhou ga nukete shimau"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_欠席する.mp3",
+     "vocabulary_english": "to be absent",
+     "vocabulary_original": "欠席する_",
+     "vocabulary_simplified": "けっせきする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "支出する_",
+       "sentence_audio": "/audio/japanese/sentences/s_支出する__20250209_生活費を支出するために働いています.mp3",
+       "sentence_english": "I am working to pay for my living expenses.",
+       "sentence_original": "生活費を支出するために働いています。",
+       "sentence_romaji": "Seikatsuhi o shishutsu suru tame ni hataraiteimasu."
+      },
+      {
+       "key": "支出する_",
+       "sentence_audio": "/audio/japanese/sentences/s_支出する__20250209_今月は無駄な費用を支出しないようにしよう.mp3",
+       "sentence_english": "Let's try not to spend unnecessary expenses this month.",
+       "sentence_original": "今月は無駄な費用を支出しないようにしよう。",
+       "sentence_romaji": "Kongetsu wa muda na hiyou o shishutsu shinai you ni shiyou."
+      },
+      {
+       "key": "支出する_",
+       "sentence_audio": "/audio/japanese/sentences/s_支出する__20250209_その新しいプロジェクトに多くの資金を支出することになります.mp3",
+       "sentence_english": "We will spend a lot of funds on that new project.",
+       "sentence_original": "その新しいプロジェクトに多くの資金を支出することになります。",
+       "sentence_romaji": "Sono atarashii purojekuto ni ooku no shikin o shishutsu suru koto ni narimasu."
+      },
+      {
+       "key": "支出する_",
+       "sentence_audio": "/audio/japanese/sentences/s_支出する__20250209_政府は教育により多くの予算を支出すべきだ.mp3",
+       "sentence_english": "The government should spend more budget on education.",
+       "sentence_original": "政府は教育により多くの予算を支出すべきだ。",
+       "sentence_romaji": "Seifu wa kyouiku ni yori ooku no yosan o shishutsu subeki da."
+      },
+      {
+       "key": "支出する_",
+       "sentence_audio": "/audio/japanese/sentences/s_支出する__20250209_家族旅行にかかる費用を支出するつもりです.mp3",
+       "sentence_english": "I plan to spend money on the family trip.",
+       "sentence_original": "家族旅行にかかる費用を支出するつもりです。",
+       "sentence_romaji": "Kazoku ryokou ni kakaru hiyou o shishutsu suru tsumori desu."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_支出する.mp3",
+     "vocabulary_english": "to spend (expenditures)",
+     "vocabulary_original": "支出する_",
+     "vocabulary_simplified": "ししゅつする",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "suru_essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "混乱する_",
+       "sentence_audio": "/audio/japanese/sentences/s_混乱する__20250209_そのニュースによって人々は混乱してしまった.mp3",
+       "sentence_english": "People became confused due to that news.",
+       "sentence_original": "そのニュースによって人々は混乱してしまった。",
+       "sentence_romaji": "Sono nyuusu ni yotte hitobito wa konran shite shimatta."
+      },
+      {
+       "key": "混乱する_",
+       "sentence_audio": "/audio/japanese/sentences/s_混乱する__20250209_いきなりのスケジュールの変更に彼は混乱してしまった.mp3",
+       "sentence_english": "He got confused due to the sudden schedule change.",
+       "sentence_original": "いきなりのスケジュールの変更に、彼は混乱してしまった。",
+       "sentence_romaji": "Ikinari no sukejuuru no henkou ni, kare wa konran shite shimatta."
+      },
+      {
+       "key": "混乱する_",
+       "sentence_audio": "/audio/japanese/sentences/s_混乱する__20250209_地下鉄が遅れたため朝の通勤が混乱してしまった.mp3",
+       "sentence_english": "Due to the subway delay, the morning commute became chaotic.",
+       "sentence_original": "地下鉄が遅れたため、朝の通勤が混乱してしまった。",
+       "sentence_romaji": "Chikatetsu ga okureta tame, asa no tsuukin ga konran shite shimatta."
+      },
+      {
+       "key": "混乱する_",
+       "sentence_audio": "/audio/japanese/sentences/s_混乱する__20250209_彼女の言ったことに対して彼は混乱している様子だった.mp3",
+       "sentence_english": "He seemed confused about what she said.",
+       "sentence_original": "彼女の言ったことに対して、彼は混乱している様子だった。",
+       "sentence_romaji": "Kanojo no itta koto ni taisite, kare wa konran shite iru yousu datta."
+      },
+      {
+       "key": "混乱する_",
+       "sentence_audio": "/audio/japanese/sentences/s_混乱する__20250209_たくさんの情報があふれているため私たちはどれが正しいか混乱することがある.mp3",
+       "sentence_english": "With so much information overflowing, we sometimes get confused about which one is correct.",
+       "sentence_original": "たくさんの情報があふれているため、私たちはどれが正しいか混乱することがある。",
+       "sentence_romaji": "Takusan no jouhou ga afurete iru tame, watashitachi wa dore ga tadashii ka konran suru koto ga aru."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_混乱する.mp3",
+     "vocabulary_english": "to be confused, to be in disorder",
+     "vocabulary_original": "混乱する_",
+     "vocabulary_simplified": "こんらんする",
+     "word_type": "Verb"
+    }
+   ]
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

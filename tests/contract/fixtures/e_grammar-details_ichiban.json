@@ -1,0 +1,52 @@
+{
+ "name": "e_grammar-details_ichiban",
+ "note": "",
+ "request": {
+  "body": {
+   "title": "A が いちばん～ (A ga ichiban～)"
+  },
+  "method": "POST",
+  "path": "/e-api/v1/grammar-details"
+ },
+ "response": {
+  "body": {
+   "grammar": {
+    "examples": [
+     {
+      "en": "Of all these, I like sushi the most.",
+      "grammar_audio": "/audio/japanese/grammar/s_A_が_いちばん～_A_ga_ichiban～_20250209_この中で寿司が一番好きです.mp3",
+      "jp": "この中で、寿司が一番好きです。",
+      "romaji": "Kono naka de, sushi ga ichiban suki desu."
+     },
+     {
+      "en": "She can swim the fastest in the class.",
+      "grammar_audio": "/audio/japanese/grammar/s_A_が_いちばん～_A_ga_ichiban～_20250209_彼女はクラスで一番速く泳げます.mp3",
+      "jp": "彼女はクラスで一番速く泳げます。",
+      "romaji": "Kanojo wa kurasu de ichiban hayaku oyogemasu."
+     },
+     {
+      "en": "In this town, this park is the most beautiful.",
+      "grammar_audio": "/audio/japanese/grammar/s_A_が_いちばん～_A_ga_ichiban～_20250209_この町ではこの公園が一番きれいです.mp3",
+      "jp": "この町では、この公園が一番きれいです。",
+      "romaji": "Kono machi de wa, kono kouen ga ichiban kirei desu."
+     },
+     {
+      "en": "Among all drinks, I like tea the most.",
+      "grammar_audio": "/audio/japanese/grammar/s_A_が_いちばん～_A_ga_ichiban～_20250209_飲み物の中では紅茶が一番好きです.mp3",
+      "jp": "飲み物の中では、紅茶が一番好きです。",
+      "romaji": "Nomimono no naka de wa, koucha ga ichiban suki desu."
+     }
+    ],
+    "formation": "Noun + が + いちばん + Adjective/Verb",
+    "long_explanation": "The A が いちばん～ grammar point is used to express a superlative degree or the highest rank. It can be translated as 'the most', 'the best', or 'the least' in English. The formation is used with various adjectives and verbs, and can also be used in comparison with other items or people.",
+    "p_tag": "JLPT_N5",
+    "s_tag": "25",
+    "short_explanation": "Express the superlative degree; 'the most', 'the best', 'the least'.",
+    "title": "A が いちばん～ (A ga ichiban～)"
+   }
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

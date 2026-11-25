@@ -1,0 +1,23 @@
+{
+ "name": "d_simple-vocabulary_寿司屋",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/simple-vocabulary/%E5%AF%BF%E5%8F%B8%E5%B1%8B"
+ },
+ "response": {
+  "body": {
+   "englishTranslations": [
+    "sushi shop",
+    "sushi restaurant",
+    "sushi bar"
+   ],
+   "hiragana": "すしや",
+   "original": "寿司屋"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

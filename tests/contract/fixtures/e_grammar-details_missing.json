@@ -1,0 +1,17 @@
+{
+ "name": "e_grammar-details_missing",
+ "note": "expect 400",
+ "request": {
+  "body": {},
+  "method": "POST",
+  "path": "/e-api/v1/grammar-details"
+ },
+ "response": {
+  "body": {
+   "error": "Title parameter is required."
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 400
+ }
+}

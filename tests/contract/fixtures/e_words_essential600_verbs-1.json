@@ -1,0 +1,2469 @@
+{
+ "name": "e_words_essential600_verbs-1",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/e-api/v1/words?p_tag=essential_600_verbs&s_tag=verbs-1"
+ },
+ "response": {
+  "body": {
+   "words": [
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "抑える_",
+       "sentence_audio": "/audio/japanese/sentences/s_抑える__20250209_彼は怒りを抑えることができなかった.mp3",
+       "sentence_english": "He was unable to suppress his anger.",
+       "sentence_original": "彼は怒りを抑えることができなかった。",
+       "sentence_romaji": "Kare wa ikari o osaeru koto ga dekinakatta."
+      },
+      {
+       "key": "抑える_",
+       "sentence_audio": "/audio/japanese/sentences/s_抑える__20250209_ボリュームを抑えて静かに音楽を聞く.mp3",
+       "sentence_english": "Listen to music quietly with the volume turned down.",
+       "sentence_original": "ボリュームを抑えて静かに音楽を聞く。",
+       "sentence_romaji": "Boryuumu o osaete shizuka ni ongaku o kiku."
+      },
+      {
+       "key": "抑える_",
+       "sentence_audio": "/audio/japanese/sentences/s_抑える__20250209_彼女は涙を抑えるために目をつぶった.mp3",
+       "sentence_english": "She closed her eyes to hold back tears.",
+       "sentence_original": "彼女は涙を抑えるために目をつぶった。",
+       "sentence_romaji": "Kanojo wa namida o osaeru tame ni me o tsubutta."
+      },
+      {
+       "key": "抑える_",
+       "sentence_audio": "/audio/japanese/sentences/s_抑える__20250209_痛みを抑えるために薬を飲む.mp3",
+       "sentence_english": "Take medicine to relieve pain.",
+       "sentence_original": "痛みを抑えるために薬を飲む。",
+       "sentence_romaji": "Itami o osaeru tame ni kusuri o nomu."
+      },
+      {
+       "key": "抑える_",
+       "sentence_audio": "/audio/japanese/sentences/s_抑える__20250209_この会議では経費を抑えることが一番の目標だ.mp3",
+       "sentence_english": "The main goal of this meeting is to cut costs.",
+       "sentence_original": "この会議では経費を抑えることが一番の目標だ。",
+       "sentence_romaji": "Kono kaigi de wa keihi o osaeru koto ga ichiban no mokuhyou da."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_抑える.mp3",
+     "vocabulary_english": "to suppress, to control",
+     "vocabulary_original": "抑える_",
+     "vocabulary_simplified": "おさえる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "無くす_",
+       "sentence_audio": "/audio/japanese/sentences/s_無くす__20250209_大切な物を無くさないように気をつけましょう.mp3",
+       "sentence_english": "Let's be careful not to lose important things.",
+       "sentence_original": "大切な物を無くさないように気をつけましょう。",
+       "sentence_romaji": "Taisetsu na mono o nakusanai you ni ki o tsukemashou."
+      },
+      {
+       "key": "無くす_",
+       "sentence_audio": "/audio/japanese/sentences/s_無くす__20250209_彼はバスに財布を無くしてしまった.mp3",
+       "sentence_english": "He lost his wallet on the bus.",
+       "sentence_original": "彼はバスに財布を無くしてしまった。",
+       "sentence_romaji": "Kare wa basu ni saifu o nakushite shimatta."
+      },
+      {
+       "key": "無くす_",
+       "sentence_audio": "/audio/japanese/sentences/s_無くす__20250209_僕は何度も同じミスを繰り返して信用を無くすことになった.mp3",
+       "sentence_english": "I lost credibility by repeating the same mistake over and over again.",
+       "sentence_original": "僕は何度も同じミスを繰り返して、信用を無くすことになった。",
+       "sentence_romaji": "Boku wa nando mo onaji misu o kurikaeshite, shinyou o nakusu koto ni natta."
+      },
+      {
+       "key": "無くす_",
+       "sentence_audio": "/audio/japanese/sentences/s_無くす__20250209_彼女はダイエットして余分な体重を5キロ無くした.mp3",
+       "sentence_english": "She lost 5 kilograms of excess weight by dieting.",
+       "sentence_original": "彼女はダイエットして、余分な体重を5キロ無くした。",
+       "sentence_romaji": "Kanojo wa daietto shite, yobun na taijuu o 5-kiro nakushita."
+      },
+      {
+       "key": "無くす_",
+       "sentence_audio": "/audio/japanese/sentences/s_無くす__20250209_社会の変化によって伝統的な文化が少しずつ無くされている.mp3",
+       "sentence_english": "Traditional culture is gradually being lost due to changes in society.",
+       "sentence_original": "社会の変化によって、伝統的な文化が少しずつ無くされている。",
+       "sentence_romaji": "Shakai no henka ni yotte, dentouteki na bunka ga sukoshi zutsu nakusarete iru."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_無くす.mp3",
+     "vocabulary_english": "to lose (things)",
+     "vocabulary_original": "無くす_",
+     "vocabulary_simplified": "なくす",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "習う_",
+       "sentence_audio": "/audio/japanese/sentences/s_習う__20250209_日本語を習うことに興味がある.mp3",
+       "sentence_english": "I am interested in learning Japanese.",
+       "sentence_original": "日本語を習うことに興味がある。",
+       "sentence_romaji": "Nihongo o narau koto ni kyoumi ga aru"
+      },
+      {
+       "key": "習う_",
+       "sentence_audio": "/audio/japanese/sentences/s_習う__20250209_彼女はピアノを習っています.mp3",
+       "sentence_english": "She is learning to play the piano.",
+       "sentence_original": "彼女はピアノを習っています。",
+       "sentence_romaji": "Kanojo wa piano o naratteimasu"
+      },
+      {
+       "key": "習う_",
+       "sentence_audio": "/audio/japanese/sentences/s_習う__20250209_このクラスでは新しい文法を習います.mp3",
+       "sentence_english": "In this class, we will learn new grammar.",
+       "sentence_original": "このクラスでは新しい文法を習います。",
+       "sentence_romaji": "Kono kurasu de wa atarashii bunpou o naraimasu"
+      },
+      {
+       "key": "習う_",
+       "sentence_audio": "/audio/japanese/sentences/s_習う__20250209_僕は子供の頃水泳を習いました.mp3",
+       "sentence_english": "I learned swimming when I was a child.",
+       "sentence_original": "僕は子供の頃、水泳を習いました。",
+       "sentence_romaji": "Boku wa kodomo no koro, suiei o naraimashita"
+      },
+      {
+       "key": "習う_",
+       "sentence_audio": "/audio/japanese/sentences/s_習う__20250209_彼は剣道を習い始めたばかりです.mp3",
+       "sentence_english": "He has just started learning Kendo.",
+       "sentence_original": "彼は剣道を習い始めたばかりです。",
+       "sentence_romaji": "Kare wa kendou o naraihajimeta bakari desu"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_習う.mp3",
+     "vocabulary_english": "to learn",
+     "vocabulary_original": "習う_",
+     "vocabulary_simplified": "ならう",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "下がる_",
+       "sentence_audio": "/audio/japanese/sentences/s_下がる__20250209_今日の気温は急に下がった.mp3",
+       "sentence_english": "The temperature dropped suddenly today.",
+       "sentence_original": "今日の気温は急に下がった。",
+       "sentence_romaji": "Kyou no kion wa kyuu ni sagatta."
+      },
+      {
+       "key": "下がる_",
+       "sentence_audio": "/audio/japanese/sentences/s_下がる__20250209_この道を下がって左に曲がってください.mp3",
+       "sentence_english": "Please go down this street and turn left.",
+       "sentence_original": "この道を下がって左に曲がってください。",
+       "sentence_romaji": "Kono michi wo sagatte hidari ni magatte kudasai."
+      },
+      {
+       "key": "下がる_",
+       "sentence_audio": "/audio/japanese/sentences/s_下がる__20250209_株価が下がることで投資家たちは悲鳴をあげた.mp3",
+       "sentence_english": "As stock prices fell, investors screamed in despair.",
+       "sentence_original": "株価が下がることで、投資家たちは悲鳴をあげた。",
+       "sentence_romaji": "Kabuka ga sagaru koto de, toushikatachi wa himei wo ageta."
+      },
+      {
+       "key": "下がる_",
+       "sentence_audio": "/audio/japanese/sentences/s_下がる__20250209_近所の川の水位が少し下がっているようだ.mp3",
+       "sentence_english": "It seems that the water level of the nearby river has dropped a little.",
+       "sentence_original": "近所の川の水位が少し下がっているようだ。",
+       "sentence_romaji": "Kinjo no kawa no sui'i ga sukoshi sagatteiru you da."
+      },
+      {
+       "key": "下がる_",
+       "sentence_audio": "/audio/japanese/sentences/s_下がる__20250209_値段が下がるとより多くの人がその商品を買うでしょう.mp3",
+       "sentence_english": "When the price drops, more people are likely to buy the product.",
+       "sentence_original": "値段が下がると、より多くの人がその商品を買うでしょう。",
+       "sentence_romaji": "Nedan ga sagaru to, yori ooku no hito ga sono shouhin wo kau deshou."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_下がる.mp3",
+     "vocabulary_english": "to fall, to drop, to hang",
+     "vocabulary_original": "下がる_",
+     "vocabulary_simplified": "さがる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "直る_",
+       "sentence_audio": "/audio/japanese/sentences/s_直る__20250209_壊れた時計が直ってまた使えるようになった.mp3",
+       "sentence_english": "The broken clock got fixed, and it became usable again.",
+       "sentence_original": "壊れた時計が直って、また使えるようになった。",
+       "sentence_romaji": "Kowareta tokei ga naotte, mata tsukaeru you ni natta."
+      },
+      {
+       "key": "直る_",
+       "sentence_audio": "/audio/japanese/sentences/s_直る__20250209_彼は早く壊れた自転車が直ることを願っている.mp3",
+       "sentence_english": "He is hoping that his broken bicycle will be fixed soon.",
+       "sentence_original": "彼は早く壊れた自転車が直ることを願っている。",
+       "sentence_romaji": "Kare wa hayaku kowareta jitensha ga naoru koto o negatte iru."
+      },
+      {
+       "key": "直る_",
+       "sentence_audio": "/audio/japanese/sentences/s_直る__20250209_この不具合はすぐに直ると思います.mp3",
+       "sentence_english": "I think this issue will be fixed soon.",
+       "sentence_original": "この不具合はすぐに直ると思います。",
+       "sentence_romaji": "Kono fugai wa sugu ni naoru to omoimasu."
+      },
+      {
+       "key": "直る_",
+       "sentence_audio": "/audio/japanese/sentences/s_直る__20250209_電話の不具合が直るまでメールで連絡しましょう.mp3",
+       "sentence_english": "Until the phone issue is fixed, let's contact each other by email.",
+       "sentence_original": "電話の不具合が直るまで、メールで連絡しましょう。",
+       "sentence_romaji": "Denwa no fuguai ga naoru made, meeru de renraku shimashou."
+      },
+      {
+       "key": "直る_",
+       "sentence_audio": "/audio/japanese/sentences/s_直る__20250209_パソコンが直るまで仕事に遅れが出るかもしれません.mp3",
+       "sentence_english": "Until my computer is fixed, there might be delays in my work.",
+       "sentence_original": "パソコンが直るまで、仕事に遅れが出るかもしれません。",
+       "sentence_romaji": "Pasokon ga naoru made, shigoto ni okure ga deru kamo shiremasen."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_直る.mp3",
+     "vocabulary_english": "to be corrected, to be repaired",
+     "vocabulary_original": "直る_",
+     "vocabulary_simplified": "なおる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "助かる_",
+       "sentence_audio": "/audio/japanese/sentences/s_助かる__20250209_あなたのおかげで助かりました.mp3",
+       "sentence_english": "Thanks to you, I was saved.",
+       "sentence_original": "あなたのおかげで助かりました。",
+       "sentence_romaji": "Anata no okage de tasukarimashita."
+      },
+      {
+       "key": "助かる_",
+       "sentence_audio": "/audio/japanese/sentences/s_助かる__20250209_彼女のおかげで長い演説を聞かなくて済み助かりました.mp3",
+       "sentence_english": "Thanks to her, I didn’t have to listen to the long speech and was saved.",
+       "sentence_original": "彼女のおかげで、長い演説を聞かなくて済み、助かりました。",
+       "sentence_romaji": "Kanojo no okage de, nagai enzetsu o kikanakute sumi, tasukarimashita."
+      },
+      {
+       "key": "助かる_",
+       "sentence_audio": "/audio/japanese/sentences/s_助かる__20250209_雨が降り始めた時友達が傘を貸してくれたので助かりました.mp3",
+       "sentence_english": "When it started raining, my friend lent me an umbrella and I was saved.",
+       "sentence_original": "雨が降り始めた時、友達が傘を貸してくれたので助かりました。",
+       "sentence_romaji": "Ame ga furihajimeta toki, tomodachi ga kasa o kashite kureta node tasukatta."
+      },
+      {
+       "key": "助かる_",
+       "sentence_audio": "/audio/japanese/sentences/s_助かる__20250209_迷子になったが親切な人が道案内してくれたので助かりました.mp3",
+       "sentence_english": "I got lost, but a kind person showed me the way and I was saved.",
+       "sentence_original": "迷子になったが、親切な人が道案内してくれたので助かりました。",
+       "sentence_romaji": "Maigo ni natta ga, shinsetsu na hito ga michiannai shite kureta node tasukarimashita."
+      },
+      {
+       "key": "助かる_",
+       "sentence_audio": "/audio/japanese/sentences/s_助かる__20250209_タイムリミットが延長されおかげでプロジェクトを完成させることができ助かりました.mp3",
+       "sentence_english": "The deadline was extended, so I was able to complete the project and was saved.",
+       "sentence_original": "タイムリミットが延長され、おかげでプロジェクトを完成させることができ、助かりました。",
+       "sentence_romaji": "Taimurimitto ga enchou sare, okage de purojekuto o kansei suru koto ga dekite, tasukarimashita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_助かる.mp3",
+     "vocabulary_english": "to be saved, to be rescued, to be spared",
+     "vocabulary_original": "助かる_",
+     "vocabulary_simplified": "たすかる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "咲く_",
+       "sentence_audio": "/audio/japanese/sentences/s_咲く__20250209_春になると桜が咲く.mp3",
+       "sentence_english": "Cherry blossoms bloom when spring comes.",
+       "sentence_original": "春になると桜が咲く。",
+       "sentence_romaji": "Haru ni naru to sakura ga saku."
+      },
+      {
+       "key": "咲く_",
+       "sentence_audio": "/audio/japanese/sentences/s_咲く__20250209_庭園にはたくさんの花が咲いています.mp3",
+       "sentence_english": "Many flowers are blooming in the garden.",
+       "sentence_original": "庭園にはたくさんの花が咲いています。",
+       "sentence_romaji": "Teien ni wa takusan no hana ga saiteimasu."
+      },
+      {
+       "key": "咲く_",
+       "sentence_audio": "/audio/japanese/sentences/s_咲く__20250209_この木は毎年同じ時期に花が咲く.mp3",
+       "sentence_english": "This tree blooms flowers every year at the same time.",
+       "sentence_original": "この木は毎年同じ時期に花が咲く。",
+       "sentence_romaji": "Kono ki wa mainen onaji jiki ni hana ga saku."
+      },
+      {
+       "key": "咲く_",
+       "sentence_audio": "/audio/japanese/sentences/s_咲く__20250209_もうすぐ夏だから向日葵が咲き始める.mp3",
+       "sentence_english": "Sunflowers will start to bloom soon because it's almost summer.",
+       "sentence_original": "もうすぐ夏だから向日葵が咲き始める。",
+       "sentence_romaji": "Mou sugu natsu dakara himawari ga sakihajimeru."
+      },
+      {
+       "key": "咲く_",
+       "sentence_audio": "/audio/japanese/sentences/s_咲く__20250209_山の斜面には野生の花々が咲いていました.mp3",
+       "sentence_english": "Wildflowers were blooming on the mountainside.",
+       "sentence_original": "山の斜面には野生の花々が咲いていました。",
+       "sentence_romaji": "Yama no shamen ni wa yasei no hanabana ga saiteimashita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_咲く.mp3",
+     "vocabulary_english": "to bloom",
+     "vocabulary_original": "咲く_",
+     "vocabulary_simplified": "さく",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "効く（利く）_",
+       "sentence_audio": "/audio/japanese/sentences/s_効く利く__20250209_頭痛薬がすぐに効くことを願っています.mp3",
+       "sentence_english": "I hope the headache medicine works quickly.",
+       "sentence_original": "頭痛薬がすぐに効くことを願っています。",
+       "sentence_romaji": "Zutsuu kusuri ga sugu ni kiku koto o negatte imasu"
+      },
+      {
+       "key": "効く（利く）_",
+       "sentence_audio": "/audio/japanese/sentences/s_効く利く__20250209_この毒には解毒剤が効くでしょうか.mp3",
+       "sentence_english": "Will the antidote work for this poison?",
+       "sentence_original": "この毒には解毒剤が効くでしょうか。",
+       "sentence_romaji": "Kono doku ni wa gedokuzai ga kiku deshou ka"
+      },
+      {
+       "key": "効く（利く）_",
+       "sentence_audio": "/audio/japanese/sentences/s_効く利く__20250209_そのエクササイズは腹筋に効く.mp3",
+       "sentence_english": "That exercise works well on the abdominal muscles.",
+       "sentence_original": "そのエクササイズは腹筋に効く。",
+       "sentence_romaji": "Sono ekusasaizu wa fukkin ni kiku"
+      },
+      {
+       "key": "効く（利く）_",
+       "sentence_audio": "/audio/japanese/sentences/s_効く利く__20250209_節約に効く方法を試してみましょう.mp3",
+       "sentence_english": "Let's try a method that effectively saves money.",
+       "sentence_original": "節約に効く方法を試してみましょう。",
+       "sentence_romaji": "Setsuyaku ni kiku houhou o tameshite mimashou"
+      },
+      {
+       "key": "効く（利く）_",
+       "sentence_audio": "/audio/japanese/sentences/s_効く利く__20250209_このスキンケア商品はシワに効くと言われています.mp3",
+       "sentence_english": "This skincare product is said to work well on wrinkles.",
+       "sentence_original": "このスキンケア商品はシワに効くと言われています。",
+       "sentence_romaji": "Kono sukinkea shouhin wa shiwa ni kiku to iwarete imasu"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_効く（利く）.mp3",
+     "vocabulary_english": "to be effective",
+     "vocabulary_original": "効く（利く）_",
+     "vocabulary_simplified": "きく",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "だます_",
+       "sentence_audio": "/audio/japanese/sentences/s_だます__20250209_彼は私を簡単にだました.mp3",
+       "sentence_english": "He easily deceived me.",
+       "sentence_original": "彼は私を簡単にだました。",
+       "sentence_romaji": "Kare wa watashi o kantan ni damashita."
+      },
+      {
+       "key": "だます_",
+       "sentence_audio": "/audio/japanese/sentences/s_だます__20250209_彼女は上手に人をだますことができる.mp3",
+       "sentence_english": "She can skillfully deceive people.",
+       "sentence_original": "彼女は上手に人をだますことができる。",
+       "sentence_romaji": "Kanojo wa jouzu ni hito o damasu koto ga dekiru."
+      },
+      {
+       "key": "だます_",
+       "sentence_audio": "/audio/japanese/sentences/s_だます__20250209_だますつもりでしたが彼にばれてしまった.mp3",
+       "sentence_english": "I intended to deceive him, but he found out.",
+       "sentence_original": "だますつもりでしたが、彼にばれてしまった。",
+       "sentence_romaji": "Damasu tsumori deshita ga, kare ni barete shimatta."
+      },
+      {
+       "key": "だます_",
+       "sentence_audio": "/audio/japanese/sentences/s_だます__20250209_詐欺師にだまされて大金を失った.mp3",
+       "sentence_english": "I was deceived by a swindler and lost a lot of money.",
+       "sentence_original": "詐欺師にだまされて、大金を失った。",
+       "sentence_romaji": "Sagishi ni damasarete, taikin o ushinatta."
+      },
+      {
+       "key": "だます_",
+       "sentence_audio": "/audio/japanese/sentences/s_だます__20250209_彼は誰でもだませるほど口がうまい.mp3",
+       "sentence_english": "He's so good at speaking that he can deceive anyone.",
+       "sentence_original": "彼は誰でもだませるほど口がうまい。",
+       "sentence_romaji": "Kare wa dare demo damaseru hodo kuchi ga umai."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_だます.mp3",
+     "vocabulary_english": "to deceive, to cheat",
+     "vocabulary_original": "だます_",
+     "vocabulary_simplified": "だます",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "伸ばす_",
+       "sentence_audio": "/audio/japanese/sentences/s_伸ばす__20250209_髪を伸ばすことにしました.mp3",
+       "sentence_english": "I decided to grow my hair out.",
+       "sentence_original": "髪を伸ばすことにしました。",
+       "sentence_romaji": "Kami o nobasu koto ni shimashita."
+      },
+      {
+       "key": "伸ばす_",
+       "sentence_audio": "/audio/japanese/sentences/s_伸ばす__20250209_彼は足を伸ばしてリラックスしています.mp3",
+       "sentence_english": "He is relaxing by stretching his legs.",
+       "sentence_original": "彼は足を伸ばしてリラックスしています。",
+       "sentence_romaji": "Kare wa ashi o nobashite rirakkusu shiteimasu."
+      },
+      {
+       "key": "伸ばす_",
+       "sentence_audio": "/audio/japanese/sentences/s_伸ばす__20250209_学習時間を伸ばすことで成果も大きくなるでしょう.mp3",
+       "sentence_english": "By extending the study time, the results will probably improve significantly.",
+       "sentence_original": "学習時間を伸ばすことで、成果も大きくなるでしょう。",
+       "sentence_romaji": "Gakushuu jikan o nobasu koto de, seika mo ookiku naru deshou."
+      },
+      {
+       "key": "伸ばす_",
+       "sentence_audio": "/audio/japanese/sentences/s_伸ばす__20250209_今日は疲れたので昼寝の時間を伸ばしたいです.mp3",
+       "sentence_english": "I'm tired today, so I want to extend my nap time.",
+       "sentence_original": "今日は疲れたので、昼寝の時間を伸ばしたいです。",
+       "sentence_romaji": "Kyou wa tsukareta node, hirune no jikan o nobashitai desu."
+      },
+      {
+       "key": "伸ばす_",
+       "sentence_audio": "/audio/japanese/sentences/s_伸ばす__20250209_彼女は自分の限界を伸ばすために挑戦し続けました.mp3",
+       "sentence_english": "She continued to challenge herself to stretch her own limits.",
+       "sentence_original": "彼女は自分の限界を伸ばすために挑戦し続けました。",
+       "sentence_romaji": "Kanojo wa jibun no genkai o nobasu tame ni chousen shitsuzukemashita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_伸ばす.mp3",
+     "vocabulary_english": "to lengthen, to stretch, to spread out",
+     "vocabulary_original": "伸ばす_",
+     "vocabulary_simplified": "のばす",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "巻く_",
+       "sentence_audio": "/audio/japanese/sentences/s_巻く__20250209_彼は寒さに耐えるために厚いマフラーを首に巻いた.mp3",
+       "sentence_english": "He wrapped a thick scarf around his neck to endure the cold.",
+       "sentence_original": "彼は寒さに耐えるために厚いマフラーを首に巻いた。",
+       "sentence_romaji": "Kare wa samusa ni taeru tame ni atsui mafurā o kubi ni maita"
+      },
+      {
+       "key": "巻く_",
+       "sentence_audio": "/audio/japanese/sentences/s_巻く__20250209_彼女はリボンをプレゼントに巻いて可愛く飾った.mp3",
+       "sentence_english": "She wrapped a ribbon around the gift and decorated it cutely.",
+       "sentence_original": "彼女はリボンをプレゼントに巻いて可愛く飾った。",
+       "sentence_romaji": "Kanojo wa ribon o purezento ni maite kawaiku kazatta"
+      },
+      {
+       "key": "巻く_",
+       "sentence_audio": "/audio/japanese/sentences/s_巻く__20250209_彼は敷物を丸めて体に巻いた.mp3",
+       "sentence_english": "He rolled up the rug and wrapped it around his body.",
+       "sentence_original": "彼は敷物を丸めて、体に巻いた。",
+       "sentence_romaji": "Kare wa shikimono o marumete, karada ni maita"
+      },
+      {
+       "key": "巻く_",
+       "sentence_audio": "/audio/japanese/sentences/s_巻く__20250209_彼女はパーマをかける前に髪をロッドに巻いた.mp3",
+       "sentence_english": "She wrapped her hair around the rods before getting a perm.",
+       "sentence_original": "彼女はパーマをかける前に髪をロッドに巻いた。",
+       "sentence_romaji": "Kanojo wa paama o kakeru mae ni kami o roddo ni maita"
+      },
+      {
+       "key": "巻く_",
+       "sentence_audio": "/audio/japanese/sentences/s_巻く__20250209_子供たちは葉っぱを集めて棒に巻き付けた.mp3",
+       "sentence_english": "The children collected leaves and wrapped them around a stick.",
+       "sentence_original": "子供たちは葉っぱを集めて、棒に巻き付けた。",
+       "sentence_romaji": "Kodomotachi wa happa o atsumete, bou ni makitsuketa"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_巻く.mp3",
+     "vocabulary_english": "to bind, to roll up",
+     "vocabulary_original": "巻く_",
+     "vocabulary_simplified": "まく",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "楽しむ_",
+       "sentence_audio": "/audio/japanese/sentences/s_楽しむ__20250209_週末に家族と一緒に楽しむ予定があります.mp3",
+       "sentence_english": "I have plans to enjoy the weekend with my family.",
+       "sentence_original": "週末に家族と一緒に楽しむ予定があります。",
+       "sentence_romaji": "Shuumatsu ni kazoku to issho ni tanoshimu yotei ga arimasu."
+      },
+      {
+       "key": "楽しむ_",
+       "sentence_audio": "/audio/japanese/sentences/s_楽しむ__20250209_映画を観て楽しむことが好きです.mp3",
+       "sentence_english": "I like to enjoy watching movies.",
+       "sentence_original": "映画を観て楽しむことが好きです。",
+       "sentence_romaji": "Eiga o mite tanoshimu koto ga suki desu."
+      },
+      {
+       "key": "楽しむ_",
+       "sentence_audio": "/audio/japanese/sentences/s_楽しむ__20250209_友人たちと楽しむためにパーティーを開く予定です.mp3",
+       "sentence_english": "I am planning to host a party to have fun with my friends.",
+       "sentence_original": "友人たちと楽しむために、パーティーを開く予定です。",
+       "sentence_romaji": "Yuujin-tachi to tanoshimu tame ni, paatii o hiraku yotei desu."
+      },
+      {
+       "key": "楽しむ_",
+       "sentence_audio": "/audio/japanese/sentences/s_楽しむ__20250209_旅行に行ってその土地の文化を楽しむのがいいですね.mp3",
+       "sentence_english": "Going on a trip and enjoying the local culture is nice, isn't it?",
+       "sentence_original": "旅行に行って、その土地の文化を楽しむのがいいですね。",
+       "sentence_romaji": "Ryokou ni itte, sono tochi no bunka o tanoshimu no ga ii desu ne."
+      },
+      {
+       "key": "楽しむ_",
+       "sentence_audio": "/audio/japanese/sentences/s_楽しむ__20250209_彼は音楽を聴くことを本当に楽しんでいます.mp3",
+       "sentence_english": "He really enjoys listening to music.",
+       "sentence_original": "彼は音楽を聴くことを本当に楽しんでいます。",
+       "sentence_romaji": "Kare wa ongaku o kiku koto o hontou ni tanoshindeimasu."
+      },
+      {
+       "key": "楽しむ_",
+       "sentence_audio": "/audio/japanese/sentences/s_楽しむ__20250209_週末に家族と一緒に楽しむ予定があります.mp3",
+       "sentence_english": "I have plans to enjoy the weekend with my family.",
+       "sentence_original": "週末に家族と一緒に楽しむ予定があります。",
+       "sentence_romaji": "Shuumatsu ni kazoku to issho ni tanoshimu yotei ga arimasu."
+      },
+      {
+       "key": "楽しむ_",
+       "sentence_audio": "/audio/japanese/sentences/s_楽しむ__20250209_映画を観て楽しむことが好きです.mp3",
+       "sentence_english": "I like to enjoy watching movies.",
+       "sentence_original": "映画を観て楽しむことが好きです。",
+       "sentence_romaji": "Eiga o mite tanoshimu koto ga suki desu."
+      },
+      {
+       "key": "楽しむ_",
+       "sentence_audio": "/audio/japanese/sentences/s_楽しむ__20250209_友人たちと楽しむためにパーティーを開く予定です.mp3",
+       "sentence_english": "I am planning to host a party to have fun with my friends.",
+       "sentence_original": "友人たちと楽しむために、パーティーを開く予定です。",
+       "sentence_romaji": "Yuujin-tachi to tanoshimu tame ni, paatii o hiraku yotei desu."
+      },
+      {
+       "key": "楽しむ_",
+       "sentence_audio": "/audio/japanese/sentences/s_楽しむ__20250209_旅行に行ってその土地の文化を楽しむのがいいですね.mp3",
+       "sentence_english": "Going on a trip and enjoying the local culture is nice, isn't it?",
+       "sentence_original": "旅行に行って、その土地の文化を楽しむのがいいですね。",
+       "sentence_romaji": "Ryokou ni itte, sono tochi no bunka o tanoshimu no ga ii desu ne."
+      },
+      {
+       "key": "楽しむ_",
+       "sentence_audio": "/audio/japanese/sentences/s_楽しむ__20250209_彼は音楽を聴くことを本当に楽しんでいます.mp3",
+       "sentence_english": "He really enjoys listening to music.",
+       "sentence_original": "彼は音楽を聴くことを本当に楽しんでいます。",
+       "sentence_romaji": "Kare wa ongaku o kiku koto o hontou ni tanoshindeimasu."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_楽しむ.mp3",
+     "vocabulary_english": "to enjoy oneself, to take pleasure in, to have a good time",
+     "vocabulary_original": "楽しむ_",
+     "vocabulary_simplified": "たのしむ",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "増える_",
+       "sentence_audio": "/audio/japanese/sentences/s_増える__20250209_人口が増えることで都市の問題が_sarani_shinkokka_suru.mp3",
+       "sentence_english": "As the population increases, the problems of cities become even more serious.",
+       "sentence_original": "人口が増えることで、都市の問題が sarani shinkokka suru.",
+       "sentence_romaji": "Jinkou ga fueru koto de, toshi no mondai ga sarani shinkokka suru."
+      },
+      {
+       "key": "増える_",
+       "sentence_audio": "/audio/japanese/sentences/s_増える__20250209_最近仕事の量が増える一方で時間が取れません.mp3",
+       "sentence_english": "Recently, with the increasing amount of work, I can't find any time.",
+       "sentence_original": "最近、仕事の量が増える一方で、時間が取れません。",
+       "sentence_romaji": "Saikin, shigoto no ryou ga fueru ippou de, jikan ga toremasen."
+      },
+      {
+       "key": "増える_",
+       "sentence_audio": "/audio/japanese/sentences/s_増える__20250209_グローバル温暖化によって災害が増えることが予想される.mp3",
+       "sentence_english": "It is predicted that disasters will increase due to global warming.",
+       "sentence_original": "グローバル温暖化によって、災害が増えることが予想される。",
+       "sentence_romaji": "Guroobaru ondanka ni yotte, saigai ga fueru koto ga yosou sareru."
+      },
+      {
+       "key": "増える_",
+       "sentence_audio": "/audio/japanese/sentences/s_増える__20250209_フリーランスの働き方が増えるにつれて事業所の数も_fuete_iru.mp3",
+       "sentence_english": "As the number of freelancers increases, the number of businesses is also increasing.",
+       "sentence_original": "フリーランスの働き方が増えるにつれて、事業所の数も fuete iru.",
+       "sentence_romaji": "Furiiransu no hatarakikata ga fueru ni tsurete, jigyoujo no kazu mo fuete iru."
+      },
+      {
+       "key": "増える_",
+       "sentence_audio": "/audio/japanese/sentences/s_増える__20250209_ちょっとした努力が増えれば生活がずいぶん楽になるのではないか.mp3",
+       "sentence_english": "I wonder if life would be much easier if a little extra effort were made.",
+       "sentence_original": "ちょっとした努力が増えれば、生活がずいぶん楽になるのではないか.",
+       "sentence_romaji": "Chotto shita doryoku ga fuereba, seikatsu ga zuibun raku ni naru no de wa nai ka."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_増える.mp3",
+     "vocabulary_english": "to increase",
+     "vocabulary_original": "増える_",
+     "vocabulary_simplified": "ふえる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "漏れる_",
+       "sentence_audio": "/audio/japanese/sentences/s_漏れる__20250209_水が漏れるのはどこからですか.mp3",
+       "sentence_english": "Where is the water leaking from?",
+       "sentence_original": "水が漏れるのは、どこからですか？",
+       "sentence_romaji": "Mizu ga moreru no wa, doko kara desu ka?"
+      },
+      {
+       "key": "漏れる_",
+       "sentence_audio": "/audio/japanese/sentences/s_漏れる__20250209_情報が漏れることは避けたいです.mp3",
+       "sentence_english": "I want to avoid information leaks.",
+       "sentence_original": "情報が漏れることは避けたいです。",
+       "sentence_romaji": "Jouhou ga moreru koto wa saketai desu."
+      },
+      {
+       "key": "漏れる_",
+       "sentence_audio": "/audio/japanese/sentences/s_漏れる__20250209_外の雨の音が窓から部屋に漏れている.mp3",
+       "sentence_english": "The sound of the rain outside leaks into the room.",
+       "sentence_original": "外の雨の音が窓から部屋に漏れている。",
+       "sentence_romaji": "Soto no ame no oto ga mado kara heya ni morete iru."
+      },
+      {
+       "key": "漏れる_",
+       "sentence_audio": "/audio/japanese/sentences/s_漏れる__20250209_このひびからは冷気が漏れる.mp3",
+       "sentence_english": "Cold air leaks from this crack.",
+       "sentence_original": "このひびからは冷気が漏れる。",
+       "sentence_romaji": "Kono hibi kara wa reiki ga moreru."
+      },
+      {
+       "key": "漏れる_",
+       "sentence_audio": "/audio/japanese/sentences/s_漏れる__20250209_タイヤから空気が漏れているので修理しましょう.mp3",
+       "sentence_english": "Let's repair the tire as air is leaking out.",
+       "sentence_original": "タイヤから空気が漏れているので、修理しましょう。",
+       "sentence_romaji": "Taiya kara kuuki ga morete iru node, shuuri shimashou."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_漏れる.mp3",
+     "vocabulary_english": "to leak out, to escape",
+     "vocabulary_original": "漏れる_",
+     "vocabulary_simplified": "もれる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "差す_",
+       "sentence_audio": "/audio/japanese/sentences/s_差す__20250209_朝日が窓から差し込む.mp3",
+       "sentence_english": "The morning sun streams in through the window.",
+       "sentence_original": "朝日が窓から差し込む。",
+       "sentence_romaji": "Asahi ga mado kara sashikomu."
+      },
+      {
+       "key": "差す_",
+       "sentence_audio": "/audio/japanese/sentences/s_差す__20250209_彼は紙に鉛筆で線を差した.mp3",
+       "sentence_english": "He drew a line with a pencil on the paper.",
+       "sentence_original": "彼は紙に鉛筆で線を差した。",
+       "sentence_romaji": "Kare wa kami ni enpitsu de sen o sashita."
+      },
+      {
+       "key": "差す_",
+       "sentence_audio": "/audio/japanese/sentences/s_差す__20250209_傘を差さないで雨に濡れた.mp3",
+       "sentence_english": "I got wet in the rain because I didn't put up an umbrella.",
+       "sentence_original": "傘を差さないで、雨に濡れた。",
+       "sentence_romaji": "Kasa o sasanai de, ame ni nureta."
+      },
+      {
+       "key": "差す_",
+       "sentence_audio": "/audio/japanese/sentences/s_差す__20250209_郵便受けに手紙を差した.mp3",
+       "sentence_english": "I put the letter in the mailbox.",
+       "sentence_original": "郵便受けに手紙を差した。",
+       "sentence_romaji": "Yuubinuke ni tegami o sashita."
+      },
+      {
+       "key": "差す_",
+       "sentence_audio": "/audio/japanese/sentences/s_差す__20250209_彼は鍵を差してドアを開けた.mp3",
+       "sentence_english": "He inserted the key and opened the door.",
+       "sentence_original": "彼は鍵を差してドアを開けた。",
+       "sentence_romaji": "Kare wa kagi o sashite doa o aketa."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_差す.mp3",
+     "vocabulary_english": "to insert, to put up",
+     "vocabulary_original": "差す_",
+     "vocabulary_simplified": "さす",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "撮る_",
+       "sentence_audio": "/audio/japanese/sentences/s_撮る__20250209_この風景を撮るのに最適な場所はどこですか.mp3",
+       "sentence_english": "Where is the best place to take a picture of this landscape?",
+       "sentence_original": "この風景を撮るのに最適な場所はどこですか。",
+       "sentence_romaji": "Kono fuukei o toru noni saiteki na basho wa doko desu ka."
+      },
+      {
+       "key": "撮る_",
+       "sentence_audio": "/audio/japanese/sentences/s_撮る__20250209_彼女は写真を撮るのが得意です.mp3",
+       "sentence_english": "She is good at taking photos.",
+       "sentence_original": "彼女は写真を撮るのが得意です。",
+       "sentence_romaji": "Kanojo wa shashin o toru no ga tokui desu."
+      },
+      {
+       "key": "撮る_",
+       "sentence_audio": "/audio/japanese/sentences/s_撮る__20250209_今日のイベントでたくさん写真を撮りました.mp3",
+       "sentence_english": "I took many pictures at today's event.",
+       "sentence_original": "今日のイベントでたくさん写真を撮りました。",
+       "sentence_romaji": "Kyou no ibento de takusan shashin o torimashita."
+      },
+      {
+       "key": "撮る_",
+       "sentence_audio": "/audio/japanese/sentences/s_撮る__20250209_すばらしい瞬間をカメラで撮ることが大切です.mp3",
+       "sentence_english": "It is important to capture wonderful moments with a camera.",
+       "sentence_original": "すばらしい瞬間をカメラで撮ることが大切です。",
+       "sentence_romaji": "Subarashii shunkan o kamera de toru koto ga taisetsu desu."
+      },
+      {
+       "key": "撮る_",
+       "sentence_audio": "/audio/japanese/sentences/s_撮る__20250209_彼は動画を撮るのが上手です.mp3",
+       "sentence_english": "He is skilled at taking videos.",
+       "sentence_original": "彼は動画を撮るのが上手です。",
+       "sentence_romaji": "Kare wa douga o toru no ga jouzu desu."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_撮る.mp3",
+     "vocabulary_english": "to take a picture",
+     "vocabulary_original": "撮る_",
+     "vocabulary_simplified": "とる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "もうける_",
+       "sentence_audio": "/audio/japanese/sentences/s_もうける__20250209_利益をもうけるために多くの商品を販売した.mp3",
+       "sentence_english": "We sold many products to make a profit.",
+       "sentence_original": "利益をもうけるために多くの商品を販売した。",
+       "sentence_romaji": "Rieki o moukeru tame ni ōku no shōhin o hanbai shita"
+      },
+      {
+       "key": "もうける_",
+       "sentence_audio": "/audio/japanese/sentences/s_もうける__20250209_彼は投資でたくさんのお金をもうけた.mp3",
+       "sentence_english": "He made a lot of money from his investments.",
+       "sentence_original": "彼は投資でたくさんのお金をもうけた。",
+       "sentence_romaji": "Kare wa tōshi de takusan no okane o mōketa"
+      },
+      {
+       "key": "もうける_",
+       "sentence_audio": "/audio/japanese/sentences/s_もうける__20250209_新しい事業を始めて利益をもうけることを目指す.mp3",
+       "sentence_english": "We aim to make a profit by starting a new business.",
+       "sentence_original": "新しい事業を始めて利益をもうけることを目指す。",
+       "sentence_romaji": "Atarashī jigyou wo hajimete rieki o moukeru koto o mezashimasu"
+      },
+      {
+       "key": "もうける_",
+       "sentence_audio": "/audio/japanese/sentences/s_もうける__20250209_彼女は美術品の転売で利益をもうけている.mp3",
+       "sentence_english": "She makes a profit by reselling artworks.",
+       "sentence_original": "彼女は美術品の転売で利益をもうけている。",
+       "sentence_romaji": "Kanojo wa bijutsuhin no tenbai de rieki o moukete iru"
+      },
+      {
+       "key": "もうける_",
+       "sentence_audio": "/audio/japanese/sentences/s_もうける__20250209_彼は株式市場でうまく利益をもうける方法を学んでいる.mp3",
+       "sentence_english": "He is learning how to make a profit effectively in the stock market.",
+       "sentence_original": "彼は株式市場でうまく利益をもうける方法を学んでいる。",
+       "sentence_romaji": "Kare wa kabushiki shijō de umaku rieki o moukeru hōhō o manande iru"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_もうける.mp3",
+     "vocabulary_english": "to make a profit, to have a child",
+     "vocabulary_original": "もうける_",
+     "vocabulary_simplified": "もうける",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "昇る_",
+       "sentence_audio": "/audio/japanese/sentences/s_昇る__20250209_太陽が昇るのを見るのが好きです.mp3",
+       "sentence_english": "I like watching the sun rise.",
+       "sentence_original": "太陽が昇るのを見るのが好きです。",
+       "sentence_romaji": "Taiyou ga noboru no o miru no ga suki desu."
+      },
+      {
+       "key": "昇る_",
+       "sentence_audio": "/audio/japanese/sentences/s_昇る__20250209_煙突から煙が昇っている.mp3",
+       "sentence_english": "Smoke is rising from the chimney.",
+       "sentence_original": "煙突から煙が昇っている。",
+       "sentence_romaji": "Entotsu kara kemuri ga nobotte iru."
+      },
+      {
+       "key": "昇る_",
+       "sentence_audio": "/audio/japanese/sentences/s_昇る__20250209_彼は昇進して課長になった.mp3",
+       "sentence_english": "He was promoted and became a section chief.",
+       "sentence_original": "彼は昇進して課長になった。",
+       "sentence_romaji": "Kare wa shoushin shite kachou ni natta."
+      },
+      {
+       "key": "昇る_",
+       "sentence_audio": "/audio/japanese/sentences/s_昇る__20250209_気球が空高く昇る様子は幻想的だ.mp3",
+       "sentence_english": "The sight of a hot air balloon rising high into the sky is enchanting.",
+       "sentence_original": "気球が空高く昇る様子は幻想的だ。",
+       "sentence_romaji": "Kikyuu ga soratakaku noboru yousu wa gensouteki da."
+      },
+      {
+       "key": "昇る_",
+       "sentence_audio": "/audio/japanese/sentences/s_昇る__20250209_ロケットが勢いよく昇るのを見た.mp3",
+       "sentence_english": "I saw a rocket rising powerfully.",
+       "sentence_original": "ロケットが勢いよく昇るのを見た。",
+       "sentence_romaji": "Roketto ga ikiyoyoku noboru no o mita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_昇る.mp3",
+     "vocabulary_english": "to rise",
+     "vocabulary_original": "昇る_",
+     "vocabulary_simplified": "のぼる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "立てる_",
+       "sentence_audio": "/audio/japanese/sentences/s_立てる__20250209_彼は新しい計画を立てた.mp3",
+       "sentence_english": "He made a new plan.",
+       "sentence_original": "彼は新しい計画を立てた。",
+       "sentence_romaji": "Kare wa atarashii keikaku o tateru."
+      },
+      {
+       "key": "立てる_",
+       "sentence_audio": "/audio/japanese/sentences/s_立てる__20250209_彼女は自分の国の旗を立てた.mp3",
+       "sentence_english": "She raised her country's flag.",
+       "sentence_original": "彼女は自分の国の旗を立てた。",
+       "sentence_romaji": "Kanojo wa jibun no kuni no hata o tateru."
+      },
+      {
+       "key": "立てる_",
+       "sentence_audio": "/audio/japanese/sentences/s_立てる__20250209_彼らは野外でテントを立てていた.mp3",
+       "sentence_english": "They were setting up a tent outdoors.",
+       "sentence_original": "彼らは野外でテントを立てていた。",
+       "sentence_romaji": "Karera wa yagai de tento o tatete ita."
+      },
+      {
+       "key": "立てる_",
+       "sentence_audio": "/audio/japanese/sentences/s_立てる__20250209_彼はずっと指を立てたまま待っていた.mp3",
+       "sentence_english": "He waited with his finger held up the whole time.",
+       "sentence_original": "彼はずっと指を立てたまま待っていた。",
+       "sentence_romaji": "Kare wa zutto yubi o tateta mama matte ita."
+      },
+      {
+       "key": "立てる_",
+       "sentence_audio": "/audio/japanese/sentences/s_立てる__20250209_子供たちは砂の中に小さな旗を立てた.mp3",
+       "sentence_english": "The children planted small flags in the sand.",
+       "sentence_original": "子供たちは砂の中に小さな旗を立てた。",
+       "sentence_romaji": "Kodomo-tachi wa suna no naka ni chiisana hata o tateru."
+      },
+      {
+       "key": "立てる_",
+       "sentence_audio": "/audio/japanese/sentences/s_立てる__20250209_彼は新しい計画を立てた.mp3",
+       "sentence_english": "He made a new plan.",
+       "sentence_original": "彼は新しい計画を立てた。",
+       "sentence_romaji": "Kare wa atarashii keikaku o tateru."
+      },
+      {
+       "key": "立てる_",
+       "sentence_audio": "/audio/japanese/sentences/s_立てる__20250209_彼女は自分の国の旗を立てた.mp3",
+       "sentence_english": "She raised her country's flag.",
+       "sentence_original": "彼女は自分の国の旗を立てた。",
+       "sentence_romaji": "Kanojo wa jibun no kuni no hata o tateru."
+      },
+      {
+       "key": "立てる_",
+       "sentence_audio": "/audio/japanese/sentences/s_立てる__20250209_彼らは野外でテントを立てていた.mp3",
+       "sentence_english": "They were setting up a tent outdoors.",
+       "sentence_original": "彼らは野外でテントを立てていた。",
+       "sentence_romaji": "Karera wa yagai de tento o tatete ita."
+      },
+      {
+       "key": "立てる_",
+       "sentence_audio": "/audio/japanese/sentences/s_立てる__20250209_彼はずっと指を立てたまま待っていた.mp3",
+       "sentence_english": "He waited with his finger held up the whole time.",
+       "sentence_original": "彼はずっと指を立てたまま待っていた。",
+       "sentence_romaji": "Kare wa zutto yubi o tateta mama matte ita."
+      },
+      {
+       "key": "立てる_",
+       "sentence_audio": "/audio/japanese/sentences/s_立てる__20250209_子供たちは砂の中に小さな旗を立てた.mp3",
+       "sentence_english": "The children planted small flags in the sand.",
+       "sentence_original": "子供たちは砂の中に小さな旗を立てた。",
+       "sentence_romaji": "Kodomo-tachi wa suna no naka ni chiisana hata o tateru."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_立てる.mp3",
+     "vocabulary_english": "to stand, to erect, to raise, to establish",
+     "vocabulary_original": "立てる_",
+     "vocabulary_simplified": "たてる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "足りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_足りる__20250209_お金が足りなくて買い物ができません.mp3",
+       "sentence_english": "I don't have enough money to go shopping.",
+       "sentence_original": "お金が足りなくて、買い物ができません。",
+       "sentence_romaji": "Okane ga tarinakute, kaimono ga dekimasen."
+      },
+      {
+       "key": "足りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_足りる__20250209_彼の説明は十分足りると思います.mp3",
+       "sentence_english": "I think his explanation is sufficient.",
+       "sentence_original": "彼の説明は十分足りると思います。",
+       "sentence_romaji": "Kare no setsumei wa juubun tariru to omoimasu."
+      },
+      {
+       "key": "足りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_足りる__20250209_練習が足りないため成績が上がりません.mp3",
+       "sentence_english": "My grades won't improve because I don't practice enough.",
+       "sentence_original": "練習が足りないため、成績が上がりません。",
+       "sentence_romaji": "Renshuu ga tarinai tame, seiseki ga agarimasen."
+      },
+      {
+       "key": "足りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_足りる__20250209_彼女は根気が足りないと言われました.mp3",
+       "sentence_english": "She was told that she lacks patience.",
+       "sentence_original": "彼女は根気が足りないと言われました。",
+       "sentence_romaji": "Kanojo wa konki ga tarinai to iwaremashita."
+      },
+      {
+       "key": "足りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_足りる__20250209_時間が足りないと感じることがよくあります.mp3",
+       "sentence_english": "I often feel that I don't have enough time.",
+       "sentence_original": "時間が足りないと感じることがよくあります。",
+       "sentence_romaji": "Jikan ga tarinai to kanjiru koto ga yoku arimasu."
+      },
+      {
+       "key": "足りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_足りる__20250209_お金が足りなくて買い物ができません.mp3",
+       "sentence_english": "I don't have enough money to go shopping.",
+       "sentence_original": "お金が足りなくて、買い物ができません。",
+       "sentence_romaji": "Okane ga tarinakute, kaimono ga dekimasen."
+      },
+      {
+       "key": "足りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_足りる__20250209_彼の説明は十分足りると思います.mp3",
+       "sentence_english": "I think his explanation is sufficient.",
+       "sentence_original": "彼の説明は十分足りると思います。",
+       "sentence_romaji": "Kare no setsumei wa juubun tariru to omoimasu."
+      },
+      {
+       "key": "足りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_足りる__20250209_練習が足りないため成績が上がりません.mp3",
+       "sentence_english": "My grades won't improve because I don't practice enough.",
+       "sentence_original": "練習が足りないため、成績が上がりません。",
+       "sentence_romaji": "Renshuu ga tarinai tame, seiseki ga agarimasen."
+      },
+      {
+       "key": "足りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_足りる__20250209_彼女は根気が足りないと言われました.mp3",
+       "sentence_english": "She was told that she lacks patience.",
+       "sentence_original": "彼女は根気が足りないと言われました。",
+       "sentence_romaji": "Kanojo wa konki ga tarinai to iwaremashita."
+      },
+      {
+       "key": "足りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_足りる__20250209_時間が足りないと感じることがよくあります.mp3",
+       "sentence_english": "I often feel that I don't have enough time.",
+       "sentence_original": "時間が足りないと感じることがよくあります。",
+       "sentence_romaji": "Jikan ga tarinai to kanjiru koto ga yoku arimasu."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_足りる.mp3",
+     "vocabulary_english": "to be enough, to be sufficient, to suffice",
+     "vocabulary_original": "足りる_",
+     "vocabulary_simplified": "たりる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "磨く_",
+       "sentence_audio": "/audio/japanese/sentences/s_磨く__20250209_彼は毎日ギターの技術を磨いている.mp3",
+       "sentence_english": "He hones his guitar skills every day.",
+       "sentence_original": "彼は毎日ギターの技術を磨いている。",
+       "sentence_romaji": "Kare wa mainichi gitaa no gijutsu o migaite iru"
+      },
+      {
+       "key": "磨く_",
+       "sentence_audio": "/audio/japanese/sentences/s_磨く__20250209_包丁を磨くために砥石が必要です.mp3",
+       "sentence_english": "You need a whetstone to sharpen a knife.",
+       "sentence_original": "包丁を磨くために砥石が必要です。",
+       "sentence_romaji": "Houchou o migaku tame ni toishi ga hitsuyou desu"
+      },
+      {
+       "key": "磨く_",
+       "sentence_audio": "/audio/japanese/sentences/s_磨く__20250209_世界中を旅して英語を磨きたい.mp3",
+       "sentence_english": "I want to travel around the world to improve my English.",
+       "sentence_original": "世界中を旅して英語を磨きたい。",
+       "sentence_romaji": "Sekaijuu o tabi shite eigo o migakitai"
+      },
+      {
+       "key": "磨く_",
+       "sentence_audio": "/audio/japanese/sentences/s_磨く__20250209_ジムに通うことで体力を磨くことができます.mp3",
+       "sentence_english": "Going to the gym can help you improve your physical strength.",
+       "sentence_original": "ジムに通うことで体力を磨くことができます。",
+       "sentence_romaji": "Jimu ni kayou koto de tairyoku o migaku koto ga dekimasu"
+      },
+      {
+       "key": "磨く_",
+       "sentence_audio": "/audio/japanese/sentences/s_磨く__20250209_彼女は一生懸命ダンスの技能を磨き続けました.mp3",
+       "sentence_english": "She kept working hard to polish her dance skills.",
+       "sentence_original": "彼女は一生懸命ダンスの技能を磨き続けました。",
+       "sentence_romaji": "Kanojo wa isshou kenmei dansu no ginou o migakitsudukemashita"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_磨く.mp3",
+     "vocabulary_english": "to polish, to brush, to improve, to cultivate",
+     "vocabulary_original": "磨く_",
+     "vocabulary_simplified": "みがく",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "勝つ_",
+       "sentence_audio": "/audio/japanese/sentences/s_勝つ__20250209_彼は試合に勝ちました.mp3",
+       "sentence_english": "He won the match.",
+       "sentence_original": "彼は試合に勝ちました。",
+       "sentence_romaji": "Kare wa shiai ni kachimashita."
+      },
+      {
+       "key": "勝つ_",
+       "sentence_audio": "/audio/japanese/sentences/s_勝つ__20250209_私たちは必ず勝ちます.mp3",
+       "sentence_english": "We will definitely win.",
+       "sentence_original": "私たちは必ず勝ちます。",
+       "sentence_romaji": "Watashitachi wa kanarazu kachimasu."
+      },
+      {
+       "key": "勝つ_",
+       "sentence_audio": "/audio/japanese/sentences/s_勝つ__20250209_彼らはチームワークが良いので勝つ可能性が高い.mp3",
+       "sentence_english": "They have good teamwork, so there is a high possibility of winning.",
+       "sentence_original": "彼らはチームワークが良いので、勝つ可能性が高い。",
+       "sentence_romaji": "Karera wa chi-mu wa-ku ga yoi node, katsu kanousei ga takai."
+      },
+      {
+       "key": "勝つ_",
+       "sentence_audio": "/audio/japanese/sentences/s_勝つ__20250209_努力を続ければいつか勝ちます.mp3",
+       "sentence_english": "If you continue to make efforts, someday you will win.",
+       "sentence_original": "努力を続ければ、いつか勝ちます。",
+       "sentence_romaji": "Doryoku o tsudzukereba, itsuka kachimasu."
+      },
+      {
+       "key": "勝つ_",
+       "sentence_audio": "/audio/japanese/sentences/s_勝つ__20250209_試験で勝つために一生懸命勉強しましょう.mp3",
+       "sentence_english": "Let's study hard to win in the test.",
+       "sentence_original": "試験で勝つために一生懸命勉強しましょう。",
+       "sentence_romaji": "Shiken de katsu tame ni isshoukenmei benkyou shimashou."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_勝つ.mp3",
+     "vocabulary_english": "to win",
+     "vocabulary_original": "勝つ_",
+     "vocabulary_simplified": "かつ",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "解く_",
+       "sentence_audio": "/audio/japanese/sentences/s_解く__20250209_謎を解くのは楽しい.mp3",
+       "sentence_english": "Solving puzzles is fun.",
+       "sentence_original": "謎を解くのは楽しい。",
+       "sentence_romaji": "Nazo o toku no wa tanoshii."
+      },
+      {
+       "key": "解く_",
+       "sentence_audio": "/audio/japanese/sentences/s_解く__20250209_彼は数学の問題を素早く解いた.mp3",
+       "sentence_english": "He solved the math problem quickly.",
+       "sentence_original": "彼は数学の問題を素早く解いた。",
+       "sentence_romaji": "Kare wa suugaku no mondai o subayaku toita."
+      },
+      {
+       "key": "解く_",
+       "sentence_audio": "/audio/japanese/sentences/s_解く__20250209_今回のテストでは難しい漢字を解く必要があった.mp3",
+       "sentence_english": "In this test, we needed to decipher difficult kanji.",
+       "sentence_original": "今回のテストでは難しい漢字を解く必要があった。",
+       "sentence_romaji": "Konkai no tesuto dewa muzukashii kanji o toku hitsuyou ga atta."
+      },
+      {
+       "key": "解く_",
+       "sentence_audio": "/audio/japanese/sentences/s_解く__20250209_彼女がその密かなメッセージを解くことができた.mp3",
+       "sentence_english": "She was able to decipher the secret message.",
+       "sentence_original": "彼女がその密かなメッセージを解くことができた。",
+       "sentence_romaji": "Kanojo ga sono hisoka na messeiji o toku koto ga dekita."
+      },
+      {
+       "key": "解く_",
+       "sentence_audio": "/audio/japanese/sentences/s_解く__20250209_その暗号を解くためには専門家が必要だ.mp3",
+       "sentence_english": "We need an expert to decode the cipher.",
+       "sentence_original": "その暗号を解くためには専門家が必要だ。",
+       "sentence_romaji": "Sono angou o toku tame ni wa senmonka ga hitsuyou da."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_解く.mp3",
+     "vocabulary_english": "to untie, to unfasten, to solve, to relieve of a post",
+     "vocabulary_original": "解く_",
+     "vocabulary_simplified": "とく",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "贈る_",
+       "sentence_audio": "/audio/japanese/sentences/s_贈る__20250209_彼女に花を贈ることにしました.mp3",
+       "sentence_english": "I decided to give her flowers as a gift.",
+       "sentence_original": "彼女に花を贈ることにしました。",
+       "sentence_romaji": "Kanojo ni hana o okuru koto ni shimashita."
+      },
+      {
+       "key": "贈る_",
+       "sentence_audio": "/audio/japanese/sentences/s_贈る__20250209_成功を祝して彼にプレゼントを贈りたい.mp3",
+       "sentence_english": "I want to give him a present to celebrate his success.",
+       "sentence_original": "成功を祝して、彼にプレゼントを贈りたい。",
+       "sentence_romaji": "Seikou o iwatte, kare ni purezento o okuritai."
+      },
+      {
+       "key": "贈る_",
+       "sentence_audio": "/audio/japanese/sentences/s_贈る__20250209_友達の結婚式にギフトを贈るのは普通だ.mp3",
+       "sentence_english": "It's common to give a gift at a friend's wedding.",
+       "sentence_original": "友達の結婚式にギフトを贈るのは普通だ。",
+       "sentence_romaji": "Tomodachi no kekkonshiki ni gifuto o okuru no wa futsuu da."
+      },
+      {
+       "key": "贈る_",
+       "sentence_audio": "/audio/japanese/sentences/s_贈る__20250209_今年のクリスマスには家族に手紙を贈ろうと思っています.mp3",
+       "sentence_english": "I'm planning to send letters to my family for this year's Christmas.",
+       "sentence_original": "今年のクリスマスには、家族に手紙を贈ろうと思っています。",
+       "sentence_romaji": "Kotoshi no Kurisumasu ni wa, kazoku ni tegami o okurou to omotteimasu."
+      },
+      {
+       "key": "贈る_",
+       "sentence_audio": "/audio/japanese/sentences/s_贈る__20250209_彼の誕生日に何を贈ったら喜ぶだろうか.mp3",
+       "sentence_english": "What should I give him for his birthday to make him happy?",
+       "sentence_original": "彼の誕生日に何を贈ったら喜ぶだろうか？",
+       "sentence_romaji": "Kare no tanjoubi ni nani o okuttara yorokobu darou ka?"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_贈る.mp3",
+     "vocabulary_english": "to present, to give",
+     "vocabulary_original": "贈る_",
+     "vocabulary_simplified": "おくる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "争う_",
+       "sentence_audio": "/audio/japanese/sentences/s_争う__20250209_彼らは地位を争っている.mp3",
+       "sentence_english": "They are competing for position.",
+       "sentence_original": "彼らは地位を争っている。",
+       "sentence_romaji": "Karera wa chii o arasotte iru."
+      },
+      {
+       "key": "争う_",
+       "sentence_audio": "/audio/japanese/sentences/s_争う__20250209_二人の選手が優勝を争った.mp3",
+       "sentence_english": "The two athletes competed for the championship.",
+       "sentence_original": "二人の選手が優勝を争った。",
+       "sentence_romaji": "Futari no senshu ga yuushou o arasotta."
+      },
+      {
+       "key": "争う_",
+       "sentence_audio": "/audio/japanese/sentences/s_争う__20250209_その兄弟は相続権を争っていた.mp3",
+       "sentence_english": "The siblings were fighting over inheritance rights.",
+       "sentence_original": "その兄弟は相続権を争っていた。",
+       "sentence_romaji": "Sono kyoudai wa souzokken o arasotte ita."
+      },
+      {
+       "key": "争う_",
+       "sentence_audio": "/audio/japanese/sentences/s_争う__20250209_複数の会社がこのプロジェクトに関する契約を争っている.mp3",
+       "sentence_english": "Several companies are competing for the contract related to this project.",
+       "sentence_original": "複数の会社がこのプロジェクトに関する契約を争っている。",
+       "sentence_romaji": "Fukusuu no kaisha ga kono purojekuto ni kan suru keiyaku o arasotte iru."
+      },
+      {
+       "key": "争う_",
+       "sentence_audio": "/audio/japanese/sentences/s_争う__20250209_国家間で資源を争うことが多い.mp3",
+       "sentence_english": "Countries often compete over resources.",
+       "sentence_original": "国家間で資源を争うことが多い。",
+       "sentence_romaji": "Kokka kan de shigen o arasou koto ga ooi."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_争う.mp3",
+     "vocabulary_english": "to fight, to compete, to dispute, to contend",
+     "vocabulary_original": "争う_",
+     "vocabulary_simplified": "あらそう",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "上げる_",
+       "sentence_audio": "/audio/japanese/sentences/s_上げる__20250209_手を上げると質問をすることができる.mp3",
+       "sentence_english": "You can ask a question by raising your hand.",
+       "sentence_original": "手を上げると質問をすることができる。",
+       "sentence_romaji": "Te o ageru to shitsumon o suru koto ga dekiru"
+      },
+      {
+       "key": "上げる_",
+       "sentence_audio": "/audio/japanese/sentences/s_上げる__20250209_彼女は喜びの声を上げた.mp3",
+       "sentence_english": "She raised her voice in joy.",
+       "sentence_original": "彼女は喜びの声を上げた。",
+       "sentence_romaji": "Kanojo wa yorokobi no koe o ageta."
+      },
+      {
+       "key": "上げる_",
+       "sentence_audio": "/audio/japanese/sentences/s_上げる__20250209_メーターの数値を上げる必要がある.mp3",
+       "sentence_english": "It is necessary to raise the numerical value of the meter.",
+       "sentence_original": "メーターの数値を上げる必要がある。",
+       "sentence_romaji": "Meetaa no suuchi o ageru hitsuyou ga aru"
+      },
+      {
+       "key": "上げる_",
+       "sentence_audio": "/audio/japanese/sentences/s_上げる__20250209_彼は株価を上げるために努力している.mp3",
+       "sentence_english": "He is working hard to raise the stock price.",
+       "sentence_original": "彼は株価を上げるために努力している。",
+       "sentence_romaji": "Kare wa kabuka o ageru tame ni doryoku shite iru."
+      },
+      {
+       "key": "上げる_",
+       "sentence_audio": "/audio/japanese/sentences/s_上げる__20250209_パーティーの準備ができたらみんなの気分を上げましょう.mp3",
+       "sentence_english": "Let's boost everyone's mood once the party preparations are complete.",
+       "sentence_original": "パーティーの準備ができたら、みんなの気分を上げましょう。",
+       "sentence_romaji": "Paatii no junbi ga dekitara, minna no kibun o agemashou."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_上げる.mp3",
+     "vocabulary_english": "to raise, to lift, to give, to finish (when attached to verb)",
+     "vocabulary_original": "上げる_",
+     "vocabulary_simplified": "あげる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "解ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_解ける__20250209_難しい問題がやっと解けた.mp3",
+       "sentence_english": "I finally solved the difficult problem.",
+       "sentence_original": "難しい問題がやっと解けた。",
+       "sentence_romaji": "Muzukashii mondai ga yatto toketa."
+      },
+      {
+       "key": "解ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_解ける__20250209_この暗号は誰にも解けなかった.mp3",
+       "sentence_english": "No one could decipher this code.",
+       "sentence_original": "この暗号は誰にも解けなかった。",
+       "sentence_romaji": "Kono angou wa dare ni mo tokenakatta."
+      },
+      {
+       "key": "解ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_解ける__20250209_朝になると霧が解けてきた.mp3",
+       "sentence_english": "As morning came, the fog began to clear.",
+       "sentence_original": "朝になると、霧が解けてきた。",
+       "sentence_romaji": "Asa ni naru to, kiri ga tokete kita."
+      },
+      {
+       "key": "解ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_解ける__20250209_謎が解けると事件の真相が明らかになった.mp3",
+       "sentence_english": "When the mystery was solved, the truth of the incident became clear.",
+       "sentence_original": "謎が解けると、事件の真相が明らかになった。",
+       "sentence_romaji": "Nazo ga tokeru to, jiken no shinsou ga akiraka ni natta."
+      },
+      {
+       "key": "解ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_解ける__20250209_次の手がかりが見つかればこの問題が解けるでしょう.mp3",
+       "sentence_english": "If the next clue is found, this problem will be solved.",
+       "sentence_original": "次の手がかりが見つかれば、この問題が解けるでしょう。",
+       "sentence_romaji": "Tsugi no tegakari ga mitsukareba, kono mondai ga tokeru deshou."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_解ける.mp3",
+     "vocabulary_english": "to become untied, to be solved",
+     "vocabulary_original": "解ける_",
+     "vocabulary_simplified": "とける",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "祝う_",
+       "sentence_audio": "/audio/japanese/sentences/s_祝う__20250209_彼女の誕生日を祝うためにパーティーを開いた.mp3",
+       "sentence_english": "We held a party to celebrate her birthday.",
+       "sentence_original": "彼女の誕生日を祝うためにパーティーを開いた。",
+       "sentence_romaji": "Kanojo no tanjoubi o iwau tame ni paatii o hiraita"
+      },
+      {
+       "key": "祝う_",
+       "sentence_audio": "/audio/japanese/sentences/s_祝う__20250209_卒業を祝うために友達と食事に行った.mp3",
+       "sentence_english": "I went out to eat with friends to celebrate graduation.",
+       "sentence_original": "卒業を祝うために友達と食事に行った。",
+       "sentence_romaji": "Sotsugyou o iwau tame ni tomodachi to shokuji ni itta"
+      },
+      {
+       "key": "祝う_",
+       "sentence_audio": "/audio/japanese/sentences/s_祝う__20250209_就職に成功したのを祝うため家族で外食した.mp3",
+       "sentence_english": "We went out to eat as a family to celebrate our success in finding a job.",
+       "sentence_original": "就職に成功したのを祝うため、家族で外食した。",
+       "sentence_romaji": "Shuushoku ni seikou shita no o iwau tame, kazoku de gaishoku shita"
+      },
+      {
+       "key": "祝う_",
+       "sentence_audio": "/audio/japanese/sentences/s_祝う__20250209_結婚記念日を祝うため旅行に出かけた.mp3",
+       "sentence_english": "We went on a trip to celebrate our wedding anniversary.",
+       "sentence_original": "結婚記念日を祝うため、旅行に出かけた。",
+       "sentence_romaji": "Kekkon kinenbi o iwau tame, ryokou ni dekaketa"
+      },
+      {
+       "key": "祝う_",
+       "sentence_audio": "/audio/japanese/sentences/s_祝う__20250209_彼の昇進を祝うためサプライズパーティーを企画した.mp3",
+       "sentence_english": "We planned a surprise party to celebrate his promotion.",
+       "sentence_original": "彼の昇進を祝うため、サプライズパーティーを企画した。",
+       "sentence_romaji": "Kare no shoushin o iwau tame, sapuraizupaati o kikaku shita"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_祝う.mp3",
+     "vocabulary_english": "to congratulate, to celebrate",
+     "vocabulary_original": "祝う_",
+     "vocabulary_simplified": "いわう",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "片付ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_片付ける__20250209_部屋を片付ける時間がなかった.mp3",
+       "sentence_english": "I didn't have time to clean up the room.",
+       "sentence_original": "部屋を片付ける時間がなかった。",
+       "sentence_romaji": "Heya o katazukeru jikan ga nakatta"
+      },
+      {
+       "key": "片付ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_片付ける__20250209_彼女はいつも速くて丁寧に片付ける.mp3",
+       "sentence_english": "She always tidies up quickly and carefully.",
+       "sentence_original": "彼女はいつも速くて丁寧に片付ける。",
+       "sentence_romaji": "Kanojo wa itsumo hayakute teinei ni katazukeru"
+      },
+      {
+       "key": "片付ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_片付ける__20250209_宿題がたくさんあるので部屋の片付けは明日にします.mp3",
+       "sentence_english": "Since I have a lot of homework, I will clean up my room tomorrow.",
+       "sentence_original": "宿題がたくさんあるので、部屋の片付けは明日にします。",
+       "sentence_romaji": "Shukudai ga takusan aru node, heya no katazuke wa ashita ni shimasu"
+      },
+      {
+       "key": "片付ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_片付ける__20250209_もし片付けないとお母さんが怒りますよ.mp3",
+       "sentence_english": "If you don't clean up, your mother will get angry.",
+       "sentence_original": "もし片付けないと、お母さんが怒りますよ。",
+       "sentence_romaji": "Moshi katazukenai to, okaasan ga okorimasu yo"
+      },
+      {
+       "key": "片付ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_片付ける__20250209_彼は約束を守って毎日台所を片付けてくれる.mp3",
+       "sentence_english": "He keeps his promise and tidies up the kitchen every day.",
+       "sentence_original": "彼は約束を守って、毎日台所を片付けてくれる。",
+       "sentence_romaji": "Kare wa yakusoku o mamotte, mainichi daidokoro o katazukete kureru"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_片付ける.mp3",
+     "vocabulary_english": "to put in order, to tidy up, to finish",
+     "vocabulary_original": "片付ける_",
+     "vocabulary_simplified": "かたづける",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "示す_",
+       "sentence_audio": "/audio/japanese/sentences/s_示す__20250209_彼は試験に合格したことを証明書で示しました.mp3",
+       "sentence_english": "He showed that he passed the exam with a certificate.",
+       "sentence_original": "彼は、試験に合格したことを証明書で示しました。",
+       "sentence_romaji": "Kare wa, shiken ni goukaku shita koto o shoumeisho de shimeshimashita."
+      },
+      {
+       "key": "示す_",
+       "sentence_audio": "/audio/japanese/sentences/s_示す__20250209_私たちは友情を示すためにプレゼントを交換しました.mp3",
+       "sentence_english": "We exchanged gifts to show our friendship.",
+       "sentence_original": "私たちは友情を示すためにプレゼントを交換しました。",
+       "sentence_romaji": "Watashitachi wa yuujou o shimesu tame ni purezento o koukan shimashita."
+      },
+      {
+       "key": "示す_",
+       "sentence_audio": "/audio/japanese/sentences/s_示す__20250209_そのデータは経済成長が続いていることを示しています.mp3",
+       "sentence_english": "The data shows that the economic growth is continuing.",
+       "sentence_original": "そのデータは、経済成長が続いていることを示しています。",
+       "sentence_romaji": "Sono deeta wa, keizai seichou ga tsuzuite iru koto o shimeshite imasu."
+      },
+      {
+       "key": "示す_",
+       "sentence_audio": "/audio/japanese/sentences/s_示す__20250209_彼の顔色は緊張を示していた.mp3",
+       "sentence_english": "His facial color indicated his nervousness.",
+       "sentence_original": "彼の顔色は緊張を示していた。",
+       "sentence_romaji": "Kare no kaoiro wa kinchou o shimeshite ita."
+      },
+      {
+       "key": "示す_",
+       "sentence_audio": "/audio/japanese/sentences/s_示す__20250209_ボスは部下に作業方法を示すためにメモを書いた.mp3",
+       "sentence_english": "The boss wrote a memo to show his subordinates the work method.",
+       "sentence_original": "ボスは部下に作業方法を示すためにメモを書いた。",
+       "sentence_romaji": "Bosu wa buka ni sagyou houhou o shimesu tame ni memo o kaita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_示す.mp3",
+     "vocabulary_english": "to show, to indicate, to point out",
+     "vocabulary_original": "示す_",
+     "vocabulary_simplified": "しめす",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "やく_",
+       "sentence_audio": "/audio/japanese/sentences/s_やく__20250209_薬を飲む前に説明書をよく読んでください.mp3",
+       "sentence_english": "Please read the instructions carefully before taking the medicine.",
+       "sentence_original": "薬を飲む前に、説明書をよく読んでください。",
+       "sentence_romaji": "Yaku o nomu mae ni, setsumeisho o yoku yonde kudasai"
+      },
+      {
+       "key": "やく_",
+       "sentence_audio": "/audio/japanese/sentences/s_やく__20250209_彼は風邪をひいたので薬を飲んで寝ました.mp3",
+       "sentence_english": "He caught a cold, so he took medicine and went to bed.",
+       "sentence_original": "彼は風邪をひいたので、薬を飲んで寝ました。",
+       "sentence_romaji": "Kare wa kaze o hiita node, yaku o nonde nemashita"
+      },
+      {
+       "key": "やく_",
+       "sentence_audio": "/audio/japanese/sentences/s_やく__20250209_この薬は痛みを和らげる効果があります.mp3",
+       "sentence_english": "This medicine has the effect of relieving pain.",
+       "sentence_original": "この薬は痛みを和らげる効果があります。",
+       "sentence_romaji": "Kono yaku wa itami o yawarageru kouka ga arimasu"
+      },
+      {
+       "key": "やく_",
+       "sentence_audio": "/audio/japanese/sentences/s_やく__20250209_医者に相談して適切な薬を処方してもらった.mp3",
+       "sentence_english": "I consulted with a doctor and got a prescription for the appropriate medicine.",
+       "sentence_original": "医者に相談して適切な薬を処方してもらった。",
+       "sentence_romaji": "Isha ni soudan shite tekisetsu na yaku o shohou shite moratta"
+      },
+      {
+       "key": "やく_",
+       "sentence_audio": "/audio/japanese/sentences/s_やく__20250209_健康のために毎日ビタミン剤などのサプリメントを飲む.mp3",
+       "sentence_english": "I take supplements such as vitamin tablets every day for my health.",
+       "sentence_original": "健康のために毎日ビタミン剤などのサプリメントを飲む。",
+       "sentence_romaji": "Kenkou no tame ni mainichi bitamin-zai nado no sapurimento o nomu"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_やく.mp3",
+     "vocabulary_english": "to be jealous of, to envy",
+     "vocabulary_original": "やく_",
+     "vocabulary_simplified": "やく",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "疲れる_",
+       "sentence_audio": "/audio/japanese/sentences/s_疲れる__20250209_一日中働いてとても疲れた.mp3",
+       "sentence_english": "I worked all day and got really tired.",
+       "sentence_original": "一日中働いてとても疲れた。",
+       "sentence_romaji": "Ichinichijuu hataraite totemo tsukareta."
+      },
+      {
+       "key": "疲れる_",
+       "sentence_audio": "/audio/japanese/sentences/s_疲れる__20250209_長時間勉強したら目が疲れるだろう.mp3",
+       "sentence_english": "If you study for a long time, your eyes will probably get tired.",
+       "sentence_original": "長時間勉強したら、目が疲れるだろう。",
+       "sentence_romaji": "Naganjikan benkyou shitara, me ga tsukareru darou."
+      },
+      {
+       "key": "疲れる_",
+       "sentence_audio": "/audio/japanese/sentences/s_疲れる__20250209_運動した後は体が疲れることが普通です.mp3",
+       "sentence_english": "It is normal to feel tired after exercising.",
+       "sentence_original": "運動した後は、体が疲れることが普通です。",
+       "sentence_romaji": "Undou shita ato wa, karada ga tsukareru koto ga futsuu desu."
+      },
+      {
+       "key": "疲れる_",
+       "sentence_audio": "/audio/japanese/sentences/s_疲れる__20250209_仕事が忙しかったから早く疲れてしまった.mp3",
+       "sentence_english": "I got tired quickly because work was busy.",
+       "sentence_original": "仕事が忙しかったから早く疲れてしまった。",
+       "sentence_romaji": "Shigoto ga isogashikatta kara hayaku tsukarete shimatta."
+      },
+      {
+       "key": "疲れる_",
+       "sentence_audio": "/audio/japanese/sentences/s_疲れる__20250209_長い旅行で精神的にも疲れることがある.mp3",
+       "sentence_english": "Long trips can sometimes be mentally tiring.",
+       "sentence_original": "長い旅行で精神的にも疲れることがある。",
+       "sentence_romaji": "Nagai ryokou de seishinteki ni mo tsukareru koto ga aru."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_疲れる.mp3",
+     "vocabulary_english": "to be tired, to be weary",
+     "vocabulary_original": "疲れる_",
+     "vocabulary_simplified": "つかれる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "興す_",
+       "sentence_audio": "/audio/japanese/sentences/s_興す__20250209_国を興すために彼は多くの改革を行った.mp3",
+       "sentence_english": "He carried out many reforms to build up the country.",
+       "sentence_original": "国を興すために、彼は多くの改革を行った。",
+       "sentence_romaji": "Kuni o okosu tame ni, kare wa ooku no kaikaku o okonatta."
+      },
+      {
+       "key": "興す_",
+       "sentence_audio": "/audio/japanese/sentences/s_興す__20250209_文化を興すため市は様々な芸術イベントを開催している.mp3",
+       "sentence_english": "The city is holding various art events to promote culture.",
+       "sentence_original": "文化を興すため、市は様々な芸術イベントを開催している。",
+       "sentence_romaji": "Bunka o okosu tame, shi wa samazama na geijutsu ibento o kaisai shite iru."
+      },
+      {
+       "key": "興す_",
+       "sentence_audio": "/audio/japanese/sentences/s_興す__20250209_彼は老舗の会社を再興すべく努力している.mp3",
+       "sentence_english": "He is working hard to revive the long-established company.",
+       "sentence_original": "彼は老舗の会社を再興すべく努力している。",
+       "sentence_romaji": "Kare wa shinise no kaisha o saikou subeku doryoku shite iru."
+      },
+      {
+       "key": "興す_",
+       "sentence_audio": "/audio/japanese/sentences/s_興す__20250209_ボランティア活動を通じて地域を興す取り組みを行う.mp3",
+       "sentence_english": "Carry out initiatives to revitalize the community through volunteer activities.",
+       "sentence_original": "ボランティア活動を通じて、地域を興す取り組みを行う。",
+       "sentence_romaji": "Borantia katsudou o tsuujite, chiiki o okosu torikumi o okonau."
+      },
+      {
+       "key": "興す_",
+       "sentence_audio": "/audio/japanese/sentences/s_興す__20250209_新しい事業を興すために彼女は投資家を探している.mp3",
+       "sentence_english": "She is looking for investors to start a new business.",
+       "sentence_original": "新しい事業を興すために、彼女は投資家を探している。",
+       "sentence_romaji": "Atarashii jigyou o okosu tame ni, kanojo wa toushika o sagashite iru."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_興す.mp3",
+     "vocabulary_english": "to start",
+     "vocabulary_original": "興す_",
+     "vocabulary_simplified": "おこす",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "行く_",
+       "sentence_audio": "/audio/japanese/sentences/s_行く__20250209_今日は買い物に行くつもりです.mp3",
+       "sentence_english": "I plan to go shopping today.",
+       "sentence_original": "今日は買い物に行くつもりです。",
+       "sentence_romaji": "Kyou wa kaimono ni iku tsumori desu."
+      },
+      {
+       "key": "行く_",
+       "sentence_audio": "/audio/japanese/sentences/s_行く__20250209_明日友達と映画を見に行く予定です.mp3",
+       "sentence_english": "Tomorrow, I plan to go see a movie with my friend.",
+       "sentence_original": "明日、友達と映画を見に行く予定です。",
+       "sentence_romaji": "Ashita, tomodachi to eiga o mi ni iku yotei desu."
+      },
+      {
+       "key": "行く_",
+       "sentence_audio": "/audio/japanese/sentences/s_行く__20250209_来週家族で海に行くことになりました.mp3",
+       "sentence_english": "We have decided to go to the sea with our family next week.",
+       "sentence_original": "来週、家族で海に行くことになりました。",
+       "sentence_romaji": "Raishuu, kazoku de umi ni iku koto ni narimashita."
+      },
+      {
+       "key": "行く_",
+       "sentence_audio": "/audio/japanese/sentences/s_行く__20250209_旅行に行く前に荷造りをしなければなりません.mp3",
+       "sentence_english": "I have to pack before going on a trip.",
+       "sentence_original": "旅行に行く前に、荷造りをしなければなりません。",
+       "sentence_romaji": "Ryokou ni iku mae ni, nizukuri o shinakereba narimasen."
+      },
+      {
+       "key": "行く_",
+       "sentence_audio": "/audio/japanese/sentences/s_行く__20250209_週末には散歩に行くのが好きです.mp3",
+       "sentence_english": "I like to go for a walk on weekends.",
+       "sentence_original": "週末には散歩に行くのが好きです。",
+       "sentence_romaji": "Shuumatsu ni wa sanpo ni iku no ga suki desu."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_行く.mp3",
+     "vocabulary_english": "to go",
+     "vocabulary_original": "行く_",
+     "vocabulary_simplified": "いく",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "覚える_",
+       "sentence_audio": "/audio/japanese/sentences/s_覚える__20250209_新しい単語を覚えるのに時間がかかります.mp3",
+       "sentence_english": "It takes time to learn new words.",
+       "sentence_original": "新しい単語を覚えるのに時間がかかります。",
+       "sentence_romaji": "Atarashii tango o oboeru noni jikan ga kakarimasu."
+      },
+      {
+       "key": "覚える_",
+       "sentence_audio": "/audio/japanese/sentences/s_覚える__20250209_彼は急速に日本語の文法を覚えました.mp3",
+       "sentence_english": "He quickly learned Japanese grammar.",
+       "sentence_original": "彼は急速に日本語の文法を覚えました。",
+       "sentence_romaji": "Kare wa kyuusoku ni nihongo no bunpou o oboemashita."
+      },
+      {
+       "key": "覚える_",
+       "sentence_audio": "/audio/japanese/sentences/s_覚える__20250209_覚えるべき情報がたくさんあります.mp3",
+       "sentence_english": "There is a lot of information to remember.",
+       "sentence_original": "覚えるべき情報がたくさんあります。",
+       "sentence_romaji": "Oboeru beki jouhou ga takusan arimasu."
+      },
+      {
+       "key": "覚える_",
+       "sentence_audio": "/audio/japanese/sentences/s_覚える__20250209_彼女は歌詞を全部覚えるのに一晩かかった.mp3",
+       "sentence_english": "It took her all night to learn the lyrics.",
+       "sentence_original": "彼女は歌詞を全部覚えるのに一晩かかった。",
+       "sentence_romaji": "Kanojo wa kashi o zenbu oboeru noni hitoban kakatta."
+      },
+      {
+       "key": "覚える_",
+       "sentence_audio": "/audio/japanese/sentences/s_覚える__20250209_このフレーズを覚えて試験に備えましょう.mp3",
+       "sentence_english": "Let's remember this phrase and prepare for the test.",
+       "sentence_original": "このフレーズを覚えて、試験に備えましょう。",
+       "sentence_romaji": "Kono fureezu o oboete, shiken ni sonaemashou."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_覚える.mp3",
+     "vocabulary_english": "to remember, to memorize, to learn",
+     "vocabulary_original": "覚える_",
+     "vocabulary_simplified": "おぼえる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "怒る_",
+       "sentence_audio": "/audio/japanese/sentences/s_怒る__20250209_彼は簡単に怒るタイプの人です.mp3",
+       "sentence_english": "He is the type of person who gets angry easily.",
+       "sentence_original": "彼は簡単に怒るタイプの人です。",
+       "sentence_romaji": "Kare wa kantan ni okoru taipu no hito desu."
+      },
+      {
+       "key": "怒る_",
+       "sentence_audio": "/audio/japanese/sentences/s_怒る__20250209_彼女が怒る理由が分からない.mp3",
+       "sentence_english": "I don't understand the reason why she gets angry.",
+       "sentence_original": "彼女が怒る理由が分からない。",
+       "sentence_romaji": "Kanojo ga okoru riyuu ga wakaranai."
+      },
+      {
+       "key": "怒る_",
+       "sentence_audio": "/audio/japanese/sentences/s_怒る__20250209_上司は遅刻をした時すぐに怒ります.mp3",
+       "sentence_english": "My boss gets angry immediately when I'm late.",
+       "sentence_original": "上司は遅刻をした時、すぐに怒ります。",
+       "sentence_romaji": "Joushi wa chikoku o shita toki, sugu ni okorimasu."
+      },
+      {
+       "key": "怒る_",
+       "sentence_audio": "/audio/japanese/sentences/s_怒る__20250209_お母さんは部屋が散らかっていると怒ります.mp3",
+       "sentence_english": "My mother gets angry when my room is messy.",
+       "sentence_original": "お母さんは部屋が散らかっていると怒ります。",
+       "sentence_romaji": "Okaasan wa heya ga chirakatteiru to okorimasu."
+      },
+      {
+       "key": "怒る_",
+       "sentence_audio": "/audio/japanese/sentences/s_怒る__20250209_彼が言ったことに怒って彼女は家を出て行った.mp3",
+       "sentence_english": "She got angry at what he said and left the house.",
+       "sentence_original": "彼が言ったことに怒って、彼女は家を出て行った。",
+       "sentence_romaji": "Kare ga itta koto ni okotte, kanojo wa ie o deteitta."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_怒る.mp3",
+     "vocabulary_english": "to get angry",
+     "vocabulary_original": "怒る_",
+     "vocabulary_simplified": "おこる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "吹く_",
+       "sentence_audio": "/audio/japanese/sentences/s_吹く__20250209_風が強く吹いている.mp3",
+       "sentence_english": "The wind is blowing strongly.",
+       "sentence_original": "風が強く吹いている。",
+       "sentence_romaji": "Kaze ga tsuyoku fuite iru."
+      },
+      {
+       "key": "吹く_",
+       "sentence_audio": "/audio/japanese/sentences/s_吹く__20250209_彼はトランペットを吹くのが上手だ.mp3",
+       "sentence_english": "He is good at playing the trumpet.",
+       "sentence_original": "彼はトランペットを吹くのが上手だ。",
+       "sentence_romaji": "Kare wa toranpetto o fuku no ga jouzu da."
+      },
+      {
+       "key": "吹く_",
+       "sentence_audio": "/audio/japanese/sentences/s_吹く__20250209_吹雪の中で道が見つからなかった.mp3",
+       "sentence_english": "I couldn't find the way in the blowing snowstorm.",
+       "sentence_original": "吹雪の中で道が見つからなかった。",
+       "sentence_romaji": "Fubuki no naka de michi ga mitsukaranakatta."
+      },
+      {
+       "key": "吹く_",
+       "sentence_audio": "/audio/japanese/sentences/s_吹く__20250209_彼女は花びらに軽く息を吹きかけた.mp3",
+       "sentence_english": "She gently blew her breath on the flower petals.",
+       "sentence_original": "彼女は花びらに軽く息を吹きかけた。",
+       "sentence_romaji": "Kanojo wa hanabira ni karuku iki o fuki kaketa."
+      },
+      {
+       "key": "吹く_",
+       "sentence_audio": "/audio/japanese/sentences/s_吹く__20250209_運動会が終わった途端雨が降り出して風が吹きはじめた.mp3",
+       "sentence_english": "As soon as the sports festival ended, the rain began to fall and the wind started blowing.",
+       "sentence_original": "運動会が終わった途端、雨が降り出して風が吹きはじめた。",
+       "sentence_romaji": "Undoukai ga owatta totan, ame ga furidashite kaze ga fuki hajimeta."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_吹く.mp3",
+     "vocabulary_english": "to blow, to play an instrument (eg: like trumpet, but not like a piano)",
+     "vocabulary_original": "吹く_",
+     "vocabulary_simplified": "ふく",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "加える_",
+       "sentence_audio": "/audio/japanese/sentences/s_加える__20250209_この料理に少し塩を加えてください.mp3",
+       "sentence_english": "Please add a little salt to this dish.",
+       "sentence_original": "この料理に少し塩を加えてください。",
+       "sentence_romaji": "Kono ryouri ni sukoshi shio o kuwaete kudasai"
+      },
+      {
+       "key": "加える_",
+       "sentence_audio": "/audio/japanese/sentences/s_加える__20250209_彼は彼女の会話に自分の意見を加えた.mp3",
+       "sentence_english": "He added his own opinion to her conversation.",
+       "sentence_original": "彼は彼女の会話に自分の意見を加えた。",
+       "sentence_romaji": "Kare wa kanojo no kaiwa ni jibun no iken o kuwaeta"
+      },
+      {
+       "key": "加える_",
+       "sentence_audio": "/audio/japanese/sentences/s_加える__20250209_今月の経費にこれらの領収書の金額を加える必要がある.mp3",
+       "sentence_english": "I need to add the amounts on these receipts to this month's expenses.",
+       "sentence_original": "今月の経費にこれらの領収書の金額を加える必要がある。",
+       "sentence_romaji": "Kongetsu no keihi ni korera no ryoushuusho no kingaku o kuwaeru hitsuyou ga aru"
+      },
+      {
+       "key": "加える_",
+       "sentence_audio": "/audio/japanese/sentences/s_加える__20250209_問題を解決するために新しいアイデアを加えることが役立つだろう.mp3",
+       "sentence_english": "Adding new ideas would be helpful to solve the problem.",
+       "sentence_original": "問題を解決するために、新しいアイデアを加えることが役立つだろう。",
+       "sentence_romaji": "Mondai o kaiketsu suru tame ni, atarashii aidea o kuwaeru koto ga yakudatsu darou"
+      },
+      {
+       "key": "加える_",
+       "sentence_audio": "/audio/japanese/sentences/s_加える__20250209_大きなスキルに細かな技術を加えることが大切だ.mp3",
+       "sentence_english": "It is important to add small techniques to big skills.",
+       "sentence_original": "大きなスキルに細かな技術を加えることが大切だ。",
+       "sentence_romaji": "Ookina sukiru ni komakana gijutsu o kuwaeru koto ga taisetsu da"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_加える.mp3",
+     "vocabulary_english": "to add, to increase",
+     "vocabulary_original": "加える_",
+     "vocabulary_simplified": "くわえる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "むく_",
+       "sentence_audio": "/audio/japanese/sentences/s_むく__20250209_足がむくんで痛いです.mp3",
+       "sentence_english": "My legs are swollen and painful.",
+       "sentence_original": "足がむくんで痛いです。",
+       "sentence_romaji": "Ashi ga mukunde itai desu."
+      },
+      {
+       "key": "むく_",
+       "sentence_audio": "/audio/japanese/sentences/s_むく__20250209_長い飛行で足がむくむことがあります.mp3",
+       "sentence_english": "Legs can swell on long flights.",
+       "sentence_original": "長い飛行で足がむくむことがあります。",
+       "sentence_romaji": "Nagai hikou de ashi ga mukumu koto ga arimasu."
+      },
+      {
+       "key": "むく_",
+       "sentence_audio": "/audio/japanese/sentences/s_むく__20250209_仕事で一日中立っていると足がむくむことがよくある.mp3",
+       "sentence_english": "Standing all day at work often causes my legs to swell.",
+       "sentence_original": "仕事で一日中立っていると、足がむくむことがよくある。",
+       "sentence_romaji": "Shigoto de ichinichijuu tatte iru to, ashi ga mukumu koto ga yoku aru."
+      },
+      {
+       "key": "むく_",
+       "sentence_audio": "/audio/japanese/sentences/s_むく__20250209_水分の摂取が適度でないと身体がむくんでしまいます.mp3",
+       "sentence_english": "If you don't consume the right amount of water, your body will swell up.",
+       "sentence_original": "水分の摂取が適度でないと、身体がむくんでしまいます。",
+       "sentence_romaji": "Suibun no sesshu ga tekido denai to, karada ga mukunde shimaimasu."
+      },
+      {
+       "key": "むく_",
+       "sentence_audio": "/audio/japanese/sentences/s_むく__20250209_塩分を取りすぎるとむくみの原因になります.mp3",
+       "sentence_english": "Consuming too much salt can cause swelling.",
+       "sentence_original": "塩分を取りすぎると、むくみの原因になります。",
+       "sentence_romaji": "Enbun o torisugiru to, mukumi no gen'in ni narimasu."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_むく.mp3",
+     "vocabulary_english": "to peel, to strip off",
+     "vocabulary_original": "むく_",
+     "vocabulary_simplified": "むく",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "かける_",
+       "sentence_audio": "/audio/japanese/sentences/s_かける__20250209_電話をかける.mp3",
+       "sentence_english": "To make a phone call.",
+       "sentence_original": "電話をかける",
+       "sentence_romaji": "Denwa o kakeru"
+      },
+      {
+       "key": "かける_",
+       "sentence_audio": "/audio/japanese/sentences/s_かける__20250209_時間をかけて説明する.mp3",
+       "sentence_english": "To explain taking time.",
+       "sentence_original": "時間をかけて説明する",
+       "sentence_romaji": "Jikan o kakete setsumei suru"
+      },
+      {
+       "key": "かける_",
+       "sentence_audio": "/audio/japanese/sentences/s_かける__20250209_めがねをかける.mp3",
+       "sentence_english": "To put on glasses.",
+       "sentence_original": "めがねをかける",
+       "sentence_romaji": "Megane o kakeru"
+      },
+      {
+       "key": "かける_",
+       "sentence_audio": "/audio/japanese/sentences/s_かける__20250209_椅子に腰掛ける.mp3",
+       "sentence_english": "To sit on a chair.",
+       "sentence_original": "椅子に腰掛ける",
+       "sentence_romaji": "Isu ni koshikakeru"
+      },
+      {
+       "key": "かける_",
+       "sentence_audio": "/audio/japanese/sentences/s_かける__20250209_先生は生徒に大きな期待をかける.mp3",
+       "sentence_english": "The teacher has high expectations for the students.",
+       "sentence_original": "先生は生徒に大きな期待をかける.",
+       "sentence_romaji": "Sensei wa seito ni ookina kitai o kakeru."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_かける.mp3",
+     "vocabulary_english": "to bet",
+     "vocabulary_original": "かける_",
+     "vocabulary_simplified": "かける",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "帰る_",
+       "sentence_audio": "/audio/japanese/sentences/s_帰る__20250209_仕事が終わったらすぐに帰るつもりだ.mp3",
+       "sentence_english": "I plan to go home as soon as my work is done.",
+       "sentence_original": "仕事が終わったら、すぐに帰るつもりだ。",
+       "sentence_romaji": "Shigoto ga owattara, sugu ni kaeru tsumori da"
+      },
+      {
+       "key": "帰る_",
+       "sentence_audio": "/audio/japanese/sentences/s_帰る__20250209_明日の朝早く帰らなければならない.mp3",
+       "sentence_english": "I have to go home early tomorrow morning.",
+       "sentence_original": "明日の朝早く帰らなければならない。",
+       "sentence_romaji": "Ashita no asa hayaku kaeranakereba naranai"
+      },
+      {
+       "key": "帰る_",
+       "sentence_audio": "/audio/japanese/sentences/s_帰る__20250209_雨が降ってきたので急いで帰るべきだ.mp3",
+       "sentence_english": "It started raining, so I should hurry and go home.",
+       "sentence_original": "雨が降ってきたので、急いで帰るべきだ。",
+       "sentence_romaji": "Ame ga futte kita node, isoide kaeru beki da"
+      },
+      {
+       "key": "帰る_",
+       "sentence_audio": "/audio/japanese/sentences/s_帰る__20250209_彼女は毎日午後10時に帰るのが普通だ.mp3",
+       "sentence_english": "It's normal for her to go home at 10 pm every day.",
+       "sentence_original": "彼女は毎日午後10時に帰るのが普通だ。",
+       "sentence_romaji": "Kanojo wa mainichi gogo juuji ni kaeru no ga futsuu da"
+      },
+      {
+       "key": "帰る_",
+       "sentence_audio": "/audio/japanese/sentences/s_帰る__20250209_休暇が終わったら家に帰って仕事を再開しなければなりません.mp3",
+       "sentence_english": "After the holiday is over, I must go back home and resume my work.",
+       "sentence_original": "休暇が終わったら、家に帰って、仕事を再開しなければなりません。",
+       "sentence_romaji": "Kyuuka ga owattara, ie ni kaette, shigoto o saikaishi nakereba narimasen"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_帰る.mp3",
+     "vocabulary_english": "to go home",
+     "vocabulary_original": "帰る_",
+     "vocabulary_simplified": "かえる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "弾く_",
+       "sentence_audio": "/audio/japanese/sentences/s_弾く__20250209_彼はギターをうまく弾くことができる.mp3",
+       "sentence_english": "He can play the guitar well.",
+       "sentence_original": "彼はギターをうまく弾くことができる。",
+       "sentence_romaji": "Kare wa gitā o umaku hiku koto ga dekiru"
+      },
+      {
+       "key": "弾く_",
+       "sentence_audio": "/audio/japanese/sentences/s_弾く__20250209_彼女はピアノを弾くのが大好きだ.mp3",
+       "sentence_english": "She loves playing the piano.",
+       "sentence_original": "彼女はピアノを弾くのが大好きだ。",
+       "sentence_romaji": "Kanojo wa piano o hiku no ga daisuki da"
+      },
+      {
+       "key": "弾く_",
+       "sentence_audio": "/audio/japanese/sentences/s_弾く__20250209_弾き語りで歌を歌っている人がいた.mp3",
+       "sentence_english": "There was someone singing while playing an instrument.",
+       "sentence_original": "弾き語りで歌を歌っている人がいた。",
+       "sentence_romaji": "Hiki utai de uta o utatteiru hito ga ita"
+      },
+      {
+       "key": "弾く_",
+       "sentence_audio": "/audio/japanese/sentences/s_弾く__20250209_練習でこの曲をきれいに弾くことができるようになりたい.mp3",
+       "sentence_english": "I want to practice enough to be able to play this song beautifully.",
+       "sentence_original": "練習でこの曲をきれいに弾くことができるようになりたい。",
+       "sentence_romaji": "Renshuu de kono kyoku o kirei ni hiku koto ga dekiru you ni naritai"
+      },
+      {
+       "key": "弾く_",
+       "sentence_audio": "/audio/japanese/sentences/s_弾く__20250209_最初は弦楽器を弾くのが難しいと思ったけど次第に慣れてきた.mp3",
+       "sentence_english": "At first, I thought playing stringed instruments was difficult, but gradually I got used to it.",
+       "sentence_original": "最初は弦楽器を弾くのが難しいと思ったけど、次第に慣れてきた。",
+       "sentence_romaji": "Saisho wa gen gakki o hiku no ga muzukashii to omotta kedo, shidai ni narete kita"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_弾く.mp3",
+     "vocabulary_english": "to play (string instruments)",
+     "vocabulary_original": "弾く_",
+     "vocabulary_simplified": "ひく",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "空く_",
+       "sentence_audio": "/audio/japanese/sentences/s_空く__20250209_座席が空いているかどうか確認してください.mp3",
+       "sentence_english": "Please check if there are any seats available.",
+       "sentence_original": "座席が空いているかどうか確認してください。",
+       "sentence_romaji": "Zaseki ga aite iru ka dou ka kakunin shite kudasai."
+      },
+      {
+       "key": "空く_",
+       "sentence_audio": "/audio/japanese/sentences/s_空く__20250209_駐車場が空くのを待っていた.mp3",
+       "sentence_english": "I was waiting for a parking space to open up.",
+       "sentence_original": "駐車場が空くのを待っていた。",
+       "sentence_romaji": "Chuushajou ga aku no o matte ita."
+      },
+      {
+       "key": "空く_",
+       "sentence_audio": "/audio/japanese/sentences/s_空く__20250209_仕事が終わった後夕方に時間が空く予定です.mp3",
+       "sentence_english": "After finishing work, I expect to have some free time in the evening.",
+       "sentence_original": "仕事が終わった後、夕方に時間が空く予定です。",
+       "sentence_romaji": "Shigoto ga owatta ato, yuugata ni jikan ga aku yotei desu."
+      },
+      {
+       "key": "空く_",
+       "sentence_audio": "/audio/japanese/sentences/s_空く__20250209_予約がキャンセルされたため美容院の予約が空きました.mp3",
+       "sentence_english": "The reservation at the beauty salon became available due to a cancellation.",
+       "sentence_original": "予約がキャンセルされたため、美容院の予約が空きました。",
+       "sentence_romaji": "Yoyaku ga kyanseru sareta tame, biyouin no yoyaku ga akimashita."
+      },
+      {
+       "key": "空く_",
+       "sentence_audio": "/audio/japanese/sentences/s_空く__20250209_今日は午後からスケジュールが空いています.mp3",
+       "sentence_english": "My schedule is open from this afternoon.",
+       "sentence_original": "今日は午後からスケジュールが空いています。",
+       "sentence_romaji": "Kyou wa gogo kara sukejuuru ga aite imasu."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_空く.mp3",
+     "vocabulary_english": "to become vacant, to be free",
+     "vocabulary_original": "空く_",
+     "vocabulary_simplified": "あく",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "読む_",
+       "sentence_audio": "/audio/japanese/sentences/s_読む__20250209_本を読むのが好きです.mp3",
+       "sentence_english": "I like reading books.",
+       "sentence_original": "本を読むのが好きです。",
+       "sentence_romaji": "Hon o yomu no ga suki desu"
+      },
+      {
+       "key": "読む_",
+       "sentence_audio": "/audio/japanese/sentences/s_読む__20250209_毎日新聞を読む習慣がある.mp3",
+       "sentence_english": "I have a habit of reading the newspaper every day.",
+       "sentence_original": "毎日新聞を読む習慣がある。",
+       "sentence_romaji": "Mainichi shinbun o yomu shuukan ga aru"
+      },
+      {
+       "key": "読む_",
+       "sentence_audio": "/audio/japanese/sentences/s_読む__20250209_彼は詩を読むのが上手だ.mp3",
+       "sentence_english": "He is good at reading poetry.",
+       "sentence_original": "彼は詩を読むのが上手だ。",
+       "sentence_romaji": "Kare wa shi o yomu no ga jouzu da"
+      },
+      {
+       "key": "読む_",
+       "sentence_audio": "/audio/japanese/sentences/s_読む__20250209_子供たちに寝る前の物語を読んであげるのが楽しい.mp3",
+       "sentence_english": "I enjoy reading bedtime stories to children.",
+       "sentence_original": "子供たちに寝る前の物語を読んであげるのが楽しい。",
+       "sentence_romaji": "Kodomo-tachi ni neru mae no monogatari o yonde ageru no ga tanoshii"
+      },
+      {
+       "key": "読む_",
+       "sentence_audio": "/audio/japanese/sentences/s_読む__20250209_その本は一度読むだけでは理解が難しい.mp3",
+       "sentence_english": "That book is difficult to understand just by reading it once.",
+       "sentence_original": "その本は一度読むだけでは理解が難しい。",
+       "sentence_romaji": "Sono hon wa ichido yomu dake dewa rikai ga muzukashii"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_読む.mp3",
+     "vocabulary_english": "to read",
+     "vocabulary_original": "読む_",
+     "vocabulary_simplified": "よむ",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "雇う_",
+       "sentence_audio": "/audio/japanese/sentences/s_雇う__20250209_新しい従業員を雇う予定です.mp3",
+       "sentence_english": "We plan to hire new employees.",
+       "sentence_original": "新しい従業員を雇う予定です。",
+       "sentence_romaji": "Atarashii juugyouin o yatou yotei desu."
+      },
+      {
+       "key": "雇う_",
+       "sentence_audio": "/audio/japanese/sentences/s_雇う__20250209_彼女は小学校の先生として雇われました.mp3",
+       "sentence_english": "She was hired as an elementary school teacher.",
+       "sentence_original": "彼女は小学校の先生として雇われました。",
+       "sentence_romaji": "Kanojo wa shougakkou no sensei toshite yatowaremashita."
+      },
+      {
+       "key": "雇う_",
+       "sentence_audio": "/audio/japanese/sentences/s_雇う__20250209_彼らは彼を会社の経営者として雇いました.mp3",
+       "sentence_english": "They hired him as the company's manager.",
+       "sentence_original": "彼らは彼を会社の経営者として雇いました。",
+       "sentence_romaji": "Karera wa kare o kaisha no keieisha to shite yatotta."
+      },
+      {
+       "key": "雇う_",
+       "sentence_audio": "/audio/japanese/sentences/s_雇う__20250209_母は家庭教師を雇うことに決めました.mp3",
+       "sentence_english": "My mother decided to hire a home tutor.",
+       "sentence_original": "母は家庭教師を雇うことに決めました。",
+       "sentence_romaji": "Haha wa kateikyoushi o yatou koto ni kimemashita."
+      },
+      {
+       "key": "雇う_",
+       "sentence_audio": "/audio/japanese/sentences/s_雇う__20250209_その企業は新卒者を多く雇っています.mp3",
+       "sentence_english": "The company is hiring a lot of new graduates.",
+       "sentence_original": "その企業は新卒者を多く雇っています。",
+       "sentence_romaji": "Sono kigyou wa shinsotsusha o ōku yatotte imasu."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_雇う.mp3",
+     "vocabulary_english": "to employ, to hire",
+     "vocabulary_original": "雇う_",
+     "vocabulary_simplified": "やとう",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "盗む_",
+       "sentence_audio": "/audio/japanese/sentences/s_盗む__20250209_彼は店から商品を盗んで捕まった.mp3",
+       "sentence_english": "He was caught stealing products from the store.",
+       "sentence_original": "彼は店から商品を盗んで捕まった。",
+       "sentence_romaji": "Kare wa mise kara shouhin o nusunde tsukamatta."
+      },
+      {
+       "key": "盗む_",
+       "sentence_audio": "/audio/japanese/sentences/s_盗む__20250209_彼女の財布が誰かに盗まれたようだ.mp3",
+       "sentence_english": "It seems someone stole her wallet.",
+       "sentence_original": "彼女の財布が誰かに盗まれたようだ。",
+       "sentence_romaji": "Kanojo no saifu ga dareka ni nusumareta you da."
+      },
+      {
+       "key": "盗む_",
+       "sentence_audio": "/audio/japanese/sentences/s_盗む__20250209_手荷物に注意しないとすぐに盗まれてしまうかもしれない.mp3",
+       "sentence_english": "If you don't pay attention to your luggage, it might get stolen right away.",
+       "sentence_original": "手荷物に注意しないと、すぐに盗まれてしまうかもしれない。",
+       "sentence_romaji": "Tenimotsu ni chūi shinai to, sugu ni nusumarete shimau kamo shirenai."
+      },
+      {
+       "key": "盗む_",
+       "sentence_audio": "/audio/japanese/sentences/s_盗む__20250209_車が駐車場で盗まれないようロックをかけてください.mp3",
+       "sentence_english": "Please lock your car so it won't be stolen in the parking lot.",
+       "sentence_original": "車が駐車場で盗まれないようロックをかけてください。",
+       "sentence_romaji": "Kuruma ga chūshajō de nusumarenai you rokku o kakete kudasai."
+      },
+      {
+       "key": "盗む_",
+       "sentence_audio": "/audio/japanese/sentences/s_盗む__20250209_どうして彼はそんなばかげたことをして自分の将来を盗むのだろうか.mp3",
+       "sentence_english": "Why does he do such foolish things, stealing his own future?",
+       "sentence_original": "どうして彼はそんなばかげたことをして、自分の将来を盗むのだろうか？",
+       "sentence_romaji": "Dōshite kare wa sonna bakageta koto o shite, jibun no shōrai o nusumu no darou ka?"
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_盗む.mp3",
+     "vocabulary_english": "to steal, to do stealthily",
+     "vocabulary_original": "盗む_",
+     "vocabulary_simplified": "ぬすむ",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "煮る_",
+       "sentence_audio": "/audio/japanese/sentences/s_煮る__20250209_野菜を煮るのに便利な鍋が欲しい.mp3",
+       "sentence_english": "I want a convenient pot for boiling vegetables.",
+       "sentence_original": "野菜を煮るのに便利な鍋が欲しい。",
+       "sentence_romaji": "Yasai o niru no ni benri na nabe ga hoshii."
+      },
+      {
+       "key": "煮る_",
+       "sentence_audio": "/audio/japanese/sentences/s_煮る__20250209_大根は十分に柔らかく煮ることが重要です.mp3",
+       "sentence_english": "It is important to boil daikon until it is sufficiently soft.",
+       "sentence_original": "大根は十分に柔らかく煮ることが重要です。",
+       "sentence_romaji": "Daikon wa juubun ni yawarakaku niru koto ga juuyou desu."
+      },
+      {
+       "key": "煮る_",
+       "sentence_audio": "/audio/japanese/sentences/s_煮る__20250209_肉や魚を煮るときは中まで火が通るように気をつけてください.mp3",
+       "sentence_english": "When boiling meat or fish, please be careful to ensure that the heat reaches the center.",
+       "sentence_original": "肉や魚を煮るときは、中まで火が通るように気をつけてください。",
+       "sentence_romaji": "Niku ya sakana o niru toki wa, naka made hi ga tooru you ni ki o tsukete kudasai."
+      },
+      {
+       "key": "煮る_",
+       "sentence_audio": "/audio/japanese/sentences/s_煮る__20250209_美味しいおでんは具材をじっくり煮ることがポイントです.mp3",
+       "sentence_english": "The key to making delicious oden is to simmer the ingredients thoroughly.",
+       "sentence_original": "美味しいおでんは、具材をじっくり煮ることがポイントです。",
+       "sentence_romaji": "Oishii oden wa, guzai o jikkuri niru koto ga pointo desu."
+      },
+      {
+       "key": "煮る_",
+       "sentence_audio": "/audio/japanese/sentences/s_煮る__20250209_野菜を煮る前に塩を入れるとより美味しくなります.mp3",
+       "sentence_english": "Adding salt before boiling vegetables makes them even more delicious.",
+       "sentence_original": "野菜を煮る前に、塩を入れるとより美味しくなります。",
+       "sentence_romaji": "Yasai o niru mae ni, shio o ireru to yori oishiku narimasu."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_煮る.mp3",
+     "vocabulary_english": "to boil",
+     "vocabulary_original": "煮る_",
+     "vocabulary_simplified": "にる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "運ぶ_",
+       "sentence_audio": "/audio/japanese/sentences/s_運ぶ__20250209_引っ越しの荷物を運ぶのは大変だ.mp3",
+       "sentence_english": "It's hard to carry moving luggage.",
+       "sentence_original": "引っ越しの荷物を運ぶのは大変だ。",
+       "sentence_romaji": "Hikkoshi no nimotsu o hakobu no wa taihen da."
+      },
+      {
+       "key": "運ぶ_",
+       "sentence_audio": "/audio/japanese/sentences/s_運ぶ__20250209_重い箱を運ぶのに苦労した.mp3",
+       "sentence_english": "I had trouble carrying the heavy box.",
+       "sentence_original": "重い箱を運ぶのに苦労した。",
+       "sentence_romaji": "Omoi hako o hakobu no ni kurou shita."
+      },
+      {
+       "key": "運ぶ_",
+       "sentence_audio": "/audio/japanese/sentences/s_運ぶ__20250209_彼は毎日野菜を市場に運んでいる.mp3",
+       "sentence_english": "He carries vegetables to the market every day.",
+       "sentence_original": "彼は毎日野菜を市場に運んでいる。",
+       "sentence_romaji": "Kare wa mainichi yasai o ichiba ni hakonde iru."
+      },
+      {
+       "key": "運ぶ_",
+       "sentence_audio": "/audio/japanese/sentences/s_運ぶ__20250209_ピザ配達のおじさんがピザを運んできた.mp3",
+       "sentence_english": "The pizza delivery man brought the pizza.",
+       "sentence_original": "ピザ配達のおじさんがピザを運んできた。",
+       "sentence_romaji": "Piza haitatsu no ojisan ga piza o hakonde kita."
+      },
+      {
+       "key": "運ぶ_",
+       "sentence_audio": "/audio/japanese/sentences/s_運ぶ__20250209_週末は友達の家に荷物を運ぶ手伝いをします.mp3",
+       "sentence_english": "On the weekend, I will help my friend carry their luggage to their house.",
+       "sentence_original": "週末は友達の家に荷物を運ぶ手伝いをします。",
+       "sentence_romaji": "Shuumatsu wa tomodachi no ie ni nimotsu o hakobu tetsudai o shimasu."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_運ぶ.mp3",
+     "vocabulary_english": "to carry",
+     "vocabulary_original": "運ぶ_",
+     "vocabulary_simplified": "はこぶ",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "躍る_",
+       "sentence_audio": "/audio/japanese/sentences/s_躍る__20250209_雲が空に躍るように見えた.mp3",
+       "sentence_english": "The clouds appeared to dance in the sky.",
+       "sentence_original": "雲が空に躍るように見えた。",
+       "sentence_romaji": "Kumo ga sora ni odoru you ni mieta."
+      },
+      {
+       "key": "躍る_",
+       "sentence_audio": "/audio/japanese/sentences/s_躍る__20250209_彼女の瞳は喜びで躍っていた.mp3",
+       "sentence_english": "Her eyes were dancing with joy.",
+       "sentence_original": "彼女の瞳は喜びで躍っていた。",
+       "sentence_romaji": "Kanojo no hitomi wa yorokobi de odotte ita."
+      },
+      {
+       "key": "躍る_",
+       "sentence_audio": "/audio/japanese/sentences/s_躍る__20250209_子供たちは公園で元気に躍っていた.mp3",
+       "sentence_english": "The children were energetically dancing in the park.",
+       "sentence_original": "子供たちは公園で元気に躍っていた。",
+       "sentence_romaji": "Kodomo-tachi wa kouen de genki ni odotte ita."
+      },
+      {
+       "key": "躍る_",
+       "sentence_audio": "/audio/japanese/sentences/s_躍る__20250209_音楽が始まると彼はすぐに躍り出した.mp3",
+       "sentence_english": "As soon as the music started, he began to dance.",
+       "sentence_original": "音楽が始まると、彼はすぐに躍り出した。",
+       "sentence_romaji": "Ongaku ga hajimaru to, kare wa sugu ni odoridashita."
+      },
+      {
+       "key": "躍る_",
+       "sentence_audio": "/audio/japanese/sentences/s_躍る__20250209_彼は足を躍らせて喜びを表していた.mp3",
+       "sentence_english": "He expressed his joy by making his feet dance.",
+       "sentence_original": "彼は足を躍らせて喜びを表していた。",
+       "sentence_romaji": "Kare wa ashi o odorasete yorokobi o arawashite ita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_躍る.mp3",
+     "vocabulary_english": "to jump up, to be excited",
+     "vocabulary_original": "躍る_",
+     "vocabulary_simplified": "おどる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "下りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_下りる__20250209_駅の階段を下りるときは気をつけてください.mp3",
+       "sentence_english": "Please be careful when going down the stairs at the station.",
+       "sentence_original": "駅の階段を下りるときは気をつけてください。",
+       "sentence_romaji": "Eki no kaidan o oriru toki wa ki o tsukete kudasai."
+      },
+      {
+       "key": "下りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_下りる__20250209_バスから下りる前に荷物を忘れないようにしましょう.mp3",
+       "sentence_english": "Before getting off the bus, make sure not to forget your belongings.",
+       "sentence_original": "バスから下りる前に、荷物を忘れないようにしましょう。",
+       "sentence_romaji": "Basu kara oriru mae ni, nimotsu o wasurenai you ni shimashou."
+      },
+      {
+       "key": "下りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_下りる__20250209_山を下りる途中で足を滑らせて転んだ.mp3",
+       "sentence_english": "I slipped and fell while coming down the mountain.",
+       "sentence_original": "山を下りる途中で足を滑らせて転んだ。",
+       "sentence_romaji": "Yama o oriru tochuu de ashi o suberasete koronda."
+      },
+      {
+       "key": "下りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_下りる__20250209_エレベーターが故障しているので階段を下りるしかない.mp3",
+       "sentence_english": "Since the elevator is broken, there's no choice but to go down the stairs.",
+       "sentence_original": "エレベーターが故障しているので、階段を下りるしかない。",
+       "sentence_romaji": "Erebeetaa ga koshou shite iru node, kaidan o oriru shika nai."
+      },
+      {
+       "key": "下りる_",
+       "sentence_audio": "/audio/japanese/sentences/s_下りる__20250209_電車から下りると友達が待っていた.mp3",
+       "sentence_english": "When I got off the train, my friend was waiting.",
+       "sentence_original": "電車から下りると、友達が待っていた。",
+       "sentence_romaji": "Densha kara oriru to, tomodachi ga matte ita."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_下りる.mp3",
+     "vocabulary_english": "to come down, to be issued",
+     "vocabulary_original": "下りる_",
+     "vocabulary_simplified": "おりる",
+     "word_type": "Verb"
+    },
+    {
+     "p_tag": "essential_600_verbs",
+     "s_tag": "verbs-1",
+     "sentences": [
+      {
+       "key": "開ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_開ける__20250209_窓を開けると新鮮な空気が部屋に入ってきた.mp3",
+       "sentence_english": "When I opened the window, fresh air came into the room.",
+       "sentence_original": "窓を開けると、新鮮な空気が部屋に入ってきた。",
+       "sentence_romaji": "Mado o akeru to, shinsen na kuuki ga heya ni haitte kita."
+      },
+      {
+       "key": "開ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_開ける__20250209_誕生日プレゼントを開けるのが楽しみだ.mp3",
+       "sentence_english": "I'm looking forward to opening my birthday present.",
+       "sentence_original": "誕生日プレゼントを開けるのが楽しみだ。",
+       "sentence_romaji": "Tanjoubi purezento o akeru no ga tanoshimi da."
+      },
+      {
+       "key": "開ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_開ける__20250209_鍵をかけているのでドアを開けることができません.mp3",
+       "sentence_english": "I can't open the door because it's locked.",
+       "sentence_original": "鍵をかけているので、ドアを開けることができません。",
+       "sentence_romaji": "Kagi o kakete iru node, doa o akeru koto ga dekimasen."
+      },
+      {
+       "key": "開ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_開ける__20250209_新しいワインを開ける時は友達と一緒に楽しむつもりだ.mp3",
+       "sentence_english": "I plan to enjoy opening the new wine with friends.",
+       "sentence_original": "新しいワインを開ける時は、友達と一緒に楽しむつもりだ。",
+       "sentence_romaji": "Atarashii wain o akeru toki wa, tomodachi to issho ni tanoshimu tsumori da."
+      },
+      {
+       "key": "開ける_",
+       "sentence_audio": "/audio/japanese/sentences/s_開ける__20250209_彼は慌てて封筒を開けた.mp3",
+       "sentence_english": "He hurriedly opened the envelope.",
+       "sentence_original": "彼は慌てて封筒を開けた。",
+       "sentence_romaji": "Kare wa awatete fuutou o aketa."
+      }
+     ],
+     "vocabulary_audio": "/audio/vocab/v_開ける.mp3",
+     "vocabulary_english": "to open",
+     "vocabulary_original": "開ける_",
+     "vocabulary_simplified": "あける",
+     "word_type": "Verb"
+    }
+   ]
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

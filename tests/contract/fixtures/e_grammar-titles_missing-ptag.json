@@ -1,0 +1,17 @@
+{
+ "name": "e_grammar-titles_missing-ptag",
+ "note": "expect 400",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/e-api/v1/grammar-titles"
+ },
+ "response": {
+  "body": {
+   "error": "p_tag parameter is required."
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 400
+ }
+}

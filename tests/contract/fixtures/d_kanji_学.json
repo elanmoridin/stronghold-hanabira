@@ -1,0 +1,43 @@
+{
+ "name": "d_kanji_学",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/kanji/%E5%AD%A6"
+ },
+ "response": {
+  "body": {
+   "frequency": "63",
+   "grade": "1",
+   "jlpt_level": "4",
+   "literal": "学",
+   "meanings": [
+    "study",
+    "learning",
+    "science"
+   ],
+   "radicals": [
+    {
+     "type": "classical",
+     "value": "39"
+    }
+   ],
+   "readings": [
+    {
+     "type": "ja_on",
+     "value": "ガク"
+    },
+    {
+     "type": "ja_kun",
+     "value": "まな.ぶ"
+    }
+   ],
+   "stroke_count": "8",
+   "unicode": "5b66"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "name": "d_parse-split_lyrics",
+ "note": "",
+ "request": {
+  "body": {
+   "mode": "lyrics",
+   "text": "いろはにほへと\n散りぬるを"
+  },
+  "method": "POST",
+  "path": "/d-api/v1/parse-split"
+ },
+ "response": {
+  "body": [
+   [
+    {
+     "dictionary": "いろは",
+     "furigana": "",
+     "original": "いろは"
+    },
+    {
+     "dictionary": "に",
+     "furigana": "",
+     "original": "に"
+    },
+    {
+     "dictionary": "ほ",
+     "furigana": "",
+     "original": "ほ"
+    },
+    {
+     "dictionary": "へ",
+     "furigana": "",
+     "original": "へ"
+    },
+    {
+     "dictionary": "と",
+     "furigana": "",
+     "original": "と"
+    }
+   ],
+   [
+    {
+     "dictionary": "散る",
+     "furigana": "ちり",
+     "original": "散り"
+    },
+    {
+     "dictionary": "ぬる",
+     "furigana": "",
+     "original": "ぬる"
+    },
+    {
+     "dictionary": "を",
+     "furigana": "",
+     "original": "を"
+    }
+   ]
+  ],
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

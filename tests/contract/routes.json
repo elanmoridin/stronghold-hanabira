@@ -1,0 +1,793 @@
+{
+ "routes": [
+  {
+   "svc": "express",
+   "method": "GET",
+   "path": "/e-api/v1/words",
+   "src": "backend/express/my_server.js:182",
+   "callers": [
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:70",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:66",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:70",
+    "frontend-next/src/components/Rows.tsx:18",
+    "frontend-next/src/components/Rows.tsx:20"
+   ],
+   "used": true
+  },
+  {
+   "svc": "express",
+   "method": "GET",
+   "path": "/e-api/v1/tanos_words",
+   "src": "backend/express/my_server.js:194",
+   "callers": [
+    "frontend-next/src/app/english/quick_vocab/page.tsx:1025",
+    "frontend-next/src/app/english/quick_vocab/page.tsx:1028",
+    "frontend-next/src/app/japanese/quick_vocab/page.tsx:684",
+    "frontend-next/src/app/japanese/quick_vocab/page.tsx:687",
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:70",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:66",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:70"
+   ],
+   "used": true
+  },
+  {
+   "svc": "express",
+   "method": "GET",
+   "path": "/e-api/v1/grammars",
+   "src": "backend/express/my_server.js:204",
+   "callers": [
+    "frontend-next/src/app/japanese/grammar_dashboard/[slug]/[id]/page.tsx:63",
+    "frontend-next/src/app/japanese/grammar_dashboard/[slug]/[id]/page.tsx:67",
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:70",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:66",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:70"
+   ],
+   "used": true
+  },
+  {
+   "svc": "express",
+   "method": "GET",
+   "path": "/e-api/v1/grammar-titles",
+   "src": "backend/express/my_server.js:214",
+   "callers": [
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:70",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:66",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:70",
+    "frontend-next/src/components/GrammarTitles.tsx:26",
+    "frontend-next/src/components/GrammarTitles.tsx:28"
+   ],
+   "used": true
+  },
+  {
+   "svc": "express",
+   "method": "POST",
+   "path": "/e-api/v1/grammar-details",
+   "src": "backend/express/my_server.js:266",
+   "callers": [
+    "frontend-next/src/app/grammarpoint/[slug]/page.tsx:36",
+    "frontend-next/src/app/grammarpoint/[slug]/page.tsx:38",
+    "frontend-next/src/app/japanese/grammarpoint/[slug]/page.tsx:29",
+    "frontend-next/src/app/japanese/grammarpoint/[slug]/page.tsx:30",
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:70",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:66",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:70"
+   ],
+   "used": true
+  },
+  {
+   "svc": "express",
+   "method": "POST",
+   "path": "/e-api/v1/vietnamese/grammar-details",
+   "src": "backend/express/my_server.js:293",
+   "callers": [
+    "frontend-next/src/app/langs/vietnamese/grammarpoint/[slug]/page.tsx:39",
+    "frontend-next/src/app/langs/vietnamese/grammarpoint/[slug]/page.tsx:41",
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:70",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:66",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:70"
+   ],
+   "used": true
+  },
+  {
+   "svc": "express",
+   "method": "POST",
+   "path": "/e-api/v1/korean/grammar-details",
+   "src": "backend/express/my_server.js:316",
+   "callers": [
+    "frontend-next/src/app/langs/korean/grammarpoint/[slug]/page.tsx:33",
+    "frontend-next/src/app/langs/korean/grammarpoint/[slug]/page.tsx:34",
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:70",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:66",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:70"
+   ],
+   "used": true
+  },
+  {
+   "svc": "express",
+   "method": "POST",
+   "path": "/e-api/v1/thai/grammar-details",
+   "src": "backend/express/my_server.js:342",
+   "callers": [
+    "frontend-next/src/app/langs/thai/grammarpoint/[slug]/page.tsx:39",
+    "frontend-next/src/app/langs/thai/grammarpoint/[slug]/page.tsx:41",
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:70",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:66",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:70"
+   ],
+   "used": true
+  },
+  {
+   "svc": "express",
+   "method": "POST",
+   "path": "/e-api/v1/mandarin/grammar-details",
+   "src": "backend/express/my_server.js:365",
+   "callers": [
+    "frontend-next/src/app/langs/mandarin/grammarpoint/[slug]/page.tsx:61",
+    "frontend-next/src/app/langs/mandarin/grammarpoint/[slug]/page.tsx:63",
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:70",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:66",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:70"
+   ],
+   "used": true
+  },
+  {
+   "svc": "express",
+   "method": "GET",
+   "path": "/e-api/v1/kanji",
+   "src": "backend/express/my_server.js:393",
+   "callers": [
+    "frontend-next/src/app/japanese/quick_kanji/page.tsx:151",
+    "frontend-next/src/app/japanese/quick_kanji/page.tsx:154",
+    "frontend-next/src/components/ComplexFlashcardModal.tsx:56",
+    "frontend-next/src/components/ComplexFlashcardModal.tsx:59",
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:70",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:66",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:70"
+   ],
+   "used": true
+  },
+  {
+   "svc": "express",
+   "method": "GET",
+   "path": "/e-api/v1/reading",
+   "src": "backend/express/my_server.js:425",
+   "callers": [
+    "frontend-next/src/app/japanese/reading/[slug]/page.tsx:52",
+    "frontend-next/src/app/japanese/reading/[slug]/page.tsx:54",
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:70",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:66",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:70"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/parse",
+   "src": "backend/dictionary/main_server.js:205",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/parse-json",
+   "src": "backend/dictionary/main_server.js:220",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/parse-simple",
+   "src": "backend/dictionary/main_server.js:233",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/parse-split",
+   "src": "backend/dictionary/main_server.js:282",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:154",
+    "frontend-next/src/components-parser/JapaneseTextParser.tsx:48"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/deepl-translate",
+   "src": "backend/dictionary/main_server.js:321",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:156"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/convert/hiragana",
+   "src": "backend/dictionary/main_server.js:383",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:158"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/convert/katakana",
+   "src": "backend/dictionary/main_server.js:391",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/convert/romaji",
+   "src": "backend/dictionary/main_server.js:399",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/convert/okurigana",
+   "src": "backend/dictionary/main_server.js:410",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/convert/furigana",
+   "src": "backend/dictionary/main_server.js:421",
+   "callers": [
+    "frontend-next/src/components-parser/FuriganaConverter.tsx:18",
+    "frontend-next/src/components-parser/FuriganaConverterV2.tsx:18"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/convert/all",
+   "src": "backend/dictionary/main_server.js:432",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:155",
+    "frontend-next/src/app/text-parser/page.tsx:159"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "GET",
+   "path": "/d-api/v1/kanji/:character",
+   "src": "backend/dictionary/main_server.js:474",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:153"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "GET",
+   "path": "/d-api/v1/extract-kanji",
+   "src": "backend/dictionary/main_server.js:562",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:152"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "GET",
+   "path": "/d-api/v1/simple-vocabulary/:expression",
+   "src": "backend/dictionary/main_server.js:584",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:157"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/radical-info",
+   "src": "backend/dictionary/main_server.js:653",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:160"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/grammar",
+   "src": "backend/dictionary/main_server.js:1125",
+   "callers": [
+    "frontend-next/src/app/grammar-graph/page.tsx:12",
+    "frontend-next/src/app/text-parser/page.tsx:163"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/translate",
+   "src": "backend/dictionary/main_server.js:1140",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:164",
+    "frontend-next/src/app/translate/page.tsx:14"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/translate-side-by-side",
+   "src": "backend/dictionary/main_server.js:1150",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:165"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/summary",
+   "src": "backend/dictionary/main_server.js:1175",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:166"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/sentiment",
+   "src": "backend/dictionary/main_server.js:1198",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:167"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/verb-conjugation",
+   "src": "backend/dictionary/main_server.js:1217",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/word-similarity",
+   "src": "backend/dictionary/main_server.js:1227",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/synonyms",
+   "src": "backend/dictionary/main_server.js:1237",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/antonyms",
+   "src": "backend/dictionary/main_server.js:1247",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/hypernyms",
+   "src": "backend/dictionary/main_server.js:1257",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/hyponyms",
+   "src": "backend/dictionary/main_server.js:1267",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/collocations",
+   "src": "backend/dictionary/main_server.js:1277",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/part-of-speech",
+   "src": "backend/dictionary/main_server.js:1287",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/idioms",
+   "src": "backend/dictionary/main_server.js:1297",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/pronounciation-similarity",
+   "src": "backend/dictionary/main_server.js:1307",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "GET",
+   "path": "/d-api/v1/metrics",
+   "src": "backend/dictionary/main_server.js:1323",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "dictionary",
+   "method": "POST",
+   "path": "/d-api/v1/parse-tree",
+   "src": "backend/dictionary/main_server.js:1348",
+   "callers": [
+    "frontend-next/src/app/grammar-graph/page.tsx:99"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "GET",
+   "path": "/d-api/v1/get-transcript",
+   "src": "backend/dictionary/main_server.js:1407",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:250",
+    "frontend-next/src/components-parser/YouTubeComponent.tsx:108"
+   ],
+   "used": true
+  },
+  {
+   "svc": "dictionary",
+   "method": "GET",
+   "path": "/d-api/v1/audio/:filename",
+   "src": "backend/dictionary/main_server.js:1485",
+   "callers": [
+    "frontend-next/src/components-parser/WordDetailsSidebar.tsx:41"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/submit_email",
+   "src": "backend/flask/modules/email_waitlist.py:22",
+   "callers": [
+    "frontend-next/src/components/EmailForm.tsx:14"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/clone-static-collection-kanji",
+   "src": "backend/flask/modules/flashcards.py:113",
+   "callers": [
+    "frontend-next/src/app/japanese/flashcards/page.tsx:130",
+    "frontend-next/src/app/japanese/flashcards/page.tsx:152"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/clone-static-collection-words",
+   "src": "backend/flask/modules/flashcards.py:242",
+   "callers": [
+    "frontend-next/src/app/japanese/flashcards/page.tsx:172"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "GET",
+   "path": "/f-api/v1/combine-flashcard-data-kanji",
+   "src": "backend/flask/modules/flashcards.py:384",
+   "callers": [
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:68",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:64"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/combine-flashcard-data-kanji",
+   "src": "backend/flask/modules/flashcards.py:384",
+   "callers": [
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:68",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:64"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "GET",
+   "path": "/f-api/v1/combine-flashcard-data-words",
+   "src": "backend/flask/modules/flashcards.py:466",
+   "callers": [
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:68",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:64"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/combine-flashcard-data-words",
+   "src": "backend/flask/modules/flashcards.py:466",
+   "callers": [
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:68",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:64"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/clone-static-collection-grammars",
+   "src": "backend/flask/modules/flashcards.py:571",
+   "callers": [
+    "frontend-next/src/app/japanese/flashcards/page.tsx:193"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "GET",
+   "path": "/f-api/v1/combine-flashcard-data-grammars",
+   "src": "backend/flask/modules/flashcards.py:736",
+   "callers": [
+    "frontend-next/src/components/ComplexFlashcardModalGrammarFlask.tsx:63",
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:68",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:64"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/combine-flashcard-data-grammars",
+   "src": "backend/flask/modules/flashcards.py:736",
+   "callers": [
+    "frontend-next/src/components/ComplexFlashcardModalGrammarFlask.tsx:63",
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:68",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:64"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "GET",
+   "path": "/f-api/v1/flashcard/<userId>",
+   "src": "backend/flask/modules/flashcards.py:923",
+   "callers": [
+    "frontend-next/src/components/LearningProgressFlask.tsx:46"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/flashcard",
+   "src": "backend/flask/modules/flashcards.py:1110",
+   "callers": [
+    "frontend-next/src/components/ComplexFlashcardModalGrammarFlask.tsx:135",
+    "frontend-next/src/components/ComplexFlashcardModalKanjiFlask.tsx:119",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlask.tsx:113"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "GET",
+   "path": "/f-api/v1/japanese-texts/<userId>",
+   "src": "backend/flask/modules/library.py:25",
+   "callers": [
+    "frontend-next/src/app/custom-text/page.tsx:46",
+    "frontend-next/src/app/custom-text/page.tsx:82"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/japanese-texts",
+   "src": "backend/flask/modules/library.py:67",
+   "callers": [
+    "frontend-next/src/app/custom-text/page.tsx:64"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "DELETE",
+   "path": "/f-api/v1/japanese-texts/<id>",
+   "src": "backend/flask/modules/library.py:108",
+   "callers": [
+    "frontend-next/src/app/custom-text/page.tsx:46",
+    "frontend-next/src/app/custom-text/page.tsx:82"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "GET",
+   "path": "/f-api/v1/custom-videos",
+   "src": "backend/flask/modules/library.py:127",
+   "callers": [
+    "frontend-next/src/app/my-podcasts/page.tsx:39",
+    "frontend-next/src/app/my-podcasts/page.tsx:54"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/custom-videos",
+   "src": "backend/flask/modules/library.py:161",
+   "callers": [
+    "frontend-next/src/app/my-podcasts/page.tsx:39",
+    "frontend-next/src/app/my-podcasts/page.tsx:54"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "DELETE",
+   "path": "/f-api/v1/custom-videos/<id>",
+   "src": "backend/flask/modules/library.py:193",
+   "callers": [
+    "frontend-next/src/app/my-podcasts/page.tsx:72"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/notify-login",
+   "src": "backend/flask/modules/login_streak.py:22",
+   "callers": [
+    "frontend-next/src/components/Sidebar.tsx:112",
+    "frontend-next/src/context/UserContext.tsx:94"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "GET",
+   "path": "/f-api/v1/get-logins/<userId>",
+   "src": "backend/flask/modules/login_streak.py:52",
+   "callers": [
+    "frontend-next/src/app/user-dashboard/page.tsx:84"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "GET",
+   "path": "/f-api/v1/streak/<userId>",
+   "src": "backend/flask/modules/login_streak.py:74",
+   "callers": [],
+   "used": false
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/store-vocabulary-data",
+   "src": "backend/flask/modules/sentence_mining.py:23",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:172"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "GET",
+   "path": "/f-api/v1/text-parser-words",
+   "src": "backend/flask/modules/sentence_mining.py:123",
+   "callers": [
+    "frontend-next/src/app/my-vocabulary/page.tsx:28",
+    "frontend-next/src/app/my-vocabulary/page.tsx:45",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:68"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/text-parser-words",
+   "src": "backend/flask/modules/sentence_mining.py:194",
+   "callers": [
+    "frontend-next/src/app/my-vocabulary/page.tsx:28",
+    "frontend-next/src/app/my-vocabulary/page.tsx:45",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:68"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "PATCH",
+   "path": "/f-api/v1/text-parser-words/<string:record_id>",
+   "src": "backend/flask/modules/sentence_mining.py:253",
+   "callers": [
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:126"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "DELETE",
+   "path": "/f-api/v1/text-parser-words",
+   "src": "backend/flask/modules/sentence_mining.py:303",
+   "callers": [
+    "frontend-next/src/app/my-vocabulary/page.tsx:28",
+    "frontend-next/src/app/my-vocabulary/page.tsx:45",
+    "frontend-next/src/components/ComplexFlashcardModalVocabFlaskSentenceMining.tsx:68"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/user-vocabulary",
+   "src": "backend/flask/modules/vocabulary_mining.py:30",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:171"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "POST",
+   "path": "/f-api/v1/enhance-vocabulary",
+   "src": "backend/flask/modules/vocabulary_mining.py:88",
+   "callers": [
+    "frontend-next/src/app/text-parser/page.tsx:170",
+    "frontend-next/src/components-parser/JapaneseTextParser.tsx:49"
+   ],
+   "used": true
+  },
+  {
+   "svc": "flask",
+   "method": "GET",
+   "path": "/health",
+   "src": "backend/flask/server.py:34",
+   "callers": [],
+   "used": false
+  }
+ ],
+ "unmatched_calls": [
+  {
+   "file": "frontend-next/src/components/CloneButton.tsx",
+   "line": 25,
+   "raw": "/f-api/v1/",
+   "norm": "/f-api/v1"
+  }
+ ]
+}

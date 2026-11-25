@@ -1,0 +1,19 @@
+{
+ "name": "d_deepl-translate_dummykey",
+ "note": "dummy key; failure shape",
+ "request": {
+  "body": {
+   "japaneseText": "こんにちは"
+  },
+  "method": "POST",
+  "path": "/d-api/v1/deepl-translate"
+ },
+ "response": {
+  "body": {
+   "error": "Translation failed"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 500
+ }
+}

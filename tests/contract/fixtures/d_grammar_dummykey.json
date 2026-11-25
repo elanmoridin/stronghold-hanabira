@@ -1,0 +1,19 @@
+{
+ "name": "d_grammar_dummykey",
+ "note": "dummy key; failure shape",
+ "request": {
+  "body": {
+   "userPrompt": "こんにちは"
+  },
+  "method": "POST",
+  "path": "/d-api/v1/grammar"
+ },
+ "response": {
+  "body": {
+   "error": "An error occurred while calling the OpenAI API."
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 400
+ }
+}

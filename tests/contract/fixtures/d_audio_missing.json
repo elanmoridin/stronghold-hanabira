@@ -1,0 +1,17 @@
+{
+ "name": "d_audio_missing",
+ "note": "expect 404",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/audio/does-not-exist.mp3"
+ },
+ "response": {
+  "body": {
+   "error": "File not found"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 404
+ }
+}

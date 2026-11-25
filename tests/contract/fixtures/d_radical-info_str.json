@@ -1,0 +1,56 @@
+{
+ "name": "d_radical-info_str",
+ "note": "",
+ "request": {
+  "body": {
+   "kanjiList": "寿司"
+  },
+  "method": "POST",
+  "path": "/d-api/v1/radical-info"
+ },
+ "response": {
+  "body": [
+   {
+    "kanji": "寿",
+    "radicals": [
+     {
+      "meaning": "bend, possessive particle no (の, no, ノ)",
+      "radical": "ノ"
+     },
+     {
+      "meaning": "one (いち, ichi, 一)",
+      "radical": "一"
+     },
+     {
+      "meaning": "sun (unit of measurement) (すん, sun)",
+      "radical": "寸"
+     },
+     {
+      "meaning": "two (に, ni, 二)",
+      "radical": "二"
+     }
+    ]
+   },
+   {
+    "kanji": "司",
+    "radicals": [
+     {
+      "meaning": "one (いち, ichi, 一)",
+      "radical": "一"
+     },
+     {
+      "meaning": "mouth, opening (くち, kuchi)",
+      "radical": "口"
+     },
+     {
+      "meaning": "hook, hooked stick (はねぼう, hanebō, 撥棒)",
+      "radical": "亅"
+     }
+    ]
+   }
+  ],
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

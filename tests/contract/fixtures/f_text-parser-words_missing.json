@@ -1,0 +1,17 @@
+{
+ "name": "f_text-parser-words_missing",
+ "note": "expect 400",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/f-api/v1/text-parser-words"
+ },
+ "response": {
+  "body": {
+   "error": "Missing required parameters"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 400
+ }
+}

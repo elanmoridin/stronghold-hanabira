@@ -1,0 +1,18 @@
+{
+ "name": "f_enhance-vocabulary_nouser",
+ "note": "read-only lookup",
+ "request": {
+  "body": {
+   "data": [],
+   "userId": "contractFixtureUser"
+  },
+  "method": "POST",
+  "path": "/f-api/v1/enhance-vocabulary"
+ },
+ "response": {
+  "body": [],
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

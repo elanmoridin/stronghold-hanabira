@@ -1,0 +1,17 @@
+{
+ "name": "d_extract-kanji_missing",
+ "note": "expect 400",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/extract-kanji"
+ },
+ "response": {
+  "body": {
+   "error": "No word provided"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 400
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "e_words_JLPT_N4",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/e-api/v1/words?p_tag=JLPT_N4"
+ },
+ "response": {
+  "body": {
+   "words": []
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

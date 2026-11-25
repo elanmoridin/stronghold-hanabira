@@ -1,0 +1,19 @@
+{
+ "name": "f_enhance-vocabulary_missing",
+ "note": "expect 400",
+ "request": {
+  "body": {
+   "data": []
+  },
+  "method": "POST",
+  "path": "/f-api/v1/enhance-vocabulary"
+ },
+ "response": {
+  "body": {
+   "error": "userId is missing in the payload"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 400
+ }
+}

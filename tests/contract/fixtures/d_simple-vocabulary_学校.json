@@ -1,0 +1,21 @@
+{
+ "name": "d_simple-vocabulary_学校",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/simple-vocabulary/%E5%AD%A6%E6%A0%A1"
+ },
+ "response": {
+  "body": {
+   "englishTranslations": [
+    "school"
+   ],
+   "hiragana": "がっこう",
+   "original": "学校"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "name": "d_parse-simple",
+ "note": "unused by UI",
+ "request": {
+  "body": {
+   "text": "今日は学校に行きます。昨日、友達と寿司屋で晩ご飯を食べました。"
+  },
+  "method": "POST",
+  "path": "/d-api/v1/parse-simple"
+ },
+ "response": {
+  "body": [
+   {
+    "dictionary": "今日",
+    "furigana": "きょう",
+    "original": "今日"
+   },
+   {
+    "dictionary": "は",
+    "furigana": "は",
+    "original": "は"
+   },
+   {
+    "dictionary": "学校",
+    "furigana": "がっこう",
+    "original": "学校"
+   },
+   {
+    "dictionary": "に",
+    "furigana": "に",
+    "original": "に"
+   },
+   {
+    "dictionary": "行く",
+    "furigana": "いき",
+    "original": "行き"
+   },
+   {
+    "dictionary": "ます",
+    "furigana": "ます",
+    "original": "ます"
+   },
+   {
+    "dictionary": "。",
+    "furigana": "。",
+    "original": "。"
+   },
+   {
+    "dictionary": "昨日",
+    "furigana": "きのう",
+    "original": "昨日"
+   },
+   {
+    "dictionary": "、",
+    "furigana": "、",
+    "original": "、"
+   },
+   {
+    "dictionary": "友達",
+    "furigana": "ともだち",
+    "original": "友達"
+   },
+   {
+    "dictionary": "と",
+    "furigana": "と",
+    "original": "と"
+   },
+   {
+    "dictionary": "寿司",
+    "furigana": "すし",
+    "original": "寿司"
+   },
+   {
+    "dictionary": "屋",
+    "furigana": "や",
+    "original": "屋"
+   },
+   {
+    "dictionary": "で",
+    "furigana": "で",
+    "original": "で"
+   },
+   {
+    "dictionary": "晩",
+    "furigana": "ばん",
+    "original": "晩"
+   },
+   {
+    "dictionary": "ご飯",
+    "furigana": "ごはん",
+    "original": "ご飯"
+   },
+   {
+    "dictionary": "を",
+    "furigana": "を",
+    "original": "を"
+   },
+   {
+    "dictionary": "食べる",
+    "furigana": "たべ",
+    "original": "食べ"
+   },
+   {
+    "dictionary": "ます",
+    "furigana": "ました",
+    "original": "ました"
+   },
+   {
+    "dictionary": "。",
+    "furigana": "。",
+    "original": "。"
+   }
+  ],
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

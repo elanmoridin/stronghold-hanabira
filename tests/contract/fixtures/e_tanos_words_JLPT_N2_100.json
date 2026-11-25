@@ -1,0 +1,900 @@
+{
+ "name": "e_tanos_words_JLPT_N2_100",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/e-api/v1/tanos_words?p_tag=JLPT_N2&s_tag=100"
+ },
+ "response": {
+  "body": {
+   "words": [
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あいかわらず.mp3",
+     "vocabulary_english": "as ever, as usual, the same",
+     "vocabulary_original": "あいかわらず",
+     "vocabulary_simplified": "あいかわらず",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_アイデア/アイディア.mp3",
+     "vocabulary_english": "idea",
+     "vocabulary_original": "アイデア/アイディア",
+     "vocabulary_simplified": "アイデア/アイディア",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あいまい.mp3",
+     "vocabulary_english": "vague, ambiguous",
+     "vocabulary_original": "あいまい",
+     "vocabulary_simplified": "あいまい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_遭う.mp3",
+     "vocabulary_english": "to meet, to encounter (undesirable nuance)",
+     "vocabulary_original": "遭う",
+     "vocabulary_simplified": "あう",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_扇ぐ.mp3",
+     "vocabulary_english": "to fan, to flap",
+     "vocabulary_original": "扇ぐ",
+     "vocabulary_simplified": "あおぐ",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_青白い.mp3",
+     "vocabulary_english": "pale, pallid",
+     "vocabulary_original": "青白い",
+     "vocabulary_simplified": "あおじろい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あかんぼう.mp3",
+     "vocabulary_english": "baby",
+     "vocabulary_original": "あかんぼう",
+     "vocabulary_simplified": "あかんぼう",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_明き.mp3",
+     "vocabulary_english": "room, time to spare, emptiness",
+     "vocabulary_original": "明き",
+     "vocabulary_simplified": "あき",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あきれる.mp3",
+     "vocabulary_english": "to be amazed, to be shocked",
+     "vocabulary_original": "あきれる",
+     "vocabulary_simplified": "あきれる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_アクセント.mp3",
+     "vocabulary_english": "accent",
+     "vocabulary_original": "アクセント",
+     "vocabulary_simplified": "アクセント",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あくび.mp3",
+     "vocabulary_english": "yawn",
+     "vocabulary_original": "あくび",
+     "vocabulary_simplified": "あくび",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_飽くまで.mp3",
+     "vocabulary_english": "to the end, to the last, stubbornly",
+     "vocabulary_original": "飽くまで",
+     "vocabulary_simplified": "あくまで",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_明け方.mp3",
+     "vocabulary_english": "dawn",
+     "vocabulary_original": "明け方",
+     "vocabulary_simplified": "あけがた",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_揚げる.mp3",
+     "vocabulary_english": "to lift, to fry",
+     "vocabulary_original": "揚げる",
+     "vocabulary_simplified": "あげる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_挙げる.mp3",
+     "vocabulary_english": "to raise, to fly",
+     "vocabulary_original": "挙げる",
+     "vocabulary_simplified": "あげる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あげる (=やる).mp3",
+     "vocabulary_english": "to do for",
+     "vocabulary_original": "あげる (=やる)",
+     "vocabulary_simplified": "あげる (=やる)",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_憧れる.mp3",
+     "vocabulary_english": "to long for, to yearn after, to admire",
+     "vocabulary_original": "憧れる",
+     "vocabulary_simplified": "あこがれる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_足跡.mp3",
+     "vocabulary_english": "footprints",
+     "vocabulary_original": "足跡",
+     "vocabulary_simplified": "あしあと",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_味わう.mp3",
+     "vocabulary_english": "to taste, to savor, to relish",
+     "vocabulary_original": "味わう",
+     "vocabulary_simplified": "あじわう",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_預かる.mp3",
+     "vocabulary_english": "to keep in custody, to receive on deposit, to take charge of",
+     "vocabulary_original": "預かる",
+     "vocabulary_simplified": "あずかる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_暖まる.mp3",
+     "vocabulary_english": "to warm up, to get warm",
+     "vocabulary_original": "暖まる",
+     "vocabulary_simplified": "あたたまる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_暖める.mp3",
+     "vocabulary_english": "to warm, to heat",
+     "vocabulary_original": "暖める",
+     "vocabulary_simplified": "あたためる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あたりまえ.mp3",
+     "vocabulary_english": "usual, common, ordinary",
+     "vocabulary_original": "あたりまえ",
+     "vocabulary_simplified": "あたりまえ",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あひら.mp3",
+     "vocabulary_english": "",
+     "vocabulary_original": "あひら",
+     "vocabulary_simplified": "あひら",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あちらこちら.mp3",
+     "vocabulary_english": "here and there",
+     "vocabulary_original": "あちらこちら",
+     "vocabulary_simplified": "あちらこちら",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_厚かましい.mp3",
+     "vocabulary_english": "impudent, shameless, brazen",
+     "vocabulary_original": "厚かましい",
+     "vocabulary_simplified": "あつかましい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_圧縮.mp3",
+     "vocabulary_english": "compression, condensation, pressure",
+     "vocabulary_original": "圧縮",
+     "vocabulary_simplified": "あっしゅく",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_宛名.mp3",
+     "vocabulary_english": "address, direction",
+     "vocabulary_original": "宛名",
+     "vocabulary_simplified": "あてな",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あてはまる.mp3",
+     "vocabulary_english": "to be applicable, to come under (a category), to fulfill",
+     "vocabulary_original": "あてはまる",
+     "vocabulary_simplified": "あてはまる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あてはめる.mp3",
+     "vocabulary_english": "to apply, to adapt",
+     "vocabulary_original": "あてはめる",
+     "vocabulary_simplified": "あてはめる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_暴れる.mp3",
+     "vocabulary_english": "to act violently, to rage, to struggle, to be riotous",
+     "vocabulary_original": "暴れる",
+     "vocabulary_simplified": "あばれる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_脂.mp3",
+     "vocabulary_english": "fat, tallow, lard",
+     "vocabulary_original": "脂",
+     "vocabulary_simplified": "あぶら",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あぶる.mp3",
+     "vocabulary_english": "to scorch",
+     "vocabulary_original": "あぶる",
+     "vocabulary_simplified": "あぶる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あふれる.mp3",
+     "vocabulary_english": "to flood, to overflow, to brim over",
+     "vocabulary_original": "あふれる",
+     "vocabulary_simplified": "あふれる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_雨戸.mp3",
+     "vocabulary_english": "sliding storm door",
+     "vocabulary_original": "雨戸",
+     "vocabulary_simplified": "あまど",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_甘やかす.mp3",
+     "vocabulary_english": "to pamper, to spoil",
+     "vocabulary_original": "甘やかす",
+     "vocabulary_simplified": "あまやかす",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_余る.mp3",
+     "vocabulary_english": "to remain, to be left over, to be in excess, to be too many",
+     "vocabulary_original": "余る",
+     "vocabulary_simplified": "あまる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_編物.mp3",
+     "vocabulary_english": "knitting, web",
+     "vocabulary_original": "編物",
+     "vocabulary_simplified": "あみもの",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_編む.mp3",
+     "vocabulary_english": "to knit",
+     "vocabulary_original": "編む",
+     "vocabulary_simplified": "あむ",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_危うい.mp3",
+     "vocabulary_english": "dangerous, critical, grave",
+     "vocabulary_original": "危うい",
+     "vocabulary_simplified": "あやうい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_怪しい.mp3",
+     "vocabulary_english": "suspicious, dubious, doubtful",
+     "vocabulary_original": "怪しい",
+     "vocabulary_simplified": "あやしい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_荒い.mp3",
+     "vocabulary_english": "rough, rude, wild",
+     "vocabulary_original": "荒い",
+     "vocabulary_simplified": "あらい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_粗い.mp3",
+     "vocabulary_english": "coarse, rough",
+     "vocabulary_original": "粗い",
+     "vocabulary_simplified": "あらい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あらすじ.mp3",
+     "vocabulary_english": "outline, summary",
+     "vocabulary_original": "あらすじ",
+     "vocabulary_simplified": "あらすじ",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_争う.mp3",
+     "vocabulary_english": "to dispute, to argue, to be at variance, to compete",
+     "vocabulary_original": "争う",
+     "vocabulary_simplified": "あらそう",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_改めて.mp3",
+     "vocabulary_english": "another time, again, over again, anew, formally",
+     "vocabulary_original": "改めて",
+     "vocabulary_simplified": "あらためて",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_改める.mp3",
+     "vocabulary_english": "to change, to alter, to reform, to revise",
+     "vocabulary_original": "改める",
+     "vocabulary_simplified": "あらためる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_著す.mp3",
+     "vocabulary_english": "to write, to publish",
+     "vocabulary_original": "著す",
+     "vocabulary_simplified": "あらわす",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_有難い.mp3",
+     "vocabulary_english": "grateful, thankful, welcome, appreciated, evoking gratitude",
+     "vocabulary_original": "有難い",
+     "vocabulary_simplified": "ありがたい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_在る.mp3",
+     "vocabulary_english": "to live, to be",
+     "vocabulary_original": "在る",
+     "vocabulary_simplified": "ある",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あれこれ.mp3",
+     "vocabulary_english": "one thing or another, this and that, this or that",
+     "vocabulary_original": "あれこれ",
+     "vocabulary_simplified": "あれこれ",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あわただしい.mp3",
+     "vocabulary_english": "busy, hurried, confused, flurried",
+     "vocabulary_original": "あわただしい",
+     "vocabulary_simplified": "あわただしい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_あわてる.mp3",
+     "vocabulary_english": "to become confused",
+     "vocabulary_original": "あわてる",
+     "vocabulary_simplified": "あわてる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_安易.mp3",
+     "vocabulary_english": "easy-going",
+     "vocabulary_original": "安易",
+     "vocabulary_simplified": "あんい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_案外.mp3",
+     "vocabulary_english": "unexpectedly",
+     "vocabulary_original": "案外",
+     "vocabulary_simplified": "あんがい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_アンテナ.mp3",
+     "vocabulary_english": "antenna",
+     "vocabulary_original": "アンテナ",
+     "vocabulary_simplified": "アンテナ",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_言い出す.mp3",
+     "vocabulary_english": "to start talking, to speak, to tell, to propose, to suggest, to break the ice",
+     "vocabulary_original": "言い出す",
+     "vocabulary_simplified": "いいだす",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_言い付ける.mp3",
+     "vocabulary_english": "to tell, to tell on (someone), to order",
+     "vocabulary_original": "言い付ける",
+     "vocabulary_simplified": "いいつける",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_意義.mp3",
+     "vocabulary_english": "meaning, significance",
+     "vocabulary_original": "意義",
+     "vocabulary_simplified": "いぎ",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_生き生き.mp3",
+     "vocabulary_english": "vividly, lively",
+     "vocabulary_original": "生き生き",
+     "vocabulary_simplified": "いきいき",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_いきなり.mp3",
+     "vocabulary_english": "(uk) abruptly, suddenly, all of a sudden, without warning",
+     "vocabulary_original": "いきなり",
+     "vocabulary_simplified": "いきなり",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_育児.mp3",
+     "vocabulary_english": "childcare, nursing, upbringing",
+     "vocabulary_original": "育児",
+     "vocabulary_simplified": "いくじ",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_幾分.mp3",
+     "vocabulary_english": "somewhat",
+     "vocabulary_original": "幾分",
+     "vocabulary_simplified": "いくぶん",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_生け花.mp3",
+     "vocabulary_english": "(1) flower arrangement",
+     "vocabulary_original": "生け花",
+     "vocabulary_simplified": "いけばな",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_以後.mp3",
+     "vocabulary_english": "after this, from now on, hereafter, thereafter",
+     "vocabulary_original": "以後",
+     "vocabulary_simplified": "いご",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_以降.mp3",
+     "vocabulary_english": "on and after, hereafter, thereafter",
+     "vocabulary_original": "以降",
+     "vocabulary_simplified": "いこう",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_イコール.mp3",
+     "vocabulary_english": "equal",
+     "vocabulary_original": "イコール",
+     "vocabulary_simplified": "イコール",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_勇ましい.mp3",
+     "vocabulary_english": "brave, valiant, gallant, courageous",
+     "vocabulary_original": "勇ましい",
+     "vocabulary_simplified": "いさましい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_衣食住.mp3",
+     "vocabulary_english": "necessities of life (food,  clothing,  etc.)",
+     "vocabulary_original": "衣食住",
+     "vocabulary_simplified": "いしょくじゅう",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_意地悪.mp3",
+     "vocabulary_english": "malicious, ill-tempered, unkind",
+     "vocabulary_original": "意地悪",
+     "vocabulary_simplified": "いじわる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_いちいち.mp3",
+     "vocabulary_english": "one by one, separately",
+     "vocabulary_original": "いちいち",
+     "vocabulary_simplified": "いちいち",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_一応.mp3",
+     "vocabulary_english": "once, tentatively, in outline, for the time being",
+     "vocabulary_original": "一応",
+     "vocabulary_simplified": "いちおう",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_一段と.mp3",
+     "vocabulary_english": "greater, more, further, still more",
+     "vocabulary_original": "一段と",
+     "vocabulary_simplified": "いちだんと",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_一流.mp3",
+     "vocabulary_english": "first class, top grade, foremost, top-notch",
+     "vocabulary_original": "一流",
+     "vocabulary_simplified": "いちりゅう",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_佚.mp3",
+     "vocabulary_english": "be lost, peace, hide, mistake, beautiful, in turn",
+     "vocabulary_original": "佚",
+     "vocabulary_simplified": "いつ",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_一昨日.mp3",
+     "vocabulary_english": "day before yesterday",
+     "vocabulary_original": "一昨日",
+     "vocabulary_simplified": "いっさくじつ",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_一昨年.mp3",
+     "vocabulary_english": "year before last",
+     "vocabulary_original": "一昨年",
+     "vocabulary_simplified": "いっさくねん",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_一斉.mp3",
+     "vocabulary_english": "simultaneous, all at once",
+     "vocabulary_original": "一斉",
+     "vocabulary_simplified": "いっせい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_一旦.mp3",
+     "vocabulary_english": "once, for a moment, one morning, temporarily",
+     "vocabulary_original": "一旦",
+     "vocabulary_simplified": "いったん",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_一定.mp3",
+     "vocabulary_english": "fixed, settled, definite",
+     "vocabulary_original": "一定",
+     "vocabulary_simplified": "いってい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_いっていらっしゃい.mp3",
+     "vocabulary_english": "",
+     "vocabulary_original": "いっていらっしゃい",
+     "vocabulary_simplified": "いっていらっしゃい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_いってらっしゃい.mp3",
+     "vocabulary_english": "",
+     "vocabulary_original": "いってらっしゃい",
+     "vocabulary_simplified": "いってらっしゃい",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_いってまいります.mp3",
+     "vocabulary_english": "",
+     "vocabulary_original": "いってまいります",
+     "vocabulary_simplified": "いってまいります",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_いつのまにか.mp3",
+     "vocabulary_english": "before one knows, unnoticed, unawares",
+     "vocabulary_original": "いつのまにか",
+     "vocabulary_simplified": "いつのまにか",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_移転.mp3",
+     "vocabulary_english": "moving, transfer, demise",
+     "vocabulary_original": "移転",
+     "vocabulary_simplified": "いてん",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_井戸.mp3",
+     "vocabulary_english": "water well",
+     "vocabulary_original": "井戸",
+     "vocabulary_simplified": "いど",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_緯度.mp3",
+     "vocabulary_english": "latitude (nav.)",
+     "vocabulary_original": "緯度",
+     "vocabulary_simplified": "いど",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_従姉妹.mp3",
+     "vocabulary_english": "cousin (female)",
+     "vocabulary_original": "従姉妹",
+     "vocabulary_simplified": "いとこ",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_威張る.mp3",
+     "vocabulary_english": "to be proud, to swagger",
+     "vocabulary_original": "威張る",
+     "vocabulary_simplified": "いばる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_嫌がる.mp3",
+     "vocabulary_english": "to hate, to dislike",
+     "vocabulary_original": "嫌がる",
+     "vocabulary_simplified": "いやがる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_いよいよ.mp3",
+     "vocabulary_english": "more and more, all the more, increasingly, at last, beyond doubt",
+     "vocabulary_original": "いよいよ",
+     "vocabulary_simplified": "いよいよ",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_煎る.mp3",
+     "vocabulary_english": "to parch, to fry",
+     "vocabulary_original": "煎る",
+     "vocabulary_simplified": "いる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_炒る.mp3",
+     "vocabulary_english": "",
+     "vocabulary_original": "炒る",
+     "vocabulary_simplified": "いる",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_入れ物.mp3",
+     "vocabulary_english": "container, case, receptacle",
+     "vocabulary_original": "入れ物",
+     "vocabulary_simplified": "いれもの",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_インキ.mp3",
+     "vocabulary_english": "ink",
+     "vocabulary_original": "インキ",
+     "vocabulary_simplified": "インキ",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_インタビュー.mp3",
+     "vocabulary_english": "interview",
+     "vocabulary_original": "インタビュー",
+     "vocabulary_simplified": "インタビュー",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_引力.mp3",
+     "vocabulary_english": "gravity",
+     "vocabulary_original": "引力",
+     "vocabulary_simplified": "いんりょく",
+     "word_type": "nan"
+    },
+    {
+     "p_tag": "JLPT_N2",
+     "s_tag": "100",
+     "vocabulary_audio": "/audio/tanos/JLPT_N2/v_ウーマン.mp3",
+     "vocabulary_english": "woman",
+     "vocabulary_original": "ウーマン",
+     "vocabulary_simplified": "ウーマン",
+     "word_type": "nan"
+    }
+   ]
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

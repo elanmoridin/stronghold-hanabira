@@ -1,0 +1,17 @@
+{
+ "name": "d_kanji_a",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/kanji/a"
+ },
+ "response": {
+  "body": {
+   "message": "Kanji not found"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 404
+ }
+}

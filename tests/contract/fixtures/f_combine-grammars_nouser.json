@@ -1,0 +1,15 @@
+{
+ "name": "f_combine-grammars_nouser",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/f-api/v1/combine-flashcard-data-grammars?userId=contractFixtureUser&collectionName=grammars&p_tag=JLPT_N5&s_tag=all"
+ },
+ "response": {
+  "body": [],
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

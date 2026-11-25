@@ -1,0 +1,19 @@
+{
+ "name": "e_grammar-details_unknown",
+ "note": "",
+ "request": {
+  "body": {
+   "title": "does-not-exist"
+  },
+  "method": "POST",
+  "path": "/e-api/v1/grammar-details"
+ },
+ "response": {
+  "body": {
+   "error": "Grammar not found."
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 404
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "name": "f_combine-kanji_nouser",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/f-api/v1/combine-flashcard-data-kanji?userId=contractFixtureUser&collectionName=kanji&p_tag=JLPT_N3&s_tag=part_1"
+ },
+ "response": {
+  "body": [],
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "f_combine-words_nouser",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/f-api/v1/combine-flashcard-data-words?userId=contractFixtureUser&collectionName=words&p_tag=JLPT_N3&s_tag=verbs-1"
+ },
+ "response": {
+  "body": {
+   "words": []
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

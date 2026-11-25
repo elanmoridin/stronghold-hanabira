@@ -1,0 +1,58 @@
+{
+ "name": "d_kanji_食",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/kanji/%E9%A3%9F"
+ },
+ "response": {
+  "body": {
+   "frequency": "328",
+   "grade": "2",
+   "jlpt_level": "4",
+   "literal": "食",
+   "meanings": [
+    "eat",
+    "food"
+   ],
+   "radicals": [
+    {
+     "type": "classical",
+     "value": "184"
+    }
+   ],
+   "readings": [
+    {
+     "type": "ja_on",
+     "value": "ショク"
+    },
+    {
+     "type": "ja_on",
+     "value": "ジキ"
+    },
+    {
+     "type": "ja_kun",
+     "value": "く.う"
+    },
+    {
+     "type": "ja_kun",
+     "value": "く.らう"
+    },
+    {
+     "type": "ja_kun",
+     "value": "た.べる"
+    },
+    {
+     "type": "ja_kun",
+     "value": "は.む"
+    }
+   ],
+   "stroke_count": "9",
+   "unicode": "98df"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

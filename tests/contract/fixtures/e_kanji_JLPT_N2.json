@@ -1,0 +1,17 @@
+{
+ "name": "e_kanji_JLPT_N2",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/e-api/v1/kanji?p_tag=JLPT_N2"
+ },
+ "response": {
+  "body": {
+   "error": "Kanji data not found for the given parameters"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 404
+ }
+}

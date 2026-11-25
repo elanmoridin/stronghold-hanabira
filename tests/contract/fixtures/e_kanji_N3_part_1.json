@@ -1,0 +1,423 @@
+{
+ "name": "e_kanji_N3_part_1",
+ "note": "",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/e-api/v1/kanji?p_tag=JLPT_N3&s_tag=part_1"
+ },
+ "response": {
+  "body": [
+   {
+    "audio": "/audio/japanese/kanji/v_駐車.mp3",
+    "exampleReading": "ちゅうしゃ",
+    "exampleWord": "駐車",
+    "k_audio": "/audio/japanese/kanji/k_駐.mp3",
+    "kanji": "駐",
+    "p_tag": "JLPT_N3",
+    "reading": "チュウ",
+    "s_tag": "part_1",
+    "translation": "parking"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_満車.mp3",
+    "exampleReading": "まんしゃ",
+    "exampleWord": "満車",
+    "k_audio": "/audio/japanese/kanji/k_満.mp3",
+    "kanji": "満",
+    "p_tag": "JLPT_N3",
+    "reading": "マン",
+    "s_tag": "part_1",
+    "translation": "full of cars"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_禁止.mp3",
+    "exampleReading": "きんし",
+    "exampleWord": "禁止",
+    "k_audio": "/audio/japanese/kanji/k_禁.mp3",
+    "kanji": "禁",
+    "p_tag": "JLPT_N3",
+    "reading": "キン",
+    "s_tag": "part_1",
+    "translation": "prohibition"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_関心.mp3",
+    "exampleReading": "カンシン",
+    "exampleWord": "関心",
+    "k_audio": "/audio/japanese/kanji/k_関.mp3",
+    "kanji": "関",
+    "p_tag": "JLPT_N3",
+    "reading": "カン",
+    "s_tag": "part_1",
+    "translation": "interest"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_数式.mp3",
+    "exampleReading": "すうしき",
+    "exampleWord": "数式",
+    "k_audio": "/audio/japanese/kanji/k_式.mp3",
+    "kanji": "式",
+    "p_tag": "JLPT_N3",
+    "reading": "シキ",
+    "s_tag": "part_1",
+    "translation": "numerical formula"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_信用.mp3",
+    "exampleReading": "しんよう",
+    "exampleWord": "信用",
+    "k_audio": "/audio/japanese/kanji/k_信.mp3",
+    "kanji": "信",
+    "p_tag": "JLPT_N3",
+    "reading": "シン",
+    "s_tag": "part_1",
+    "translation": "trust"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_信号.mp3",
+    "exampleReading": "シンゴウ",
+    "exampleWord": "信号",
+    "k_audio": "/audio/japanese/kanji/k_号.mp3",
+    "kanji": "号",
+    "p_tag": "JLPT_N3",
+    "reading": "ゴウ",
+    "s_tag": "part_1",
+    "translation": "a signal, a traffic light"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_非常に.mp3",
+    "exampleReading": "ひじょうに",
+    "exampleWord": "非常に",
+    "k_audio": "/audio/japanese/kanji/k_非.mp3",
+    "kanji": "非",
+    "p_tag": "JLPT_N3",
+    "reading": "ヒ",
+    "s_tag": "part_1",
+    "translation": "extremely"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_正常.mp3",
+    "exampleReading": "せいじょうな",
+    "exampleWord": "正常",
+    "k_audio": "/audio/japanese/kanji/k_常.mp3",
+    "kanji": "常",
+    "p_tag": "JLPT_N3",
+    "reading": "ジョウ",
+    "s_tag": "part_1",
+    "translation": "normal"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_～階.mp3",
+    "exampleReading": "かい",
+    "exampleWord": "～階",
+    "k_audio": "/audio/japanese/kanji/k_階.mp3",
+    "kanji": "階",
+    "p_tag": "JLPT_N3",
+    "reading": "カイ",
+    "s_tag": "part_1",
+    "translation": "floor"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_階段.mp3",
+    "exampleReading": "かいだん",
+    "exampleWord": "階段",
+    "k_audio": "/audio/japanese/kanji/k_段.mp3",
+    "kanji": "段",
+    "p_tag": "JLPT_N3",
+    "reading": "(ダン)",
+    "s_tag": "part_1",
+    "translation": "stairs"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_箱.mp3",
+    "exampleReading": "はこ",
+    "exampleWord": "箱",
+    "k_audio": "/audio/japanese/kanji/k_箱.mp3",
+    "kanji": "箱",
+    "p_tag": "JLPT_N3",
+    "reading": "はこ",
+    "s_tag": "part_1",
+    "translation": "a box"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_危険.mp3",
+    "exampleReading": "きけんな",
+    "exampleWord": "危険",
+    "k_audio": "/audio/japanese/kanji/k_険.mp3",
+    "kanji": "険",
+    "p_tag": "JLPT_N3",
+    "reading": "ケン",
+    "s_tag": "part_1",
+    "translation": "danger"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_捨てる.mp3",
+    "exampleReading": "すてる",
+    "exampleWord": "捨てる",
+    "k_audio": "/audio/japanese/kanji/k_捨てる.mp3",
+    "kanji": "捨てる",
+    "p_tag": "JLPT_N3",
+    "reading": "すてる",
+    "s_tag": "part_1",
+    "translation": "to throw away"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_～番線.mp3",
+    "exampleReading": "ばんせん",
+    "exampleWord": "～番線",
+    "k_audio": "/audio/japanese/kanji/k_線.mp3",
+    "kanji": "線",
+    "p_tag": "JLPT_N3",
+    "reading": "セン",
+    "s_tag": "part_1",
+    "translation": "line (platform) number ..."
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_画面.mp3",
+    "exampleReading": "がめん",
+    "exampleWord": "画面",
+    "k_audio": "/audio/japanese/kanji/k_面.mp3",
+    "kanji": "面",
+    "p_tag": "JLPT_N3",
+    "reading": "メン",
+    "s_tag": "part_1",
+    "translation": "a screen"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_普通.mp3",
+    "exampleReading": "ふつうの",
+    "exampleWord": "普通",
+    "k_audio": "/audio/japanese/kanji/k_普.mp3",
+    "kanji": "普",
+    "p_tag": "JLPT_N3",
+    "reading": "フ",
+    "s_tag": "part_1",
+    "translation": "ordinary"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_各駅.mp3",
+    "exampleReading": "かくえき",
+    "exampleWord": "各駅",
+    "k_audio": "/audio/japanese/kanji/k_各.mp3",
+    "kanji": "各",
+    "p_tag": "JLPT_N3",
+    "reading": "カク",
+    "s_tag": "part_1",
+    "translation": "every station"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_快速.mp3",
+    "exampleReading": "かいそく",
+    "exampleWord": "快速",
+    "k_audio": "/audio/japanese/kanji/k_快.mp3",
+    "kanji": "快",
+    "p_tag": "JLPT_N3",
+    "reading": "カイ",
+    "s_tag": "part_1",
+    "translation": "high speed"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_鉄道.mp3",
+    "exampleReading": "てつどう",
+    "exampleWord": "鉄道",
+    "k_audio": "/audio/japanese/kanji/k_鉄.mp3",
+    "kanji": "鉄",
+    "p_tag": "JLPT_N3",
+    "reading": "テツ",
+    "s_tag": "part_1",
+    "translation": "a railway"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_安定.mp3",
+    "exampleReading": "あんてい",
+    "exampleWord": "安定",
+    "k_audio": "/audio/japanese/kanji/k_定.mp3",
+    "kanji": "定",
+    "p_tag": "JLPT_N3",
+    "reading": "テイ",
+    "s_tag": "part_1",
+    "translation": "stability"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_出席.mp3",
+    "exampleReading": "しゅっせき",
+    "exampleWord": "出席",
+    "k_audio": "/audio/japanese/kanji/k_席.mp3",
+    "kanji": "席",
+    "p_tag": "JLPT_N3",
+    "reading": "セキ",
+    "s_tag": "part_1",
+    "translation": "attendance"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_理由.mp3",
+    "exampleReading": "りゆう",
+    "exampleWord": "理由",
+    "k_audio": "/audio/japanese/kanji/k_由.mp3",
+    "kanji": "由",
+    "p_tag": "JLPT_N3",
+    "reading": "ユウ",
+    "s_tag": "part_1",
+    "translation": "a reason"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_番号.mp3",
+    "exampleReading": "ばんごう",
+    "exampleWord": "番号",
+    "k_audio": "/audio/japanese/kanji/k_番.mp3",
+    "kanji": "番",
+    "p_tag": "JLPT_N3",
+    "reading": "バン",
+    "s_tag": "part_1",
+    "translation": "a number"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_窓.mp3",
+    "exampleReading": "まど",
+    "exampleWord": "窓",
+    "k_audio": "/audio/japanese/kanji/k_窓.mp3",
+    "kanji": "窓",
+    "p_tag": "JLPT_N3",
+    "reading": "まど",
+    "s_tag": "part_1",
+    "translation": "a window"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_窓側.mp3",
+    "exampleReading": "まどがわ",
+    "exampleWord": "窓側",
+    "k_audio": "/audio/japanese/kanji/k_側.mp3",
+    "kanji": "側",
+    "p_tag": "JLPT_N3",
+    "reading": "かわ",
+    "s_tag": "part_1",
+    "translation": "the window side"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_道路.mp3",
+    "exampleReading": "どうろ",
+    "exampleWord": "道路",
+    "k_audio": "/audio/japanese/kanji/k_路.mp3",
+    "kanji": "路",
+    "p_tag": "JLPT_N3",
+    "reading": "ロ",
+    "s_tag": "part_1",
+    "translation": "a road"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_停車.mp3",
+    "exampleReading": "ていしゃ",
+    "exampleWord": "停車",
+    "k_audio": "/audio/japanese/kanji/k_停.mp3",
+    "kanji": "停",
+    "p_tag": "JLPT_N3",
+    "reading": "テイ",
+    "s_tag": "part_1",
+    "translation": "stopping of a vehicle"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_整理.mp3",
+    "exampleReading": "せいり",
+    "exampleWord": "整理",
+    "k_audio": "/audio/japanese/kanji/k_整.mp3",
+    "kanji": "整",
+    "p_tag": "JLPT_N3",
+    "reading": "セイ",
+    "s_tag": "part_1",
+    "translation": "arrangement"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_乗車券.mp3",
+    "exampleReading": "じょうしゃけん",
+    "exampleWord": "乗車券",
+    "k_audio": "/audio/japanese/kanji/k_券.mp3",
+    "kanji": "券",
+    "p_tag": "JLPT_N3",
+    "reading": "ケン",
+    "s_tag": "part_1",
+    "translation": "a (boarding) ticket"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_両親.mp3",
+    "exampleReading": "りょうしん",
+    "exampleWord": "両親",
+    "k_audio": "/audio/japanese/kanji/k_両.mp3",
+    "kanji": "両",
+    "p_tag": "JLPT_N3",
+    "reading": "リョウ",
+    "s_tag": "part_1",
+    "translation": "parents"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_取り替える.mp3",
+    "exampleReading": "とりかえる",
+    "exampleWord": "取り替える",
+    "k_audio": "/audio/japanese/kanji/k_替える.mp3",
+    "kanji": "替える",
+    "p_tag": "JLPT_N3",
+    "reading": "かえる",
+    "s_tag": "part_1",
+    "translation": "exchange (one thing for another)"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_未定.mp3",
+    "exampleReading": "みてい",
+    "exampleWord": "未定",
+    "k_audio": "/audio/japanese/kanji/k_未.mp3",
+    "kanji": "未",
+    "p_tag": "JLPT_N3",
+    "reading": "ミ",
+    "s_tag": "part_1",
+    "translation": "undecided"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_週末.mp3",
+    "exampleReading": "しゅうまつ",
+    "exampleWord": "週末",
+    "k_audio": "/audio/japanese/kanji/k_末.mp3",
+    "kanji": "末",
+    "p_tag": "JLPT_N3",
+    "reading": "マツ",
+    "s_tag": "part_1",
+    "translation": "the weekend"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_若い.mp3",
+    "exampleReading": "わかい",
+    "exampleWord": "若い",
+    "k_audio": "/audio/japanese/kanji/k_若い.mp3",
+    "kanji": "若い",
+    "p_tag": "JLPT_N3",
+    "reading": "わかい",
+    "s_tag": "part_1",
+    "translation": "young"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_毎晩.mp3",
+    "exampleReading": "まいばん",
+    "exampleWord": "毎晩",
+    "k_audio": "/audio/japanese/kanji/k_晩.mp3",
+    "kanji": "晩",
+    "p_tag": "JLPT_N3",
+    "reading": "バン",
+    "s_tag": "part_1",
+    "translation": "every night"
+   },
+   {
+    "audio": "/audio/japanese/kanji/v_灰皿.mp3",
+    "exampleReading": "はいざら",
+    "exampleWord": "灰皿",
+    "k_audio": "/audio/japanese/kanji/k_皿.mp3",
+    "kanji": "皿",
+    "p_tag": "JLPT_N3",
+    "reading": "さら",
+    "s_tag": "part_1",
+    "translation": "an ashtray"
+   }
+  ],
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "f_text-parser-words_nouser",
+ "note": "sentence-mining empty state (UI shows Loading... forever)",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/f-api/v1/text-parser-words?userId=contractFixtureUser&collectionName=vocabulary&p_tag=sentence_mining&s_tag=verbs-1"
+ },
+ "response": {
+  "body": {
+   "words": []
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

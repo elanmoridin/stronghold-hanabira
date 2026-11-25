@@ -1,0 +1,15 @@
+{
+ "name": "d_get-transcript_missing",
+ "note": "needs YouTube; error shape only",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/d-api/v1/get-transcript"
+ },
+ "response": {
+  "body": "Missing video URL parameter",
+  "content_type": "text/html",
+  "kind": "text",
+  "status": 400
+ }
+}

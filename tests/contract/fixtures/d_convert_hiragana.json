@@ -1,0 +1,20 @@
+{
+ "name": "d_convert_hiragana",
+ "note": "",
+ "request": {
+  "body": {
+   "text": "今日は学校に行きます。昨日、友達と寿司屋で晩ご飯を食べました。"
+  },
+  "method": "POST",
+  "path": "/d-api/v1/convert/hiragana"
+ },
+ "response": {
+  "body": {
+   "hiragana": "きょうはがっこうにいきます。きのう、ともだちとすしやでばんごはんをたべました。",
+   "original": "今日は学校に行きます。昨日、友達と寿司屋で晩ご飯を食べました。"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 200
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "f_streak_nouser",
+ "note": "expect 404 (no logins)",
+ "request": {
+  "body": null,
+  "method": "GET",
+  "path": "/f-api/v1/streak/contractFixtureUser"
+ },
+ "response": {
+  "body": {
+   "error": "No login records found for the specified user"
+  },
+  "content_type": "application/json",
+  "kind": "json",
+  "status": 404
+ }
+}
