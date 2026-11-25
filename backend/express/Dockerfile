@@ -1,5 +1,5 @@
 # Use the official Ubuntu 24.04 LTS as a base image
-FROM ubuntu:24.04
+FROM ubuntu:24.04@sha256:562111b88caa79c71391c0c4d3c2114a7d5c35915c20561fd893cb1e07929e6b
 
 # Set the environment variable to prevent interactive prompts during package installation
 ENV DEBIAN_FRONTEND=noninteractive
@@ -25,7 +25,10 @@ RUN echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-8.
 RUN apt-get update
 
 # Install the MongoDB packages
-RUN apt-get install -y mongodb-org
+# pinned: mongodb-org follows 8.0.x patch releases deliberately (bump here)
+RUN apt-get install -y mongodb-org=8.0.38 mongodb-org-database=8.0.38 mongodb-org-server=8.0.38 \
+    mongodb-org-mongos=8.0.38 mongodb-org-shell=8.0.38 mongodb-org-tools=8.0.38 \
+    mongodb-org-database-tools-extra=8.0.38
 
 # vanilla Mongo 7 by default expects this dir to be present
 # Create the default MongoDB data directory and ensure it's writable
@@ -39,9 +42,13 @@ RUN mkdir -p /var/log/mongodb && \
 
 # --- nodejs part --- #
 
-# official source of node 18, i found it manually
-RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
-RUN apt-get install -y nodejs
+# Node 22 LTS copied from the digest-pinned official image (was: nodesource setup_20.x | bash,
+# unpinned and piped to a root shell). bookworm glibc 2.36 binaries run fine on noble (2.39).
+COPY --from=node:22.23.5-bookworm-slim@sha256:be979e5523c76fa4d5ca4ebd3099078f220aa47ec39c48ad5b5df9314debd6eb /usr/local/bin/node /usr/local/bin/node
+COPY --from=node:22.23.5-bookworm-slim@sha256:be979e5523c76fa4d5ca4ebd3099078f220aa47ec39c48ad5b5df9314debd6eb /usr/local/lib/node_modules/npm /usr/local/lib/node_modules/npm
+RUN ln -s ../lib/node_modules/npm/bin/npm-cli.js /usr/local/bin/npm && \
+    ln -s ../lib/node_modules/npm/bin/npx-cli.js /usr/local/bin/npx && \
+    node --version && npm --version
     
 # Set working directory
 WORKDIR /app
@@ -49,8 +56,8 @@ WORKDIR /app
 # Copy package.json and package-lock.json
 COPY package*.json ./
     
-# Install app dependencies
-RUN npm install
+# Install app dependencies exactly as locked (kuroshiro is locked at 1.1.2)
+RUN npm ci --omit=dev --no-audit --no-fund
 
 
 # Copy the Express app files to the container

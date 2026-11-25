@@ -1,5 +1,5 @@
 # Use the official Ubuntu 24.04 LTS as a base image
-FROM ubuntu:24.04
+FROM ubuntu:24.04@sha256:562111b88caa79c71391c0c4d3c2114a7d5c35915c20561fd893cb1e07929e6b
 
 # Set the environment variable to prevent interactive prompts during package installation
 ENV DEBIAN_FRONTEND=noninteractive
@@ -25,7 +25,10 @@ RUN echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-8.
 RUN apt-get update
 
 # Install the MongoDB packages
-RUN apt-get install -y mongodb-org
+# pinned: mongodb-org follows 8.0.x patch releases deliberately (bump here)
+RUN apt-get install -y mongodb-org=8.0.38 mongodb-org-database=8.0.38 mongodb-org-server=8.0.38 \
+    mongodb-org-mongos=8.0.38 mongodb-org-shell=8.0.38 mongodb-org-tools=8.0.38 \
+    mongodb-org-database-tools-extra=8.0.38
 
 # vanilla Mongo 7 by default expects this dir to be present
 # Create the default MongoDB data directory and ensure it's writable
@@ -63,8 +66,8 @@ RUN python3 -m venv venv
 
 # Activate the virtual environment and install Python dependencies
 # It's necessary to use the full path to the pip inside the venv
-RUN ./venv/bin/pip install --upgrade pip && \
-    ./venv/bin/pip install -r requirements.txt
+# (no unpinned `pip install --upgrade pip`: noble's pip 24 is fine and keeps builds reproducible)
+RUN ./venv/bin/pip install --no-cache-dir -r requirements.txt
 
 # when we have API listener daemonized to interact with DB
 EXPOSE 5100
