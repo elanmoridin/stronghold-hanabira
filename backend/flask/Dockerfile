@@ -64,7 +64,7 @@ RUN python3 -m venv venv
 # Activate the virtual environment and install Python dependencies
 # It's necessary to use the full path to the pip inside the venv
 RUN ./venv/bin/pip install --upgrade pip && \
-    ./venv/bin/pip install flask flask-cors flask-pymongo requests pymongo gunicorn
+    ./venv/bin/pip install -r requirements.txt
 
 # when we have API listener daemonized to interact with DB
 EXPOSE 5100

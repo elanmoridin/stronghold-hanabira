@@ -1,0 +1,7 @@
+# pinned to what upstream v0.3.8 flask-dynamic-db image actually ran (pip freeze of the image layers)
+flask==3.1.0
+flask-cors==5.0.0
+flask-pymongo==2.3.0
+pymongo==4.10.1
+requests==2.32.3
+gunicorn==23.0.0
