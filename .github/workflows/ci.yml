@@ -1,0 +1,142 @@
+name: ci
+
+on:
+  push:
+    branches: [stronghold]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  NEXT_TELEMETRY_DISABLED: "1"
+
+jobs:
+  frontend:
+    runs-on: ubuntu-24.04
+    defaults:
+      run:
+        working-directory: frontend-next
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+          cache-dependency-path: frontend-next/package-lock.json
+      - run: npm ci --no-audit --no-fund
+      - run: npm run lint
+      # build first: it generates next-env.d.ts, which tsc needs for @public/* image imports
+      - run: npm run build
+      - run: npx tsc --noEmit -p .
+
+  node-backends:
+    runs-on: ubuntu-24.04
+    strategy:
+      fail-fast: false
+      matrix:
+        service: [express, dictionary]
+    defaults:
+      run:
+        working-directory: backend/${{ matrix.service }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+          cache-dependency-path: backend/${{ matrix.service }}/package-lock.json
+      - run: npm ci --ignore-scripts --no-audit --no-fund
+      - name: syntax check
+        run: find . -name '*.js' -not -path './node_modules/*' -print0 | xargs -0 -n1 node --check
+
+  flask:
+    runs-on: ubuntu-24.04
+    defaults:
+      run:
+        working-directory: backend/flask
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt pip-audit
+      - run: python -m compileall -q .
+      # Report-only until Phase 2: upstream's pymongo/requests pins carry known CVEs.
+      - name: pip-audit
+        continue-on-error: true
+        run: pip-audit -r requirements.txt | tee -a "$GITHUB_STEP_SUMMARY"
+
+  # Report-only until Phase 2 dependency work: upstream ships with known criticals.
+  npm-audit:
+    runs-on: ubuntu-24.04
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        dir: [frontend-next, backend/express, backend/dictionary]
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version-file: .nvmrc
+      - name: npm audit (prod deps)
+        working-directory: ${{ matrix.dir }}
+        run: |
+          npm audit --omit=dev --audit-level=critical | tee audit.txt
+          { echo "### npm audit: ${{ matrix.dir }}"; echo '```'; tail -n 5 audit.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
+  docker-build:
+    runs-on: ubuntu-24.04
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: frontend-next
+            context: frontend-next
+          - name: express-db
+            context: backend/express
+          - name: flask-dynamic-db
+            context: backend/flask
+          - name: dictionary-db
+            context: backend/dictionary
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: docker/setup-buildx-action@f87e5991a6d7451dcb8d9637bfbc97413f497069 # v4.4.1
+      - uses: docker/build-push-action@c3c9e263c25d99ce0380d002d59b67737d91b0dc # v7.4.0
+        with:
+          context: ${{ matrix.context }}
+          push: false
+          cache-from: type=gha,scope=${{ matrix.name }}
+          cache-to: type=gha,mode=max,scope=${{ matrix.name }}
+
+  contract:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: free disk (images are ~10 GB)
+        run: sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL && df -h /
+      - name: start stack
+        run: docker compose -f tests/contract/compose.ci.yaml up -d --quiet-pull
+      - name: wait for seeding (servers listen only after their seeders finish)
+        run: |
+          for i in $(seq 1 180); do
+            d=$(curl -s -o /dev/null -w '%{http_code}' 'http://localhost:8888/d-api/v1/kanji/%E7%8C%AB' || true)
+            e=$(curl -s -o /dev/null -w '%{http_code}' 'http://localhost:8888/e-api/v1/grammar-titles?p_tag=JLPT_N5' || true)
+            f=$(curl -s -o /dev/null -w '%{http_code}' 'http://localhost:8888/f-api/v1/streak/ci-probe' || true)
+            echo "try $i: d=$d e=$e f=$f"
+            if [ "$d" = 200 ] && [ "$e" = 200 ] && [ "$f" = 404 ]; then sleep 20; exit 0; fi
+            sleep 10
+          done
+          exit 1
+      - name: verify contract (82 fixtures + 500-sentence corpus)
+        run: HANABIRA_BASE=http://localhost:8888 python3 tests/contract/verify.py
+      - name: logs on failure
+        if: failure()
+        run: docker compose -f tests/contract/compose.ci.yaml logs --tail=200
