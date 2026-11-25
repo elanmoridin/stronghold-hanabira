@@ -1,3 +1,4 @@
+import Link from "next/link";
 // 'use client';
 
 import SocialShare from "./SocialShare";
@@ -28,12 +29,12 @@ const FeaturesBanner: React.FC = () => {
         </p>
         <p>
           <span className="block sm:inline">List of all Hanabira features</span>{" "}
-          <a
+          <Link
             href="/"
             className="underline font-semibold hover:text-blue-600 transition-colors"
           >
             Check here.
-          </a>
+          </Link>
         </p>
       </div>
 

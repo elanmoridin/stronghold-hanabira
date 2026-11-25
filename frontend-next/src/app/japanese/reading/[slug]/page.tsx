@@ -1,4 +1,5 @@
 "use client";
+import { use } from "react";
 
 import useSWR from "swr";
 
@@ -28,7 +29,8 @@ interface ReadingData {
 
 
 
-export default function ReadingPage( { params }: { params: {slug: string} }) {  
+export default function ReadingPage(props: { params: Promise<{slug: string}> }) {
+  const params = use(props.params);
   // here we can get the params from page uri and then call api accordingly
 
   // call with URI like
@@ -44,15 +46,15 @@ export default function ReadingPage( { params }: { params: {slug: string} }) {
 
 
   //const apiUrl = "http://localhost:8000/e-api/v1/reading?key=reading_1";
-////////////  const apiUrl = `http://localhost:8000/e-api/v1/reading?key=${params.slug}`;
+  ////////////  const apiUrl = `http://localhost:8000/e-api/v1/reading?key=${params.slug}`;
 
 
- let apiUrl;
- if (process.env.REACT_APP_HOST_IP) {
-   apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/reading?key=${params.slug}`;
- } else {
-   apiUrl = `/e-api/v1/reading?key=${params.slug}`;
- }
+  let apiUrl;
+  if (process.env.REACT_APP_HOST_IP) {
+    apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/reading?key=${params.slug}`;
+  } else {
+    apiUrl = `/e-api/v1/reading?key=${params.slug}`;
+  }
 
 
 
