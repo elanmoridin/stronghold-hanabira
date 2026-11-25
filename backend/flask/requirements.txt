@@ -1,7 +1,9 @@
-# pinned to what upstream v0.3.8 flask-dynamic-db image actually ran (pip freeze of the image layers)
-flask==3.1.0
-flask-cors==5.0.0
+# Phase 2 security bumps (pip-audit clean 2026-11-25). Was the v0.3.8 freeze:
+# flask 3.1.0, flask-cors 5.0.0, pymongo 4.10.1, requests 2.32.3, gunicorn 23.0.0.
+# flask-pymongo stays on 2.x (3.0 changes the init API; backend is replaced in Phase 4).
+flask==3.1.3
+flask-cors==6.0.5
 flask-pymongo==2.3.0
-pymongo==4.10.1
-requests==2.32.3
-gunicorn==23.0.0
+pymongo==4.20.2
+requests==2.34.2
+gunicorn==27.0.1
