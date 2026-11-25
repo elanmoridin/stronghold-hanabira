@@ -70,7 +70,12 @@ jobs:
       # Report-only until Phase 2: upstream's pymongo/requests pins carry known CVEs.
       - name: pip-audit
         continue-on-error: true
-        run: pip-audit -r requirements.txt | tee -a "$GITHUB_STEP_SUMMARY"
+        run: |
+          rc=0
+          pip-audit -r requirements.txt > audit.txt || rc=$?
+          cat audit.txt
+          { echo "### pip-audit: backend/flask"; echo '```'; cat audit.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          exit "$rc"
 
   # Report-only until Phase 2 dependency work: upstream ships with known criticals.
   npm-audit:
@@ -88,8 +93,11 @@ jobs:
       - name: npm audit (prod deps)
         working-directory: ${{ matrix.dir }}
         run: |
-          npm audit --omit=dev --audit-level=critical | tee audit.txt
+          rc=0
+          npm audit --omit=dev --audit-level=critical > audit.txt || rc=$?
+          cat audit.txt
           { echo "### npm audit: ${{ matrix.dir }}"; echo '```'; tail -n 5 audit.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          exit "$rc"
 
   docker-build:
     runs-on: ubuntu-24.04
