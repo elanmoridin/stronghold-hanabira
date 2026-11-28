@@ -1,47 +1,38 @@
-//'use client';    // SSR is quadrupling data in docker-compose for some reason
+"use client"; // static export: data must be fetched in the browser, not at build time
 
 import MySpeakerWaveIcon from "./MySpeakerWaveIcon";
-import { Fragment } from "react";
+import { Fragment, useEffect, useState } from "react";
+
+import { E_API } from "@/lib/api";
 
 interface Props {
   p_dashboardId: string;
   s_dashboardId: string;
 }
 
-const Rows: React.FC<Props> = async ({ p_dashboardId, s_dashboardId }) => {
+const Rows: React.FC<Props> = ({ p_dashboardId, s_dashboardId }) => {
   // --- fetch data from backend API ---
-  const pTag = p_dashboardId;
-  const sTag = s_dashboardId;
+  const [data, setData] = useState<any[]>([]);
 
-  let apiUrl;
-  if (process.env.REACT_APP_HOST_IP) {
-    apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/words?p_tag=${pTag}&s_tag=${sTag}`;
-  } else {
-    apiUrl = `http://localhost:8000/e-api/v1/words?p_tag=${pTag}&s_tag=${sTag}`;
-  }
+  useEffect(() => {
+    const pTag = p_dashboardId;
+    const sTag = s_dashboardId;
 
+    // Relative path: static export served from the same origin,
+    // nginx proxies /e-api/v1 to the e-api backend.
+    const apiUrl = `${E_API}/words?p_tag=${pTag}&s_tag=${sTag}`;
 
-  // let apiUrl;
+    async function fetchData() {
+      console.log(apiUrl);
+      //const response = await fetch(apiUrl, {next: {revalidate: 60}});             // force caching is bugged, shows many duplicates, revalidation also bugged
+      const response = await fetch(apiUrl, { cache: "no-store" }); // force caching is bugged, shows many duplicates
+      const data_payload = await response.json();
+      setData(data_payload.words);
+    }
 
-  // // Determine the environment (dev or prod) to set the correct host
-  // const env = process.env.APP_ENV || "dev"; // Defaults to "dev" if not set
-  // const host = env === "prod" ? "express-db" : "localhost";
-  
-  // // Build the API URL
-  // apiUrl = `http://${host}:8000/e-api/v1/words?p_tag=${pTag}&s_tag=${sTag}`;
-  
+    fetchData().catch((err) => console.error("Error fetching words:", err));
+  }, [p_dashboardId, s_dashboardId]);
 
-
-
-
-
-
-
-  console.log(apiUrl);
-  //const response = await fetch(apiUrl, {next: {revalidate: 60}});             // force caching is bugged, shows many duplicates, revalidation also bugged
-  const response = await fetch(apiUrl, { cache: "no-store" }); // force caching is bugged, shows many duplicates
-  const data_payload = await response.json();
-  const data = await data_payload.words;
 
   // IDEAL FOR PROD,
   // shows max 2 sentences on small screens,

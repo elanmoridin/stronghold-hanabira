@@ -18,6 +18,8 @@ import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
 import axios from "axios";
 
+import { E_API } from "@/lib/api";
+
 type GrammarCardProps = {
   _id: any;
   title: string;
@@ -51,22 +53,9 @@ const GrammarDashboard = (
 
   useEffect(() => {
     async function fetchData() {
-      console.log('##############################################   ENV VARS   #######################################################')
-      console.log('process.env.REACT_APP_HOST_IP')
-      console.log(process.env.REACT_APP_HOST_IP)
-
-      // hmm, looks like the process.env vars get propagated only to SSR components, this is client rendered
-      // and env IP has not propagated at all, hence component thinks it is on localhost VM
-      // plus call to localhost from hanabira gets blocked by CORS
-
-      let apiUrl;
-      if (process.env.REACT_APP_HOST_IP) {
-        apiUrl = `http://${process.env.REACT_APP_HOST_IP}/e-api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`;
-      } else {
-        //apiUrl = `http://localhost:7000/e-api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`;     // works well on localhost VM
-        //apiUrl = `https://hanabira.org/e-api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`;
-        apiUrl = `/e-api/v1/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`;      // works well on remote server
-      }
+      // Relative path: the UI is a static export served from the same origin,
+      // nginx proxies /e-api/v1 to the e-api backend.
+      const apiUrl = `${E_API}/grammars?p_tag=${p_dashboardId}&s_tag=${s_dashboardId}`;
 
       console.log(apiUrl)
 

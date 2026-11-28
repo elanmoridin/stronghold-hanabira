@@ -7,6 +7,8 @@ import Link from "next/link";
 import React from "react";
 import { useState, useEffect } from "react";
 
+import { E_API } from "@/lib/api";
+
 
 // export default function Home() {
 
@@ -1011,22 +1013,9 @@ const KanjiTable: React.FC<KanjiTableProps> = ({ p_tag, s_tag }) => {
 
       setLoading(true);
       try {
-        console.log(
-          "##################################  ENV VARS  #######################################"
-        );
-        console.log(process.env.REACT_APP_HOST_IP);
-
-        const host = "localhost";
-        const port = 8000;
-
-        let apiUrl;
-        //If REACT_APP_HOST_IP is defined, use it. Otherwise default to localhost:8000 for VM
-        if (process.env.REACT_APP_HOST_IP) {
-          apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/tanos_words?p_tag=${p_tag}&s_tag=${s_tag}`;
-        } else {
-          //apiUrl = `http://${host}:${port}/e-api/v1/tanos_words?p_tag=${p_tag}&s_tag=${s_tag}`;
-          apiUrl = `/e-api/v1/tanos_words?p_tag=${p_tag}&s_tag=${s_tag}`;     // use for client component
-        }
+        // Relative path: static export served from the same origin,
+        // nginx proxies /e-api/v1 to the e-api backend.
+        const apiUrl = `${E_API}/tanos_words?p_tag=${p_tag}&s_tag=${s_tag}`;
 
 
         //apiUrl = `localhost:8000/e-api/v1/tanos_words?p_tag=${p_tag}&s_tag=${s_tag}`;
