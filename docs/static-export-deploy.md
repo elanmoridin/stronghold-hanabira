@@ -15,14 +15,15 @@ npx next build                # emits out/ (~4,030 pages, ~313 MB)
 ## Deploy to Tower
 
 Copy the **contents** of `frontend-next/out/` to `/mnt/user/appdata/hanabira/static`
-so that `index.html` sits directly inside that directory, then deploy the
-`hanabira` stack in Dockhand. The UI is served on port 8888 (and via TSDProxy as
-`hanabira`).
+so that `index.html` sits directly inside that directory, and `deploy/nginx.conf`
+to `/mnt/user/appdata/hanabira/nginx.conf`. Then deploy the `hanabira` stack in
+Dockhand. The UI is served on port 8888 (and via TSDProxy as `hanabira`).
 
 Example (from a checkout of this repo):
 
 ```bash
 rsync -a --delete frontend-next/out/ <tower>:/mnt/user/appdata/hanabira/static/
+scp deploy/nginx.conf <tower>:/mnt/user/appdata/hanabira/nginx.conf
 ```
 
 ## Smoke test (no Tower needed)
