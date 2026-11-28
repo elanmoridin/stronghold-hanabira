@@ -1,65 +1,74 @@
+"use client";
+
 // pages/GrammarPoint.tsx
 
-import { Metadata } from "next";
 import MarkdownContent from "@/components-markdown/MarkdownContent";
 import FeaturesBanner from "@/components/FeaturesBanner";
 import GrammarBreadcrumb from "@/components/GrammarBreadcrumb";
-//import GrammarExplanations from "@/components/GrammarExplanations";
+import PlayAudioButton from "@/components/PlayAudioButton";
+import { E_API } from "@/lib/api";
+import { use, useEffect, useState } from "react";
 
 type GrammarPointProps = {
   params: Promise<{ slug: string }>;
 };
 
-// Generate dynamic metadata
-export async function generateMetadata(props: GrammarPointProps): Promise<Metadata> {
-  const params = await props.params;
+type Example = {
+  kr: string;
+  romaji: string;
+  en: string;
+  grammar_audio: string;
+};
+
+type GrammarDetails = {
+  title: string;
+  short_explanation: string;
+  formation: string;
+  examples: Example[];
+  long_explanation: string;
+};
+
+export default function GrammarPoint(props: GrammarPointProps) {
+  const params = use(props.params);
   const decodedTitle = params.slug ? decodeURIComponent(params.slug) : "";
 
-  return {
-    title: `Korean Grammar Point: ${decodedTitle}`,
-    description: `Learn about Korean grammar point "${decodedTitle}". This page provides a detailed explanation, examples, and usage.`,
-  };
-}
+  const [grammarDetails, setGrammarDetails] = useState<GrammarDetails | null>(
+    null
+  );
+  const [loading, setLoading] = useState(true);
 
-export default async function GrammarPoint(props: GrammarPointProps) {
-  const params = await props.params;
-  const decodedTitle = params.slug ? decodeURIComponent(params.slug) : "";
+  useEffect(() => {
+    //const payload = { title: decodedTitle };
+    const payload = { title: decodedTitle.replace(/-/g, "/") };
+    // korean has lots of slashes but these are in uri converted to dash
+    // so we need to revert in call to DB, so we can find the titles with slashes
 
-  console.log(`tshoot log:`)
-  console.log(decodedTitle)
-
-
-  const apiUrl = process.env.REACT_APP_HOST_IP
-    ? `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/korean/grammar-details`
-    : `http://localhost:8000/e-api/v1/korean/grammar-details`;
-
-  //const payload = { title: decodedTitle };
-  const payload = { title: decodedTitle.replace(/-/g, "/") };
-  // korean has lots of slashes but these are in uri converted to dash
-  // so we need to revert in call to DB, so we can find the titles with slashes
-  //const payload = { title: '이/가 [i/ga] (Subject markers)' };
-
-
-
-  console.log(`tshoot log payload:`)
-  console.log(payload)
-
-
-  const res = await fetch(apiUrl, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify(payload),
-  });
-
-  if (!res.ok) {
-    // Handle error appropriately
-    throw new Error("Failed to fetch grammar details");
-  }
-
-  const data = await res.json();
-  const grammarDetails = data.grammar;
+    fetch(`${E_API}/korean/grammar-details`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(payload),
+    })
+      .then((res) => {
+        if (!res.ok) {
+          // Handle error appropriately
+          throw new Error("Failed to fetch grammar details");
+        }
+        return res.json();
+      })
+      .then((data) => {
+        setGrammarDetails(data.grammar ?? null);
+      })
+      .catch((error) => {
+        console.error("Error fetching grammar details:", error);
+        setGrammarDetails(null);
+      })
+      .finally(() => {
+        setLoading(false);
+      });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [decodedTitle]);
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -74,7 +83,9 @@ export default async function GrammarPoint(props: GrammarPointProps) {
             <span className="text-blue-600">{decodedTitle}</span>
           </h1> */}
 
-          {grammarDetails ? (
+          {loading ? (
+            <p className="text-center text-gray-500">Loading...</p>
+          ) : grammarDetails ? (
             <>
               <GrammarExplanations grammarDetails={grammarDetails} />
 
@@ -99,23 +110,6 @@ export default async function GrammarPoint(props: GrammarPointProps) {
 
 // ----------------
 // components/GrammarExplanations.tsx
-
-import PlayAudioButton from "@/components/PlayAudioButton";
-
-type Example = {
-  kr: string;
-  romaji: string;
-  en: string;
-  grammar_audio: string;
-};
-
-type GrammarDetails = {
-  title: string;
-  short_explanation: string;
-  formation: string;
-  examples: Example[];
-  long_explanation: string;
-};
 
 type GrammarExplanationsProps = {
   grammarDetails: GrammarDetails;

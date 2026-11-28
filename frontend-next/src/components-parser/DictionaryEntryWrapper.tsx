@@ -2,6 +2,8 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 
+import { D_API } from '@/lib/api';
+
 interface DictionaryEntryWrapperProps {
   searchString: string;
 }
@@ -25,7 +27,7 @@ const DictionaryEntryWrapper: React.FC<DictionaryEntryWrapperProps> = ({ searchS
 
       try {
         const encodedWord = encodeURIComponent(searchString);
-        const response = await fetch(`http://localhost:5200/vocabulary/${encodedWord}`);
+        const response = await fetch(`${D_API}/vocabulary/${encodedWord}`);
         console.log("Response received:", response.status, response.statusText);
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);

@@ -4,6 +4,8 @@ import Link from "next/link";
 import React from "react";
 import { useState, useEffect } from "react";
 
+import { E_API } from "@/lib/api";
+
 //http://localhost:3000/japanese/kanji_overview
 
 // pages/index.js
@@ -133,26 +135,9 @@ export default function Home() {
 
         setLoading(true);
         try {
-          console.log(
-            "##################################  ENV VARS  #######################################"
-          );
-          console.log(process.env.REACT_APP_HOST_IP);
-
-          //const host = "localhost";
-          const port = 8000;
-
-
-          // NOTE: process.env propagates to client components only when we prefix our vars as 
-          // - NEXT_PUBLIC_XXXX=${API_URL}
-
-          let apiUrl;
-          // If REACT_APP_HOST_IP is defined, use it. Otherwise default to localhost:7000 for VM
-          if (process.env.REACT_APP_HOST_IP) {
-            apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/kanji?p_tag=${p_tag}`;
-          } else {
-            //apiUrl = `http://${host}:${port}/e-api/v1/kanji?p_tag=${p_tag}`;
-            apiUrl = `/e-api/v1/kanji?p_tag=${p_tag}`;   // use for client components
-          }
+          // Relative path: static export served from the same origin,
+          // nginx proxies /e-api/v1 to the e-api backend.
+          const apiUrl = `${E_API}/kanji?p_tag=${p_tag}`;
 
           const response = await fetch(`${apiUrl}`);
           if (!response.ok) {

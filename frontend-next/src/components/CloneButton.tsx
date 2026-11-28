@@ -1,5 +1,7 @@
 import React from 'react';
 
+import { F_API } from '@/lib/api';
+
 interface CloneButtonProps {
   collection: string;
   level: string;
@@ -22,7 +24,7 @@ const CloneButton: React.FC<CloneButtonProps> = ({collection, level, userId }) =
     // let url = `${baseUrl}/f-api/v1/`;
 
 
-    let url = `/f-api/v1/`;
+    let url = `${F_API}/`;
 
     switch (collection) {
       case 'kanji':

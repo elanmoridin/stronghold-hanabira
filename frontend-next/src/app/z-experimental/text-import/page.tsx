@@ -4,39 +4,27 @@
 
 import { useState, FormEvent } from 'react';
 
-type ApiResponse = {
-  content?: string;
-  error?: string;
-};
+const IMPORT_DISABLED_NOTICE =
+  'URL import is temporarily disabled while the backend is being rebuilt';
 
 export default function ImportArticlePage() {
   const [url, setUrl] = useState<string>('');
   const [content, setContent] = useState<string>('');
   const [error, setError] = useState<string>('');
 
-  const handleSubmit = async (e: FormEvent) => {
+  const handleSubmit = (e: FormEvent) => {
     e.preventDefault();
     setError('');
     setContent('');
-
-    try {
-      const response = await fetch(`/api/fetch-content?url=${encodeURIComponent(url)}`);
-      const data: ApiResponse = await response.json();
-
-      if (response.ok) {
-        setContent(data.content || '');
-      } else {
-        setError(data.error || 'Failed to fetch content');
-      }
-    } catch (error) {
-      setError('An error occurred. Please try again.');
-      console.error('Error:', error);
-    }
+    // The /api/fetch-content route handler was removed: route handlers are
+    // not available in a static export. Show a notice instead of fetching.
+    setError(IMPORT_DISABLED_NOTICE);
   };
 
   return (
     <div>
       <h1>Import Article (Japanese)</h1>
+      <p style={{ color: '#a16207' }}>{IMPORT_DISABLED_NOTICE}.</p>
       <form onSubmit={handleSubmit}>
         <label>
           Enter URL:

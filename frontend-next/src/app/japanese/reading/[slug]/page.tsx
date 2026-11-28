@@ -5,6 +5,8 @@ import useSWR from "swr";
 
 import ReadingComponent from "@/components/ReadingComponent";
 
+import { E_API } from "@/lib/api";
+
 interface SentenceData {
   japanese: string;
   romanization: string;
@@ -49,12 +51,7 @@ export default function ReadingPage(props: { params: Promise<{slug: string}> }) 
   ////////////  const apiUrl = `http://localhost:8000/e-api/v1/reading?key=${params.slug}`;
 
 
-  let apiUrl;
-  if (process.env.REACT_APP_HOST_IP) {
-    apiUrl = `http://${process.env.REACT_APP_HOST_IP}:8000/e-api/v1/reading?key=${params.slug}`;
-  } else {
-    apiUrl = `/e-api/v1/reading?key=${params.slug}`;
-  }
+  const apiUrl = `${E_API}/reading?key=${params.slug}`;
 
 
 

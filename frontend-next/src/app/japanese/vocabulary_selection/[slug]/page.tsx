@@ -3,6 +3,8 @@ import Image, { StaticImageData } from "next/image";
 
 import DashboardCardsWithHeader from "@/components/DashboardCardsWithHeader";
 
+import staticParams from "@/lib/static-params.json";
+
 import jlpt_universal_01 from "@public/img/jlpt_universal_01.jpg";
 import jlpt_universal_02 from "@public/img/jlpt_universal_02.jpg";
 import jlpt_universal_03 from "@public/img/jlpt_universal_03.jpg";
@@ -17,6 +19,10 @@ import jlpt_universal_11 from "@public/img/jlpt_universal_11.jpg";
 import jlpt_universal_12 from "@public/img/jlpt_universal_12.jpg";
 import jlpt_universal_13 from "@public/img/jlpt_universal_13.jpg";
 import jlpt_universal_14 from "@public/img/jlpt_universal_14.jpg";
+
+export function generateStaticParams() {
+  return staticParams.vocabulary_selection_slugs.map((slug) => ({ slug }));
+}
 
 export default async function Dashboard(props: { params: Promise<{ slug: string }> }) {
   const params = await props.params;
