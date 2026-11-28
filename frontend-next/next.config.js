@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
-//const nextConfig = {basePath: '/grammarpoint',}
-const nextConfig = {}
+const nextConfig = {
+  output: 'export',
+  images: { unoptimized: true },
+}
 
 module.exports = nextConfig
 
